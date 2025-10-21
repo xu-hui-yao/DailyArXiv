@@ -13,16 +13,45 @@ from easydict import EasyDict
 def remove_duplicated_spaces(text: str) -> str:
     return " ".join(text.split())
 
-def request_paper_with_arXiv_api(keyword: str, max_results: int, link: str = "OR") -> List[Dict[str, str]]:
-    # keyword = keyword.replace(" ", "+")
-    assert link in ["OR", "AND"], "link should be 'OR' or 'AND'"
-    keyword = "\"" + keyword + "\""
-    url = "http://export.arxiv.org/api/query?search_query=ti:{0}+{2}+abs:{0}&max_results={1}&sortBy=lastUpdatedDate".format(keyword, max_results, link)
-    url = urllib.parse.quote(url, safe="%/:=&?~#+!$,;'@()*[]")
+def request_paper_with_arXiv_api(keyword: str, max_results: int) -> List[Dict[str, str]]:
+    """
+        修改后的函数，支持多种关键词格式：
+        1. 字符串：单个关键词
+        2. 元组：(must_terms, any_terms) - 必须出现的术语和可选术语
+        3. 字典：{'must': [...], 'any': [...]} - 必须出现的术语和可选术语
+        """
+    # 构建查询语句
+    if isinstance(keyword, str):
+        # 单个关键词查询
+        if " " in keyword:
+            query = f'abs:"{keyword}"'
+        else:
+            query = f'abs:{keyword}'
+    elif isinstance(keyword, (tuple, list)) and len(keyword) == 2:
+        # 元组格式：(must_terms, any_terms)
+        must_terms, any_terms = keyword
+        query = build_complex_query(must_terms, any_terms)
+    elif isinstance(keyword, dict):
+        # 字典格式：{'must': [...], 'any': [...]}
+        must_terms = keyword.get('must', [])
+        any_terms = keyword.get('any', [])
+        query = build_complex_query(must_terms, any_terms)
+    else:
+        raise ValueError("Unsupported keyword format. Use str, tuple, or dict.")
+
+    # 构建 URL
+    base_url = "http://export.arxiv.org/api/query?"
+    params = {
+        "search_query": query,
+        "max_results": max_results,
+        "sortBy": "lastUpdatedDate"
+    }
+    url = base_url + urllib.parse.urlencode(params)
+
+    # 发送请求并解析
     response = urllib.request.urlopen(url).read().decode('utf-8')
     feed = feedparser.parse(response)
-
-    # NOTE default columns: Title, Authors, Abstract, Link, Tags, Comment, Date
+    # 解析结果（保持不变）
     papers = []
     for entry in feed.entries:
         entry = EasyDict(entry)
@@ -46,6 +75,32 @@ def request_paper_with_arXiv_api(keyword: str, max_results: int, link: str = "OR
         papers.append(paper)
     return papers
 
+
+def build_complex_query(must_terms: list, any_terms: list) -> str:
+    """构建复杂查询语句"""
+    query_parts = []
+
+    # 处理必须出现的术语
+    for term in must_terms:
+        if " " in term:
+            query_parts.append(f'abs:"{term}"')
+        else:
+            query_parts.append(f'abs:{term}')
+
+    # 处理可选出现的术语
+    if any_terms:
+        any_query = []
+        for term in any_terms:
+            if " " in term:
+                any_query.append(f'abs:"{term}"')
+            else:
+                any_query.append(f'abs:{term}')
+        query_parts.append("(" + " OR ".join(any_query) + ")")
+
+    # 组合完整查询
+    return " AND ".join(query_parts)
+
+
 def filter_tags(papers: List[Dict[str, str]], target_fileds: List[str]=["cs", "stat"]) -> List[Dict[str, str]]:
     # filtering tags: only keep the papers in target_fileds
     results = []
@@ -57,23 +112,17 @@ def filter_tags(papers: List[Dict[str, str]], target_fileds: List[str]=["cs", "s
                 break
     return results
 
-def get_daily_papers_by_keyword_with_retries(keyword: str, column_names: List[str], max_result: int, link: str = "OR", retries: int = 6) -> List[Dict[str, str]]:
+def get_daily_papers_by_keyword_with_retries(keyword, column_names: List[str], max_result: int, retries: int = 6) -> List[Dict[str, str]]:
     for _ in range(retries):
-        papers = get_daily_papers_by_keyword(keyword, column_names, max_result, link)
-        if len(papers) > 0: return papers
-        else:
-            print("Unexpected empty list, retrying...")
-            time.sleep(60 * 30) # wait for 30 minutes
-    # failed
+        papers = get_daily_papers_by_keyword(keyword, column_names, max_result)
+        if len(papers) > 0:
+            return papers
+        print("Unexpected empty list, retrying...")
     return None
 
-def get_daily_papers_by_keyword(keyword: str, column_names: List[str], max_result: int, link: str = "OR") -> List[Dict[str, str]]:
-    # get papers
-    papers = request_paper_with_arXiv_api(keyword, max_result, link) # NOTE default columns: Title, Authors, Abstract, Link, Tags, Comment, Date
-    # NOTE filtering tags: only keep the papers in cs field
-    # TODO filtering more
+def get_daily_papers_by_keyword(keyword, column_names: List[str], max_result: int) -> List[Dict[str, str]]:
+    papers = request_paper_with_arXiv_api(keyword, max_result)
     papers = filter_tags(papers)
-    # select columns for display
     papers = [{column_name: paper[column_name] for column_name in column_names} for paper in papers]
     return papers
 

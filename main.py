@@ -8,24 +8,49 @@ from utils import get_daily_papers_by_keyword_with_retries, generate_table, back
 
 
 beijing_timezone = pytz.timezone('Asia/Shanghai')
-
 # NOTE: arXiv API seems to sometimes return an unexpected empty list.
-
 # get current beijing time date in the format of "2021-08-01"
 current_date = datetime.now(beijing_timezone).strftime("%Y-%m-%d")
-# get last update date from README.md
-with open("README.md", "r") as f:
-    while True:
-        line = f.readline()
-        if "Last update:" in line: break
-    last_update_date = line.split(": ")[1].strip()
-    # if last_update_date == current_date:
-        # sys.exit("Already updated today!")
+# 初始化最后更新日期
+last_update_date = None
+# 安全地获取最后更新日期
+try:
+    with open("README.md", "r") as f:
+        for line in f:
+            if "Last update:" in line:
+                last_update_date = line.split(": ")[1].strip()
+                break
+except FileNotFoundError:
+    print("README.md not found, proceeding with update...")
+    last_update_date = None
+# 检查是否需要更新
+if last_update_date == current_date:
+    sys.exit("Already updated today!")
+# 如果找不到最后更新日期，继续执行更新
+if last_update_date is None:
+    print("Warning: Last update date not found in README.md. Proceeding with update...")
 
-keywords = ["Reconstruction", "3D Gaussian", "Large Scene"] # TODO add more keywords
+keywords = [
+    # 简单关键词查询
+    # "LOD",
+    # "3D Gaussian Splatting",
+    # "Large-scale",
 
-max_result = 100 # maximum query results from arXiv API for each keyword
-issues_result = 15 # maximum papers to be included in the issue
+    # 复杂查询：必须包含"3D Gaussian Splatting"，且包含"LOD"或"Large-scale"中的一个
+    {
+        'must': ["3D Gaussian Splatting"],
+        'any': ["LOD", "Large-scale"]
+    },
+
+    # 另一个复杂查询示例：必须包含"NeRF"和"3D"，且包含"reconstruction"或"rendering"中的一个
+    # {
+    #     'must': ["NeRF", "3D"],
+    #     'any': ["reconstruction", "rendering"]
+    # }
+]
+
+max_result = 1000 # maximum query results from arXiv API for each keyword
+issues_result = 150 # maximum papers to be included in the issue
 
 # all columns: Title, Authors, Abstract, Link, Tags, Comment, Date
 # fixed_columns = ["Title", "Link", "Date"]
@@ -48,11 +73,21 @@ f_is.write("---\n")
 f_is.write("**Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**\n\n")
 
 for keyword in keywords:
-    f_rm.write("## {0}\n".format(keyword))
-    f_is.write("## {0}\n".format(keyword))
-    if len(keyword.split()) == 1: link = "AND" # for keyword with only one word, We search for papers containing this keyword in both the title and abstract.
-    else: link = "OR"
-    papers = get_daily_papers_by_keyword_with_retries(keyword, column_names, max_result, link)
+    # 格式化关键词用于标题显示
+    if isinstance(keyword, dict):
+        title = "Must: " + ", ".join(keyword['must'])
+        if keyword.get('any'):
+            title += "; Any: " + ", ".join(keyword['any'])
+    elif isinstance(keyword, tuple):
+        title = "Must: " + ", ".join(keyword[0]) + "; Any: " + ", ".join(keyword[1])
+    else:
+        title = keyword
+
+    f_rm.write(f"## {title}\n")
+    f_is.write(f"## {title}\n")
+
+    # 调用API获取论文（不再需要link参数）
+    papers = get_daily_papers_by_keyword_with_retries(keyword, column_names, max_result)
     if papers is None: # failed to get papers
         print("Failed to get papers!")
         f_rm.close()
