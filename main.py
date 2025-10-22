@@ -24,8 +24,8 @@ except FileNotFoundError:
     print("README.md not found, proceeding with update...")
     last_update_date = None
 # 检查是否需要更新
-if last_update_date == current_date:
-    sys.exit("Already updated today!")
+# if last_update_date == current_date:
+#     sys.exit("Already updated today!")
 # 如果找不到最后更新日期，继续执行更新
 if last_update_date is None:
     print("Warning: Last update date not found in README.md. Proceeding with update...")
@@ -39,7 +39,7 @@ keywords = [
     # 复杂查询：必须包含"3D Gaussian Splatting"，且包含"LOD"或"Large-scale"中的一个
     {
         'must': ["3D Gaussian Splatting"],
-        'any': ["LOD", "Large-scale"]
+        'any': ["LOD", "large-scale", "on the fly"]
     },
 
     # 另一个复杂查询示例：必须包含"NeRF"和"3D"，且包含"reconstruction"或"rendering"中的一个
