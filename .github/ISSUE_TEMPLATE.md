@@ -1,5 +1,5 @@
 ---
-title: Latest 150 Papers - October 29, 2025
+title: Latest 150 Papers - October 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -27,13 +27,4 @@ labels: documentation
 | **[SAGE: Semantic-Driven Adaptive Gaussian Splatting in Extended Reality](http://arxiv.org/abs/2503.16747v1)** | 2025-03-20 |  |
 | **[A Hierarchical Compression Technique for 3D Gaussian Splatting Compression](http://arxiv.org/abs/2411.06976v2)** | 2025-03-16 |  |
 | **[CrowdSplat: Exploring Gaussian Splatting For Crowd Rendering](http://arxiv.org/abs/2501.17792v2)** | 2025-03-04 | 4 pages, 4 figures |
-| **[Evaluating CrowdSplat: Perceived Level of Detail for Gaussian Crowds](http://arxiv.org/abs/2501.17085v2)** | 2025-03-04 | 5 pages, 5 figures |
-| **[FlexDrive: Toward Trajectory Flexibility in Driving Scene Reconstruction and Rendering](http://arxiv.org/abs/2502.21093v2)** | 2025-03-03 |  |
-| **[QUEEN: QUantized Efficient ENcoding of Dynamic Gaussians for Streaming Free-viewpoint Videos](http://arxiv.org/abs/2412.04469v1)** | 2024-12-05 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2024, Project website: https://research.nvidia.com/labs/amri/projects/queen</p></details> |
-| **[GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion](http://arxiv.org/abs/2408.12677v3)** | 2024-11-15 |  |
-| **[Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians](http://arxiv.org/abs/2403.17898v2)** | 2024-10-17 | <details><summary>Proje...</summary><p>Project page: https://city-super.github.io/octree-gs/</p></details> |
-| **[LetsGo: Large-Scale Garage Modeling and Rendering via LiDAR-Assisted Gaussian Primitives](http://arxiv.org/abs/2404.09748v3)** | 2024-09-18 | <details><summary>Proje...</summary><p>Project Page: https://zhaofuq.github.io/LetsGo/</p></details> |
-| **[CityGaussian: Real-time High-quality Large-Scale Scene Rendering with Gaussians](http://arxiv.org/abs/2404.01133v3)** | 2024-07-17 | <details><summary>Accep...</summary><p>Accepted by ECCV2024; Project Page: https://dekuliutesla.github.io/citygs/</p></details> |
-| **[A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets](http://arxiv.org/abs/2406.12080v1)** | 2024-06-17 | <details><summary>Proje...</summary><p>Project Page: https://repo-sam.inria.fr/fungraph/hierarchical-3d-gaussians/</p></details> |
-| **[Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering](http://arxiv.org/abs/2312.00109v1)** | 2023-11-30 | <details><summary>Proje...</summary><p>Project page: https://city-super.github.io/scaffold-gs/</p></details> |
 
