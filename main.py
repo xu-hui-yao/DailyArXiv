@@ -47,6 +47,10 @@ keywords = [
         'any': ["inversion", "reconstruction", "deep learning"]
     },
 
+    {
+        'must': ["slam", "lidar"]
+    }
+
     # 另一个复杂查询示例：必须包含"NeRF"和"3D"，且包含"reconstruction"或"rendering"中的一个
     # {
     #     'must': ["NeRF", "3D"],
