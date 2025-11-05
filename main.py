@@ -39,7 +39,12 @@ keywords = [
     # 复杂查询：必须包含"3D Gaussian Splatting"，且包含"LOD"或"Large-scale"中的一个
     {
         'must': ["3D Gaussian Splatting"],
-        'any': ["LOD", "large-scale", "on the fly"]
+        'any': ["LOD", "large-scale", "on the fly", "lidar"]
+    },
+
+    {
+        'must': ["light curves"],
+        'any': ["inversion", "reconstruction", "deep learning"]
     },
 
     # 另一个复杂查询示例：必须包含"NeRF"和"3D"，且包含"reconstruction"或"rendering"中的一个
