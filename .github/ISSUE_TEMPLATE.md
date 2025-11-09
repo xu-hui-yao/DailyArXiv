@@ -1,5 +1,5 @@
 ---
-title: Latest 150 Papers - November 06, 2025
+title: Latest 150 Papers - November 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -90,10 +90,38 @@ labels: documentation
 | **[Identifying Light-curve Signals with a Deep Learning Based Object Detection Algorithm. II. A General Light Curve Classification Framework](http://arxiv.org/abs/2311.08080v2)** | 2024-09-19 | <details><summary>26 pa...</summary><p>26 pages, 19 figures, 6 tables. Published on ApJS. Code is available on https://github.com/ckm3/Deep-LC</p></details> |
 | **[Panopticon: a novel deep learning model to detect single transit events with no prior data filtering in PLATO light curves](http://arxiv.org/abs/2409.03466v1)** | 2024-09-05 | Submitted to A&A |
 | **[Light Curve Classification with DistClassiPy: a new distance-based classifier](http://arxiv.org/abs/2403.12120v2)** | 2024-07-25 | <details><summary>Accep...</summary><p>Accepted for publication in Astronomy and Computing (2024). 24 pages, 19 figures</p></details> |
+| **[The Scaling Law in Stellar Light Curves](http://arxiv.org/abs/2405.17156v2)** | 2024-06-17 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, ICML 2024 AI4Science workshop</p></details> |
+| **[Quantum Convolutional Neural Networks for the detection of Gamma-Ray Bursts in the AGILE space mission data](http://arxiv.org/abs/2404.14133v1)** | 2024-04-22 | <details><summary>4 pag...</summary><p>4 pages, 2 figures, proceedings of the ADASS XXXIII (2023) conference, to appear in ASP Conference Serie</p></details> |
+| **[Orbital Polarimetric Tomography of a Flare Near the Sagittarius A* Supermassive Black Hole](http://arxiv.org/abs/2310.07687v2)** | 2024-04-16 |  |
+| **[Model Predictive Approach for Detumbling an Underactuated Satellite](http://arxiv.org/abs/2401.11539v1)** | 2024-01-21 | 15 pages, 4 figures |
+| **[Astroconformer: The Prospects of Analyzing Stellar Light Curves with Transformer-Based Deep Learning Models](http://arxiv.org/abs/2309.16316v2)** | 2024-01-18 | <details><summary>15 pa...</summary><p>15 pages, 10 figures, Accepted by MNRAS</p></details> |
+| **[Distinguishing a planetary transit from false positives: a Transformer-based classification for planetary transit signals](http://arxiv.org/abs/2304.14283v1)** | 2023-04-27 |  |
+| **[Astronomical image time series classification using CONVolutional attENTION (ConvEntion)](http://arxiv.org/abs/2304.01236v1)** | 2023-04-03 |  |
+| **[Self-Supervised Learning for Modeling Gamma-ray Variability in Blazars](http://arxiv.org/abs/2302.07700v1)** | 2023-02-15 | <details><summary>2nd A...</summary><p>2nd Annual AAAI Workshop on AI to Accelerate Science and Engineering (AI2ASE), https://ai-2-ase.github.io/. Updated reference and typo correction in this version (H=32, not 64)</p></details> |
+| **[Identifying Exoplanets with Deep Learning. V. Improved Light Curve Classification for TESS Full Frame Image Observations](http://arxiv.org/abs/2301.01371v1)** | 2023-01-03 | <details><summary>accep...</summary><p>accepted for publication in AJ. code can be found at: https://github.com/mdanatg/Astronet-Triage and data can be found at: https://zenodo.org/record/7411579</p></details> |
+| **[Exoplanet Detection by Machine Learning with Data Augmentation](http://arxiv.org/abs/2211.15577v1)** | 2022-11-28 |  |
+| **[Deep Attention-Based Supernovae Classification of Multi-Band Light-Curves](http://arxiv.org/abs/2201.08482v3)** | 2022-11-25 | <details><summary>Submi...</summary><p>Submitted to AJ on 14-Jan-2022</p></details> |
+| **[ExoSGAN and ExoACGAN: Exoplanet Detection using Adversarial Training Algorithms](http://arxiv.org/abs/2207.09665v1)** | 2022-07-20 | 26 pages total |
+| **[Astroconformer: Inferring Surface Gravity of Stars from Stellar Light Curves with Transformer](http://arxiv.org/abs/2207.02787v1)** | 2022-07-06 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, accepted to the ICML 2022 Machine Learning for Astrophysics workshop</p></details> |
+| **[Identify Light-Curve Signals with Deep Learning Based Object Detection Algorithm. I. Transit Detection](http://arxiv.org/abs/2108.00670v2)** | 2021-11-24 | <details><summary>22 pa...</summary><p>22 pages, 14 figures, 1 table, matches the version to be published in AJ</p></details> |
+| **[Photometric Search for Exomoons by using Convolutional Neural Networks](http://arxiv.org/abs/2111.02293v1)** | 2021-11-03 | 11 pages, 4 figures |
+| **[Automatic classification of eclipsing binary stars using deep learning methods](http://arxiv.org/abs/2108.01640v1)** | 2021-08-03 |  |
+| **[Automatic Catalog of RRLyrae from $\sim$ 14 million VVV Light Curves: How far can we go with traditional machine-learning?](http://arxiv.org/abs/2005.00220v2)** | 2021-05-04 |  |
+| **[Exoplanet Detection using Machine Learning](http://arxiv.org/abs/2011.14135v2)** | 2021-03-05 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, 4 tables, submitted to MNRAS</p></details> |
+| **[PyLightcurve-torch: a transit modelling package for deep learning applications in PyTorch](http://arxiv.org/abs/2011.02030v2)** | 2020-12-28 | <details><summary>7 pag...</summary><p>7 pages, 3 figures; submission status updated, fig 2 caption added</p></details> |
+| **[RotNet: Fast and Scalable Estimation of Stellar Rotation Periods Using Convolutional Neural Networks](http://arxiv.org/abs/2012.01985v2)** | 2020-12-04 | <details><summary>Accep...</summary><p>Accepted for the Machine Learning and the Physical Sciences Workshop, NeurIPS 2020</p></details> |
+| **[Classifying Image Sequences of Astronomical Transients with Deep Neural Networks](http://arxiv.org/abs/2004.13877v2)** | 2020-10-02 | <details><summary>11 pa...</summary><p>11 pages, 7 figures. MNRAS accepted</p></details> |
+| **[Bayesian Dynamic Mapping of an Exo-Earth from Photometric Variability](http://arxiv.org/abs/2007.13096v1)** | 2020-07-26 | <details><summary>23 pa...</summary><p>23 pages, 13 figures, accepted for publication in ApJ. The code is available online at https://github.com/HajimeKawahara/sot . The retrieved dynamic map of a real light curve of the Earth (movie) can be viewed at https://www.youtube.com/watch?v=rGMWbAUAv4Y</p></details> |
+| **[Development of a High Fidelity Simulator for Generalised Photometric Based Space Object Classification using Machine Learning](http://arxiv.org/abs/2004.12270v1)** | 2020-04-26 | <details><summary>This ...</summary><p>This paper is a pre-print that appeared in Proceedings of 70th International Astronautical Congress (IAC), 2019</p></details> |
+| **[Scalable End-to-end Recurrent Neural Network for Variable star classification](http://arxiv.org/abs/2002.00994v1)** | 2020-02-03 | <details><summary>15 pa...</summary><p>15 pages, 17 figures. To be published in MNRAS</p></details> |
+| **[An Algorithm for the Visualization of Relevant Patterns in Astronomical Light Curves](http://arxiv.org/abs/1903.03254v1)** | 2019-03-08 | <details><summary>Accep...</summary><p>Accepted 2019 January 8. Received 2019 January 8; in original form 2018 January 29. 7 pages, 6 figures</p></details> |
+| **[Deep multi-survey classification of variable stars](http://arxiv.org/abs/1810.09440v1)** | 2018-10-21 | <details><summary>Accep...</summary><p>Accepted for publication in Monthly Notices of the Royal Astronomical Society</p></details> |
+| **[Deep-Learnt Classification of Light Curves](http://arxiv.org/abs/1709.06257v1)** | 2017-09-19 | <details><summary>8 pag...</summary><p>8 pages, 9 figures, 6 tables, 2 listings. Accepted to 2017 IEEE Symposium Series on Computational Intelligence (SSCI)</p></details> |
 
 ## Must: slam, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PUL-SLAM: Path-Uncertainty Co-Optimization with Lightweight Stagnation Detection for Efficient Robotic Exploration](http://arxiv.org/abs/2511.04180v1)** | 2025-11-06 |  |
 | **[Self-Supervised Moving Object Segmentation of Sparse and Noisy Radar Point Clouds](http://arxiv.org/abs/2511.02395v1)** | 2025-11-04 | <details><summary>Accep...</summary><p>Accepted for publication at IEEE International Conference on Intelligent Transportation Systems (ITSC 2025), 8 pages, 3 figures</p></details> |
 | **[CM-LIUW-Odometry: Robust and High-Precision LiDAR-Inertial-UWB-Wheel Odometry for Extreme Degradation Coal Mine Tunnels](http://arxiv.org/abs/2511.01379v1)** | 2025-11-03 | <details><summary>Accep...</summary><p>Accepted by IROS 2025</p></details> |
 | **[Tackling the Kidnapped Robot Problem via Sparse Feasible Hypothesis Sampling and Reliable Batched Multi-Stage Inference](http://arxiv.org/abs/2511.01219v1)** | 2025-11-03 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. This work has been submitted to the IEEE for possible publication</p></details> |
@@ -243,5 +271,4 @@ labels: documentation
 | **[Hilti SLAM Challenge 2023: Benchmarking Single + Multi-session SLAM across Sensor Constellations in Construction](http://arxiv.org/abs/2404.09765v2)** | 2024-07-30 |  |
 | **[Evaluating geometric accuracy of NeRF reconstructions compared to SLAM method](http://arxiv.org/abs/2407.11238v2)** | 2024-07-25 |  |
 | **[MSSP : A Versatile Multi-Scenario Adaptable Intelligent Robot Simulation Platform Based on LIDAR-Inertial Fusion](http://arxiv.org/abs/2407.14102v1)** | 2024-07-19 |  |
-| **[PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency](http://arxiv.org/abs/2401.09101v2)** | 2024-07-02 | 20 pages |
 
