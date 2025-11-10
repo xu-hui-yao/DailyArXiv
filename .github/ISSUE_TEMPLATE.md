@@ -1,5 +1,5 @@
 ---
-title: Latest 150 Papers - November 09, 2025
+title: Latest 150 Papers - November 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Must: 3D Gaussian Splatting; Any: LOD, large-scale, on the fly, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficient representation of 3D spatial data for defense-related applications](http://arxiv.org/abs/2511.05109v1)** | 2025-11-07 |  |
 | **[AgriGS-SLAM: Orchard Mapping Across Seasons via Multi-View Gaussian Splatting SLAM](http://arxiv.org/abs/2510.26358v1)** | 2025-10-30 |  |
 | **[LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering](http://arxiv.org/abs/2505.23158v2)** | 2025-10-29 | <details><summary>NeurI...</summary><p>NeurIPS 2025; Web: https://lodge-gs.github.io/</p></details> |
 | **[LVD-GS: Gaussian Splatting SLAM for Dynamic Scenes via Hierarchical Explicit-Implicit Representation Collaboration Rendering](http://arxiv.org/abs/2510.22669v1)** | 2025-10-26 |  |
@@ -90,37 +91,11 @@ labels: documentation
 | **[Identifying Light-curve Signals with a Deep Learning Based Object Detection Algorithm. II. A General Light Curve Classification Framework](http://arxiv.org/abs/2311.08080v2)** | 2024-09-19 | <details><summary>26 pa...</summary><p>26 pages, 19 figures, 6 tables. Published on ApJS. Code is available on https://github.com/ckm3/Deep-LC</p></details> |
 | **[Panopticon: a novel deep learning model to detect single transit events with no prior data filtering in PLATO light curves](http://arxiv.org/abs/2409.03466v1)** | 2024-09-05 | Submitted to A&A |
 | **[Light Curve Classification with DistClassiPy: a new distance-based classifier](http://arxiv.org/abs/2403.12120v2)** | 2024-07-25 | <details><summary>Accep...</summary><p>Accepted for publication in Astronomy and Computing (2024). 24 pages, 19 figures</p></details> |
-| **[The Scaling Law in Stellar Light Curves](http://arxiv.org/abs/2405.17156v2)** | 2024-06-17 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, ICML 2024 AI4Science workshop</p></details> |
-| **[Quantum Convolutional Neural Networks for the detection of Gamma-Ray Bursts in the AGILE space mission data](http://arxiv.org/abs/2404.14133v1)** | 2024-04-22 | <details><summary>4 pag...</summary><p>4 pages, 2 figures, proceedings of the ADASS XXXIII (2023) conference, to appear in ASP Conference Serie</p></details> |
-| **[Orbital Polarimetric Tomography of a Flare Near the Sagittarius A* Supermassive Black Hole](http://arxiv.org/abs/2310.07687v2)** | 2024-04-16 |  |
-| **[Model Predictive Approach for Detumbling an Underactuated Satellite](http://arxiv.org/abs/2401.11539v1)** | 2024-01-21 | 15 pages, 4 figures |
-| **[Astroconformer: The Prospects of Analyzing Stellar Light Curves with Transformer-Based Deep Learning Models](http://arxiv.org/abs/2309.16316v2)** | 2024-01-18 | <details><summary>15 pa...</summary><p>15 pages, 10 figures, Accepted by MNRAS</p></details> |
-| **[Distinguishing a planetary transit from false positives: a Transformer-based classification for planetary transit signals](http://arxiv.org/abs/2304.14283v1)** | 2023-04-27 |  |
-| **[Astronomical image time series classification using CONVolutional attENTION (ConvEntion)](http://arxiv.org/abs/2304.01236v1)** | 2023-04-03 |  |
-| **[Self-Supervised Learning for Modeling Gamma-ray Variability in Blazars](http://arxiv.org/abs/2302.07700v1)** | 2023-02-15 | <details><summary>2nd A...</summary><p>2nd Annual AAAI Workshop on AI to Accelerate Science and Engineering (AI2ASE), https://ai-2-ase.github.io/. Updated reference and typo correction in this version (H=32, not 64)</p></details> |
-| **[Identifying Exoplanets with Deep Learning. V. Improved Light Curve Classification for TESS Full Frame Image Observations](http://arxiv.org/abs/2301.01371v1)** | 2023-01-03 | <details><summary>accep...</summary><p>accepted for publication in AJ. code can be found at: https://github.com/mdanatg/Astronet-Triage and data can be found at: https://zenodo.org/record/7411579</p></details> |
-| **[Exoplanet Detection by Machine Learning with Data Augmentation](http://arxiv.org/abs/2211.15577v1)** | 2022-11-28 |  |
-| **[Deep Attention-Based Supernovae Classification of Multi-Band Light-Curves](http://arxiv.org/abs/2201.08482v3)** | 2022-11-25 | <details><summary>Submi...</summary><p>Submitted to AJ on 14-Jan-2022</p></details> |
-| **[ExoSGAN and ExoACGAN: Exoplanet Detection using Adversarial Training Algorithms](http://arxiv.org/abs/2207.09665v1)** | 2022-07-20 | 26 pages total |
-| **[Astroconformer: Inferring Surface Gravity of Stars from Stellar Light Curves with Transformer](http://arxiv.org/abs/2207.02787v1)** | 2022-07-06 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, accepted to the ICML 2022 Machine Learning for Astrophysics workshop</p></details> |
-| **[Identify Light-Curve Signals with Deep Learning Based Object Detection Algorithm. I. Transit Detection](http://arxiv.org/abs/2108.00670v2)** | 2021-11-24 | <details><summary>22 pa...</summary><p>22 pages, 14 figures, 1 table, matches the version to be published in AJ</p></details> |
-| **[Photometric Search for Exomoons by using Convolutional Neural Networks](http://arxiv.org/abs/2111.02293v1)** | 2021-11-03 | 11 pages, 4 figures |
-| **[Automatic classification of eclipsing binary stars using deep learning methods](http://arxiv.org/abs/2108.01640v1)** | 2021-08-03 |  |
-| **[Automatic Catalog of RRLyrae from $\sim$ 14 million VVV Light Curves: How far can we go with traditional machine-learning?](http://arxiv.org/abs/2005.00220v2)** | 2021-05-04 |  |
-| **[Exoplanet Detection using Machine Learning](http://arxiv.org/abs/2011.14135v2)** | 2021-03-05 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, 4 tables, submitted to MNRAS</p></details> |
-| **[PyLightcurve-torch: a transit modelling package for deep learning applications in PyTorch](http://arxiv.org/abs/2011.02030v2)** | 2020-12-28 | <details><summary>7 pag...</summary><p>7 pages, 3 figures; submission status updated, fig 2 caption added</p></details> |
-| **[RotNet: Fast and Scalable Estimation of Stellar Rotation Periods Using Convolutional Neural Networks](http://arxiv.org/abs/2012.01985v2)** | 2020-12-04 | <details><summary>Accep...</summary><p>Accepted for the Machine Learning and the Physical Sciences Workshop, NeurIPS 2020</p></details> |
-| **[Classifying Image Sequences of Astronomical Transients with Deep Neural Networks](http://arxiv.org/abs/2004.13877v2)** | 2020-10-02 | <details><summary>11 pa...</summary><p>11 pages, 7 figures. MNRAS accepted</p></details> |
-| **[Bayesian Dynamic Mapping of an Exo-Earth from Photometric Variability](http://arxiv.org/abs/2007.13096v1)** | 2020-07-26 | <details><summary>23 pa...</summary><p>23 pages, 13 figures, accepted for publication in ApJ. The code is available online at https://github.com/HajimeKawahara/sot . The retrieved dynamic map of a real light curve of the Earth (movie) can be viewed at https://www.youtube.com/watch?v=rGMWbAUAv4Y</p></details> |
-| **[Development of a High Fidelity Simulator for Generalised Photometric Based Space Object Classification using Machine Learning](http://arxiv.org/abs/2004.12270v1)** | 2020-04-26 | <details><summary>This ...</summary><p>This paper is a pre-print that appeared in Proceedings of 70th International Astronautical Congress (IAC), 2019</p></details> |
-| **[Scalable End-to-end Recurrent Neural Network for Variable star classification](http://arxiv.org/abs/2002.00994v1)** | 2020-02-03 | <details><summary>15 pa...</summary><p>15 pages, 17 figures. To be published in MNRAS</p></details> |
-| **[An Algorithm for the Visualization of Relevant Patterns in Astronomical Light Curves](http://arxiv.org/abs/1903.03254v1)** | 2019-03-08 | <details><summary>Accep...</summary><p>Accepted 2019 January 8. Received 2019 January 8; in original form 2018 January 29. 7 pages, 6 figures</p></details> |
-| **[Deep multi-survey classification of variable stars](http://arxiv.org/abs/1810.09440v1)** | 2018-10-21 | <details><summary>Accep...</summary><p>Accepted for publication in Monthly Notices of the Royal Astronomical Society</p></details> |
-| **[Deep-Learnt Classification of Light Curves](http://arxiv.org/abs/1709.06257v1)** | 2017-09-19 | <details><summary>8 pag...</summary><p>8 pages, 9 figures, 6 tables, 2 listings. Accepted to 2017 IEEE Symposium Series on Computational Intelligence (SSCI)</p></details> |
 
 ## Must: slam, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-modal Loop Closure Detection with Foundation Models in Severely Unstructured Environments](http://arxiv.org/abs/2511.05404v1)** | 2025-11-07 | <details><summary>Under...</summary><p>Under review for ICRA 2026</p></details> |
 | **[PUL-SLAM: Path-Uncertainty Co-Optimization with Lightweight Stagnation Detection for Efficient Robotic Exploration](http://arxiv.org/abs/2511.04180v1)** | 2025-11-06 |  |
 | **[Self-Supervised Moving Object Segmentation of Sparse and Noisy Radar Point Clouds](http://arxiv.org/abs/2511.02395v1)** | 2025-11-04 | <details><summary>Accep...</summary><p>Accepted for publication at IEEE International Conference on Intelligent Transportation Systems (ITSC 2025), 8 pages, 3 figures</p></details> |
 | **[CM-LIUW-Odometry: Robust and High-Precision LiDAR-Inertial-UWB-Wheel Odometry for Extreme Degradation Coal Mine Tunnels](http://arxiv.org/abs/2511.01379v1)** | 2025-11-03 | <details><summary>Accep...</summary><p>Accepted by IROS 2025</p></details> |
@@ -220,55 +195,4 @@ labels: documentation
 | **[OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors](http://arxiv.org/abs/2501.11111v2)** | 2025-02-01 |  |
 | **[LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks](http://arxiv.org/abs/2501.19382v1)** | 2025-01-31 |  |
 | **[Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems](http://arxiv.org/abs/2501.18110v1)** | 2025-01-30 |  |
-| **[SSF-PAN: Semantic Scene Flow-Based Perception for Autonomous Navigation in Traffic Scenarios](http://arxiv.org/abs/2501.16754v1)** | 2025-01-28 |  |
-| **[Visual-Lidar Map Alignment for Infrastructure Inspections](http://arxiv.org/abs/2501.14486v2)** | 2025-01-27 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, for associated code see https://github.com/jakemclaughlin6/vlma</p></details> |
-| **[Comparison of Various SLAM Systems for Mobile Robot in an Indoor Environment](http://arxiv.org/abs/2501.09490v1)** | 2025-01-16 | 6 pages, 6 figures |
-| **[Unified Few-shot Crack Segmentation and its Precise 3D Automatic Measurement in Concrete Structures](http://arxiv.org/abs/2501.09203v1)** | 2025-01-15 |  |
-| **[GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping](http://arxiv.org/abs/2501.08672v1)** | 2025-01-15 |  |
-| **[DIDLM: A SLAM Dataset for Difficult Scenarios Featuring Infrared, Depth Cameras, LIDAR, 4D Radar, and Others under Adverse Weather, Low Light Conditions, and Rough Roads](http://arxiv.org/abs/2404.09622v2)** | 2025-01-14 |  |
-| **[Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps](http://arxiv.org/abs/2501.07399v1)** | 2025-01-13 |  |
-| **[From Underground Mines to Offices: A Versatile and Robust Framework for Range-Inertial SLAM](http://arxiv.org/abs/2407.14797v2)** | 2025-01-13 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 3 tables</p></details> |
-| **[ROLO-SLAM: Rotation-Optimized LiDAR-Only SLAM in Uneven Terrain with Ground Vehicle](http://arxiv.org/abs/2501.02166v1)** | 2025-01-04 | <details><summary>This ...</summary><p>This article has been accepted by Journal of Field Robotics</p></details> |
-| **[Hierarchical Pose Estimation and Mapping with Multi-Scale Neural Feature Fields](http://arxiv.org/abs/2412.20976v1)** | 2024-12-30 |  |
-| **[End-to-end Generative Spatial-Temporal Ultrasonic Odometry and Mapping Framework](http://arxiv.org/abs/2412.17343v1)** | 2024-12-23 | <details><summary>5 pag...</summary><p>5 pages, 4 figures and 1 table</p></details> |
-| **[Selective Kalman Filter: When and How to Fuse Multi-Sensor Information to Overcome Degeneracy in SLAM](http://arxiv.org/abs/2412.17235v1)** | 2024-12-23 |  |
-| **[Energy-Efficient SLAM via Joint Design of Sensing, Communication, and Exploration Speed](http://arxiv.org/abs/2412.13912v1)** | 2024-12-18 |  |
-| **[A Real-time Degeneracy Sensing and Compensation Method for Enhanced LiDAR SLAM](http://arxiv.org/abs/2412.07513v1)** | 2024-12-10 | 13 pages |
-| **[LiDAR-Based Place Recognition For Autonomous Driving: A Survey](http://arxiv.org/abs/2306.10561v3)** | 2024-12-06 | <details><summary>Accep...</summary><p>Accepted by ACM Computing Surveys</p></details> |
-| **[BIMCaP: BIM-based AI-supported LiDAR-Camera Pose Refinement](http://arxiv.org/abs/2412.03434v1)** | 2024-12-04 | <details><summary>10 pa...</summary><p>10 pages, 24 figures, Conference: EG-ICE: 31st International Workshop on Intelligent Computing in Engineering</p></details> |
-| **[Robust Lifelong Indoor LiDAR Localization using the Area Graph](http://arxiv.org/abs/2308.05593v3)** | 2024-12-04 |  |
-| **[LiDAR SLAMMOT based on Confidence-guided Data Association](http://arxiv.org/abs/2412.01041v1)** | 2024-12-02 |  |
-| **[ORB-SLAM3AB: Augmenting ORB-SLAM3 to Counteract Bumps with Optical Flow Inter-frame Matching](http://arxiv.org/abs/2411.18174v1)** | 2024-11-27 |  |
-| **[3D Reconstruction by Looking: Instantaneous Blind Spot Detector for Indoor SLAM through Mixed Reality](http://arxiv.org/abs/2411.12514v1)** | 2024-11-19 | <details><summary>21 pa...</summary><p>21 pages, 13 figures, 3 tables</p></details> |
-| **[LiV-GS: LiDAR-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments](http://arxiv.org/abs/2411.12185v1)** | 2024-11-19 |  |
-| **[ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets](http://arxiv.org/abs/2406.16713v4)** | 2024-11-14 | <details><summary>19 pa...</summary><p>19 pages, 27 figures. Submitted to IEEE Transactions on Robotics</p></details> |
-| **[Benchmarking SLAM Algorithms in the Cloud: The SLAM Hive Benchmarking Suite](http://arxiv.org/abs/2406.17586v2)** | 2024-11-14 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2303.11854</p></details> |
-| **[Development of an indoor localization and navigation system based on monocular SLAM for mobile robots](http://arxiv.org/abs/2411.05337v1)** | 2024-11-08 | <details><summary>In Th...</summary><p>In The 25th National Conference on Electronics, Communications and Information Technology (REV-ECIT 2022), Hanoi, Vietnam. in Vietnamese language</p></details> |
-| **[Development of a Service Robot for Hospital Environments in Rehabilitation Medicine with LiDAR Based Simultaneous Localization and Mapping](http://arxiv.org/abs/2411.04797v1)** | 2024-11-07 |  |
-| **[S3E: A Multi-Robot Multimodal Dataset for Collaborative SLAM](http://arxiv.org/abs/2210.13723v8)** | 2024-10-27 | <details><summary>Accep...</summary><p>Accepted by IEEE Robotics and Automation Letters (RA-L)</p></details> |
-| **[Non-Interrupting Rail Track Geometry Measurement System Using UAV and LiDAR](http://arxiv.org/abs/2410.10832v2)** | 2024-10-26 |  |
-| **[Impact of 3D LiDAR Resolution in Graph-based SLAM Approaches: A Comparative Study](http://arxiv.org/abs/2410.17171v1)** | 2024-10-22 | <details><summary>This ...</summary><p>This work has been accepted for publication in ROBOT24</p></details> |
-| **[TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal](http://arxiv.org/abs/2410.13240v1)** | 2024-10-17 | 8pages, 5figures |
-| **[Voxel-SLAM: A Complete, Accurate, and Versatile LiDAR-Inertial SLAM System](http://arxiv.org/abs/2410.08935v1)** | 2024-10-11 |  |
-| **[Monocular Visual Place Recognition in LiDAR Maps via Cross-Modal State Space Model and Multi-View Matching](http://arxiv.org/abs/2410.06285v1)** | 2024-10-08 |  |
-| **[LiDAR Inertial Odometry And Mapping Using Learned Registration-Relevant Features](http://arxiv.org/abs/2410.02961v1)** | 2024-10-03 | 8 pages, 6 figures |
-| **[Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition](http://arxiv.org/abs/2408.07330v3)** | 2024-10-02 | <details><summary>Accep...</summary><p>Accepted in IEEE Robotics and Automation Letters (2024)</p></details> |
-| **[CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation](http://arxiv.org/abs/2409.19597v1)** | 2024-09-29 | 7 pages, 5 figures |
-| **[Royal Reveals: LiDAR Mapping of Kronborg Castle, Echoes of Hamlet's Halls](http://arxiv.org/abs/2409.18752v1)** | 2024-09-27 | <details><summary>4 pag...</summary><p>4 pages, 4 figures, 3 tables</p></details> |
-| **[Neural Implicit Representation for Highly Dynamic LiDAR Mapping and Odometry](http://arxiv.org/abs/2409.17729v1)** | 2024-09-26 |  |
-| **[Robust Second-order LiDAR Bundle Adjustment Algorithm Using Mean Squared Group Metric](http://arxiv.org/abs/2409.01856v2)** | 2024-09-23 |  |
-| **[Range-SLAM: Ultra-Wideband-Based Smoke-Resistant Real-Time Localization and Mapping](http://arxiv.org/abs/2409.09763v1)** | 2024-09-15 |  |
-| **[Object Depth and Size Estimation using Stereo-vision and Integration with SLAM](http://arxiv.org/abs/2409.07623v1)** | 2024-09-11 | <details><summary>Accep...</summary><p>Accepted version of the published article in IEEE Sensors Letters</p></details> |
-| **[Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios](http://arxiv.org/abs/2409.04961v2)** | 2024-09-10 | <details><summary>15 pa...</summary><p>15 pages, 9 figures, 6 tables. Submitted for IJRR dataset paper</p></details> |
-| **[Evaluation and Deployment of LiDAR-based Place Recognition in Dense Forests](http://arxiv.org/abs/2403.14326v2)** | 2024-08-30 |  |
-| **[BIM-SLAM: Integrating BIM Models in Multi-session SLAM for Lifelong Mapping using 3D LiDAR](http://arxiv.org/abs/2408.15870v1)** | 2024-08-28 | <details><summary>Confe...</summary><p>Conference paper in ISARC 2023</p></details> |
-| **[FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry](http://arxiv.org/abs/2408.14035v2)** | 2024-08-28 | <details><summary>30 pa...</summary><p>30 pages, 31 figures, due to the limitation that 'The abstract field cannot exceed 1,920 characters', the abstract presented here is shorter than the one in the PDF file</p></details> |
-| **[RaNDT SLAM: Radar SLAM Based on Intensity-Augmented Normal Distributions Transform](http://arxiv.org/abs/2408.11576v1)** | 2024-08-21 | <details><summary>This ...</summary><p>This work was accepted by the IEEE/RSJ International Conference on Intelligent Robots and Systems, 2024</p></details> |
-| **[Quantitative 3D Map Accuracy Evaluation Hardware and Algorithm for LiDAR(-Inertial) SLAM](http://arxiv.org/abs/2408.09727v1)** | 2024-08-19 | <details><summary>ICCAS...</summary><p>ICCAS 2024 accepted, 5 pages, 6 figures, 2 Tables</p></details> |
-| **[GSLAMOT: A Tracklet and Query Graph-based Simultaneous Locating, Mapping, and Multiple Object Tracking System](http://arxiv.org/abs/2408.09191v1)** | 2024-08-17 | <details><summary>11 pa...</summary><p>11 pages, 9 figures, ACM MM 2024</p></details> |
-| **[Inverse k-visibility for RSSI-based Indoor Geometric Mapping](http://arxiv.org/abs/2408.07757v1)** | 2024-08-14 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE Sensors Journal for possible publication</p></details> |
-| **[CAD-Mesher: A Convenient, Accurate, Dense Mesh-based Mapping Module in SLAM for Dynamic Environments](http://arxiv.org/abs/2408.05981v1)** | 2024-08-12 | 9 pages, 7 figures |
-| **[Hilti SLAM Challenge 2023: Benchmarking Single + Multi-session SLAM across Sensor Constellations in Construction](http://arxiv.org/abs/2404.09765v2)** | 2024-07-30 |  |
-| **[Evaluating geometric accuracy of NeRF reconstructions compared to SLAM method](http://arxiv.org/abs/2407.11238v2)** | 2024-07-25 |  |
-| **[MSSP : A Versatile Multi-Scenario Adaptable Intelligent Robot Simulation Platform Based on LIDAR-Inertial Fusion](http://arxiv.org/abs/2407.14102v1)** | 2024-07-19 |  |
 
