@@ -1,5 +1,5 @@
 ---
-title: Latest 150 Papers - November 12, 2025
+title: Latest 150 Papers - November 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -49,8 +49,8 @@ labels: documentation
 | **[GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion](https://arxiv.org/pdf/2408.12677v3)** | 2024-11-18 |  |
 | **[Enhancing non-Rigid 3D Model Deformations Using Mesh-based Gaussian Splatting](https://arxiv.org/pdf/2507.07000v1)** | 2025-07-10 |  |
 | **[Efficient Perspective-Correct 3D Gaussian Splatting Using Hybrid Transparency](https://arxiv.org/pdf/2410.08129v3)** | 2025-03-11 | <details><summary>Proje...</summary><p>Project page: https://fhahlbohm.github.io/htgs/</p></details> |
-| **[RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting](https://arxiv.org/pdf/2404.19706v3)** | 2024-05-10 | <details><summary>To be...</summary><p>To be published in ACM SIGGRAPH 2024</p></details> |
 | **[Enhanced 3D Urban Scene Reconstruction and Point Cloud Densification using Gaussian Splatting and Google Earth Imagery](https://arxiv.org/pdf/2405.11021v2)** | 2024-06-04 |  |
+| **[RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting](https://arxiv.org/pdf/2404.19706v3)** | 2024-05-10 | <details><summary>To be...</summary><p>To be published in ACM SIGGRAPH 2024</p></details> |
 | **[HiSplat: Hierarchical 3D Gaussian Splatting for Generalizable Sparse-View Reconstruction](https://arxiv.org/pdf/2410.06245v1)** | 2024-10-10 |  |
 | **[Distributed 3D Gaussian Splatting for High-Resolution Isosurface Visualization](https://arxiv.org/pdf/2509.12138v1)** | 2025-09-16 |  |
 | **[GS-GVINS: A Tightly-integrated GNSS-Visual-Inertial Navigation System Augmented by 3D Gaussian Splatting](https://arxiv.org/pdf/2502.10975v1)** | 2025-02-18 |  |
@@ -75,20 +75,20 @@ labels: documentation
 | **[On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images](https://arxiv.org/pdf/2506.05558v1)** | 2025-06-09 |  |
 | **[FIORD: A Fisheye Indoor-Outdoor Dataset with LIDAR Ground Truth for 3D Scene Reconstruction and Benchmarking](https://arxiv.org/pdf/2504.01732v2)** | 2025-04-10 | SCIA 2025 |
 | **[VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction](https://arxiv.org/pdf/2402.17427v1)** | 2024-02-28 | <details><summary>Accep...</summary><p>Accepted to CVPR 2024. Project website: https://vastgaussian.github.io</p></details> |
-| **[SWAG: Splatting in the Wild images with Appearance-conditioned Gaussians](https://arxiv.org/pdf/2403.10427v2)** | 2024-04-08 |  |
 | **[IG-SLAM: Instant Gaussian SLAM](https://arxiv.org/pdf/2408.01126v2)** | 2024-08-08 | <details><summary>8 pag...</summary><p>8 pages, 3 page ref, 5 figures</p></details> |
+| **[SWAG: Splatting in the Wild images with Appearance-conditioned Gaussians](https://arxiv.org/pdf/2403.10427v2)** | 2024-04-08 |  |
 | **[FlexDrive: Toward Trajectory Flexibility in Driving Scene Reconstruction and Rendering](https://arxiv.org/pdf/2502.21093v2)** | 2025-03-04 |  |
 | **[Virtual Memory for 3D Gaussian Splatting](https://arxiv.org/pdf/2506.19415v1)** | 2025-06-25 | <details><summary>Based...</summary><p>Based on the Master Thesis from Jonathan Haberl from 2024, Submitted to TVCG in Feb. 2025;</p></details> |
 | **[GLC-SLAM: Gaussian Splatting SLAM with Efficient Loop Closure](https://arxiv.org/pdf/2409.10982v1)** | 2024-09-18 |  |
 | **[Reconstruction Using the Invisible: Intuition from NIR and Metadata for Enhanced 3D Gaussian Splatting](https://arxiv.org/pdf/2508.14443v1)** | 2025-08-21 |  |
 | **[GSGAN: Adversarial Learning for Hierarchical Generation of 3D Gaussian Splats](https://arxiv.org/pdf/2406.02968v2)** | 2024-11-18 | <details><summary>NeurI...</summary><p>NeurIPS 2024 / Project page: https://hse1032.github.io/gsgan</p></details> |
 | **[GaussianFocus: Constrained Attention Focus for 3D Gaussian Splatting](https://arxiv.org/pdf/2503.17798v1)** | 2025-03-25 |  |
-| **[CLoD-GS: Continuous Level-of-Detail via 3D Gaussian Splatting](https://arxiv.org/pdf/2510.09997v1)** | 2025-10-14 |  |
 | **[GaussianPainter: Painting Point Cloud into 3D Gaussians with Normal Guidance](https://arxiv.org/pdf/2412.17715v1)** | 2024-12-24 | <details><summary>To ap...</summary><p>To appear in AAAI 2025</p></details> |
+| **[CLoD-GS: Continuous Level-of-Detail via 3D Gaussian Splatting](https://arxiv.org/pdf/2510.09997v1)** | 2025-10-14 |  |
 | **[FLoD: Integrating Flexible Level of Detail into 3D Gaussian Splatting for Customizable Rendering](https://arxiv.org/pdf/2408.12894v2)** | 2025-06-12 | <details><summary>Proje...</summary><p>Project page: https://3dgs-flod.github.io/flod/</p></details> |
 | **[FGGS-LiDAR: Ultra-Fast, GPU-Accelerated Simulation from General 3DGS Models to LiDAR](https://arxiv.org/pdf/2509.17390v1)** | 2025-09-23 |  |
-| **[LiHi-GS: LiDAR-Supervised Gaussian Splatting for Highway Driving Scene Reconstruction](https://arxiv.org/pdf/2412.15447v2)** | 2024-12-30 |  |
 | **[SplatFlow: Self-Supervised Dynamic Gaussian Splatting in Neural Motion Flow Field for Autonomous Driving](https://arxiv.org/pdf/2411.15482v2)** | 2025-03-28 |  |
+| **[LiHi-GS: LiDAR-Supervised Gaussian Splatting for Highway Driving Scene Reconstruction](https://arxiv.org/pdf/2412.15447v2)** | 2024-12-30 |  |
 | **[CSS: Overcoming Pose and Scene Challenges in Crowd-Sourced 3D Gaussian Splatting](https://arxiv.org/pdf/2409.08562v1)** | 2024-09-16 |  |
 | **[ExploreGS: a vision-based low overhead framework for 3D scene reconstruction](https://arxiv.org/pdf/2505.10578v1)** | 2025-05-19 |  |
 | **[ASH: Animatable Gaussian Splats for Efficient and Photoreal Human Rendering](https://arxiv.org/pdf/2312.05941v2)** | 2024-04-16 | <details><summary>For p...</summary><p>For project page, see https://vcai.mpi-inf.mpg.de/projects/ash/</p></details> |
@@ -99,10 +99,10 @@ labels: documentation
 | **[LOBE-GS: Load-Balanced and Efficient 3D Gaussian Splatting for Large-Scale Scene Reconstruction](https://arxiv.org/pdf/2510.01767v1)** | 2025-10-03 |  |
 | **[DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes](https://arxiv.org/pdf/2312.07920v3)** | 2024-03-21 |  |
 | **[FreeSplat: Generalizable 3D Gaussian Splatting Towards Free-View Synthesis of Indoor Scenes](https://arxiv.org/pdf/2405.17958v3)** | 2024-10-30 |  |
-| **[GRAND-SLAM: Local Optimization for Globally Consistent Large-Scale Multi-Agent Gaussian SLAM](https://arxiv.org/pdf/2506.18885v1)** | 2025-06-24 |  |
-| **[GaussianFlowOcc: Sparse and Weakly Supervised Occupancy Estimation using Gaussian Splatting and Temporal Flow](https://arxiv.org/pdf/2502.17288v4)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
 | **[RSGaussian:3D Gaussian Splatting with LiDAR for Aerial Remote Sensing Novel View Synthesis](https://arxiv.org/pdf/2412.18380v1)** | 2024-12-25 |  |
 | **[VPGS-SLAM: Voxel-based Progressive 3D Gaussian SLAM in Large-Scale Scenes](https://arxiv.org/pdf/2505.18992v1)** | 2025-05-27 |  |
+| **[GaussianFlowOcc: Sparse and Weakly Supervised Occupancy Estimation using Gaussian Splatting and Temporal Flow](https://arxiv.org/pdf/2502.17288v4)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
+| **[GRAND-SLAM: Local Optimization for Globally Consistent Large-Scale Multi-Agent Gaussian SLAM](https://arxiv.org/pdf/2506.18885v1)** | 2025-06-24 |  |
 | **[Holistic Large-Scale Scene Reconstruction via Mixed Gaussian Splatting](https://arxiv.org/pdf/2505.23280v1)** | 2025-05-30 |  |
 | **[Gaussian-LIC: Real-Time Photo-Realistic SLAM with Gaussian Splatting and LiDAR-Inertial-Camera Fusion](https://arxiv.org/pdf/2404.06926v3)** | 2025-08-21 | ICRA 2025 |
 | **[DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos](https://arxiv.org/pdf/2506.09997v1)** | 2025-06-12 | <details><summary>Proje...</summary><p>Project page: https://hubert0527.github.io/dgslrm/</p></details> |
@@ -119,40 +119,40 @@ labels: documentation
 | **[GBR: Generative Bundle Refinement for High-fidelity Gaussian Splatting with Enhanced Mesh Reconstruction](https://arxiv.org/pdf/2412.05908v2)** | 2025-08-18 |  |
 | **[GS2E: Gaussian Splatting is an Effective Data Generator for Event Stream Generation](https://arxiv.org/pdf/2505.15287v1)** | 2025-05-22 | <details><summary>21 pa...</summary><p>21 pages, 7 figures. More details at http://intothemild.github.io/GS2E.github.io</p></details> |
 | **[FPGS: Feed-Forward Semantic-aware Photorealistic Style Transfer of Large-Scale Gaussian Splatting](https://arxiv.org/pdf/2503.09635v1)** | 2025-03-14 | <details><summary>Proje...</summary><p>Project page: https://kim-geonu.github.io/FPGS/. arXiv admin note: substantial text overlap with arXiv:2401.05516</p></details> |
-| **[Point Cloud Segmentation of Agricultural Vehicles using 3D Gaussian Splatting](https://arxiv.org/pdf/2506.05009v1)** | 2025-06-06 |  |
 | **[Lightweight Predictive 3D Gaussian Splats](https://arxiv.org/pdf/2406.19434v1)** | 2024-07-01 | <details><summary>Proje...</summary><p>Project Page: https://plumpuddings.github.io/LPGS//</p></details> |
 | **[Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering](https://arxiv.org/pdf/2312.00109v1)** | 2023-12-04 | <details><summary>Proje...</summary><p>Project page: https://city-super.github.io/scaffold-gs/</p></details> |
+| **[Point Cloud Segmentation of Agricultural Vehicles using 3D Gaussian Splatting](https://arxiv.org/pdf/2506.05009v1)** | 2025-06-06 |  |
 | **[Tortho-Gaussian: Splatting True Digital Orthophoto Maps](https://arxiv.org/pdf/2411.19594v1)** | 2024-12-02 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE Transactions on Geoscience and Remote Sensing for possible publication</p></details> |
 | **[Large-Scale Gaussian Splatting SLAM](https://arxiv.org/pdf/2505.09915v1)** | 2025-05-16 |  |
-| **[ShapeSplat: A Large-scale Dataset of Gaussian Splats and Their Self-Supervised Pretraining](https://arxiv.org/pdf/2408.10906v2)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted as 3DV'25 Oral, project page: https://unique1i.github.io/ShapeSplat_webpage/</p></details> |
 | **[Perceive-Sample-Compress: Towards Real-Time 3D Gaussian Splatting](https://arxiv.org/pdf/2508.04965v1)** | 2025-08-08 |  |
+| **[ShapeSplat: A Large-scale Dataset of Gaussian Splats and Their Self-Supervised Pretraining](https://arxiv.org/pdf/2408.10906v2)** | 2025-09-09 | <details><summary>Accep...</summary><p>Accepted as 3DV'25 Oral, project page: https://unique1i.github.io/ShapeSplat_webpage/</p></details> |
 | **[GaussianSpeech: Audio-Driven Gaussian Avatars](https://arxiv.org/pdf/2411.18675v1)** | 2024-12-02 | <details><summary>Paper...</summary><p>Paper Video: https://youtu.be/2VqYoFlYcwQ Project Page: https://shivangi-aneja.github.io/projects/gaussianspeech</p></details> |
-| **[Perceptual-GS: Scene-adaptive Perceptual Densification for Gaussian Splatting](https://arxiv.org/pdf/2506.12400v2)** | 2025-06-23 | <details><summary>Accep...</summary><p>Accepted to International Conference on Machine Learning (ICML) 2025</p></details> |
-| **[GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping](https://arxiv.org/pdf/2501.08672v1)** | 2025-01-16 |  |
 | **[EfficientGS: Streamlining Gaussian Splatting for Large-Scale High-Resolution Scene Representation](https://arxiv.org/pdf/2404.12777v1)** | 2024-04-22 |  |
 | **[CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians](https://arxiv.org/pdf/2505.21041v3)** | 2025-06-10 |  |
 | **[Scalable Indoor Novel-View Synthesis using Drone-Captured 360 Imagery with 3D Gaussian Splatting](https://arxiv.org/pdf/2410.11285v1)** | 2024-10-16 | <details><summary>Accep...</summary><p>Accepted to ECCV 2024 S3DSGR Workshop</p></details> |
+| **[GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping](https://arxiv.org/pdf/2501.08672v1)** | 2025-01-16 |  |
+| **[Perceptual-GS: Scene-adaptive Perceptual Densification for Gaussian Splatting](https://arxiv.org/pdf/2506.12400v2)** | 2025-06-23 | <details><summary>Accep...</summary><p>Accepted to International Conference on Machine Learning (ICML) 2025</p></details> |
 | **[RenderWorld: World Model with Self-Supervised 3D Label](https://arxiv.org/pdf/2409.11356v2)** | 2025-02-14 | <details><summary>Accep...</summary><p>Accepted in 2025 IEEE International Conference on Robotics and Automation (ICRA)</p></details> |
 | **[CAGS: Open-Vocabulary 3D Scene Understanding with Context-Aware Gaussian Splatting](https://arxiv.org/pdf/2504.11893v1)** | 2025-04-17 |  |
-| **[PG-SAG: Parallel Gaussian Splatting for Fine-Grained Large-Scale Urban Buildings Reconstruction via Semantic-Aware Grouping](https://arxiv.org/pdf/2501.01677v1)** | 2025-01-06 |  |
 | **[On Scaling Up 3D Gaussian Splatting Training](https://arxiv.org/pdf/2406.18533v2)** | 2025-11-10 | <details><summary>ICLR ...</summary><p>ICLR 2025 Oral; Homepage: https://daohanlu.github.io/scaling-up-3dgs/</p></details> |
+| **[PG-SAG: Parallel Gaussian Splatting for Fine-Grained Large-Scale Urban Buildings Reconstruction via Semantic-Aware Grouping](https://arxiv.org/pdf/2501.01677v1)** | 2025-01-06 |  |
 | **[CE-NPBG: Connectivity Enhanced Neural Point-Based Graphics for Novel View Synthesis in Autonomous Driving Scenes](https://arxiv.org/pdf/2504.19557v1)** | 2025-04-29 | <details><summary>Accep...</summary><p>Accepted in 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</p></details> |
 | **[Duplex-GS: Proxy-Guided Weighted Blending for Real-Time Order-Independent Gaussian Splatting](https://arxiv.org/pdf/2508.03180v1)** | 2025-08-06 |  |
-| **[CityGaussianV2: Efficient and Geometrically Accurate Reconstruction for Large-Scale Scenes](https://arxiv.org/pdf/2411.00771v2)** | 2025-03-05 | Accepted by ICLR2025 |
 | **[LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes](https://arxiv.org/pdf/2311.13384v2)** | 2023-11-27 | <details><summary>Proje...</summary><p>Project page: https://luciddreamer-cvlab.github.io/</p></details> |
+| **[CityGaussianV2: Efficient and Geometrically Accurate Reconstruction for Large-Scale Scenes](https://arxiv.org/pdf/2411.00771v2)** | 2025-03-05 | Accepted by ICLR2025 |
 | **[AgriGS-SLAM: Orchard Mapping Across Seasons via Multi-View Gaussian Splatting SLAM](https://arxiv.org/pdf/2510.26358v1)** | 2025-10-31 |  |
-| **[4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching](https://arxiv.org/pdf/2412.13639v3)** | 2025-10-21 | <details><summary>Our c...</summary><p>Our code and results can be publicly accessed at: https://github.com/robotics-upo/gaussian-rio-cpp</p></details> |
 | **[Sampling 3D Gaussian Scenes in Seconds with Latent Diffusion Models](https://arxiv.org/pdf/2406.13099v1)** | 2024-06-21 |  |
 | **[Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting](https://arxiv.org/pdf/2505.20729v1)** | 2025-05-28 |  |
 | **[UniGaussian: Driving Scene Reconstruction from Multiple Camera Models via Unified Gaussian Representations](https://arxiv.org/pdf/2411.15355v2)** | 2025-03-04 | Technical report |
 | **[GaussianPro: 3D Gaussian Splatting with Progressive Propagation](https://arxiv.org/pdf/2402.14650v1)** | 2024-02-23 | <details><summary>See t...</summary><p>See the project page for code, data: https://kcheng1021.github.io/gaussianpro.github.io</p></details> |
-| **[Micro-macro Gaussian Splatting with Enhanced Scalability for Unconstrained Scene Reconstruction](https://arxiv.org/pdf/2506.13516v1)** | 2025-06-17 |  |
 | **[GraphGSOcc: Semantic-Geometric Graph Transformer with Dynamic-Static Decoupling for 3D Gaussian Splatting-based Occupancy Prediction](https://arxiv.org/pdf/2506.14825v2)** | 2025-07-03 |  |
-| **[Image-Conditioned 3D Gaussian Splat Quantization](https://arxiv.org/pdf/2508.15372v2)** | 2025-10-01 |  |
-| **[GAP: Gaussianize Any Point Clouds with Text Guidance](https://arxiv.org/pdf/2508.05631v1)** | 2025-09-18 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://weiqi-zhang.github.io/GAP</p></details> |
+| **[Micro-macro Gaussian Splatting with Enhanced Scalability for Unconstrained Scene Reconstruction](https://arxiv.org/pdf/2506.13516v1)** | 2025-06-17 |  |
 | **[FHGS: Feature-Homogenized Gaussian Splatting](https://arxiv.org/pdf/2505.19154v1)** | 2025-05-27 |  |
-| **[DynamicTree: Interactive Real Tree Animation via Sparse Voxel Spectrum](https://arxiv.org/pdf/2510.22213v1)** | 2025-10-28 | <details><summary>Proje...</summary><p>Project Page: https://dynamictree-dev.github.io/DynamicTree.github.io/</p></details> |
+| **[GAP: Gaussianize Any Point Clouds with Text Guidance](https://arxiv.org/pdf/2508.05631v1)** | 2025-09-18 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://weiqi-zhang.github.io/GAP</p></details> |
+| **[Image-Conditioned 3D Gaussian Splat Quantization](https://arxiv.org/pdf/2508.15372v2)** | 2025-10-01 |  |
 | **[SaLon3R: Structure-aware Long-term Generalizable 3D Reconstruction from Unposed Images](https://arxiv.org/pdf/2510.15072v1)** | 2025-10-20 |  |
+| **[DynamicTree: Interactive Real Tree Animation via Sparse Voxel Spectrum](https://arxiv.org/pdf/2510.22213v1)** | 2025-10-28 | <details><summary>Proje...</summary><p>Project Page: https://dynamictree-dev.github.io/DynamicTree.github.io/</p></details> |
+| **[4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching](https://arxiv.org/pdf/2412.13639v4)** | 2025-11-13 | <details><summary>Our c...</summary><p>Our code and results can be publicly accessed at: https://github.com/robotics-upo/gaussian-rio-cpp</p></details> |
 | **[Hier-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting](https://arxiv.org/pdf/2409.12518v4)** | 2025-03-11 | <details><summary>Accep...</summary><p>Accepted for publication at ICRA 2025. Code is available at https://github.com/LeeBY68/Hier-SLAM</p></details> |
 | **[SceneSplat++: A Large Dataset and Comprehensive Benchmark for Language Gaussian Splatting](https://arxiv.org/pdf/2506.08710v1)** | 2025-06-11 | <details><summary>15 pa...</summary><p>15 pages, codes, data and benchmark will be released</p></details> |
 | **[TraGraph-GS: Trajectory Graph-based Gaussian Splatting for Arbitrary Large-Scale Scene Rendering](https://arxiv.org/pdf/2506.08704v1)** | 2025-06-11 |  |
@@ -272,8 +272,8 @@ labels: documentation
 | **[Comparison of Various SLAM Systems for Mobile Robot in an Indoor Environment](https://arxiv.org/pdf/2501.09490v1)** | 2025-01-17 | 6 pages, 6 figures |
 | **[A Biologically-Inspired Simultaneous Localization and Mapping System Based on LiDAR Sensor](https://arxiv.org/pdf/2109.12910v2)** | 2023-06-27 |  |
 | **[Lightweight 3-D Localization and Mapping for Solid-State LiDAR](https://arxiv.org/pdf/2102.03800v2)** | 2021-02-18 | <details><summary>Accep...</summary><p>Accepted by IEEE Robotics and Automation Letters</p></details> |
-| **[A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments](https://arxiv.org/pdf/2210.00812v1)** | 2022-10-04 | 6 pages |
 | **[Doppler-SLAM: Doppler-Aided Radar-Inertial and LiDAR-Inertial Simultaneous Localization and Mapping](https://arxiv.org/pdf/2504.11634v3)** | 2025-08-06 | 8 pages, 7 figures |
+| **[A Benchmark for Multi-Modal Lidar SLAM with Ground Truth in GNSS-Denied Environments](https://arxiv.org/pdf/2210.00812v1)** | 2022-10-04 | 6 pages |
 | **[A Survey of Simultaneous Localization and Mapping with an Envision in 6G Wireless Networks](https://arxiv.org/pdf/1909.05214v4)** | 2020-02-17 | <details><summary>Comme...</summary><p>Comments are welcome and can be sent to email addresses in the paper</p></details> |
 | **[SC-LiDAR-SLAM: a Front-end Agnostic Versatile LiDAR SLAM System](https://arxiv.org/pdf/2201.06423v1)** | 2022-01-19 |  |
 | **[Intensity-SLAM: Intensity Assisted Localization and Mapping for Large Scale Environment](https://arxiv.org/pdf/2102.03798v2)** | 2021-02-18 | <details><summary>Accep...</summary><p>Accepted in IEEE Robotics and Automation Letters</p></details> |
@@ -295,8 +295,8 @@ labels: documentation
 | **[Optimized SC-F-LOAM: Optimized Fast LiDAR Odometry and Mapping Using Scan Context](https://arxiv.org/pdf/2204.04932v2)** | 2023-03-16 |  |
 | **[DCL-SLAM: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm](https://arxiv.org/pdf/2210.11978v2)** | 2023-12-29 |  |
 | **[Radar SLAM: A Robust SLAM System for All Weather Conditions](https://arxiv.org/pdf/2104.05347v1)** | 2021-04-13 | Under review |
-| **[Performance Analysis of NDT-based Graph SLAM for Autonomous Vehicle in Diverse Typical Driving Scenarios of Hong Kong](https://arxiv.org/pdf/1810.04848v2)** | 2018-11-02 | 24 pages, 19 figures |
 | **[LiDAR-BIND-T: Improved and Temporally Consistent Sensor Modality Translation and Fusion for Robotic Applications](https://arxiv.org/pdf/2509.05728v3)** | 2025-10-01 |  |
+| **[Performance Analysis of NDT-based Graph SLAM for Autonomous Vehicle in Diverse Typical Driving Scenarios of Hong Kong](https://arxiv.org/pdf/1810.04848v2)** | 2018-11-02 | 24 pages, 19 figures |
 | **[Robust Multi-Modal Multi-LiDAR-Inertial Odometry and Mapping for Indoor Environments](https://arxiv.org/pdf/2303.02684v1)** | 2023-03-07 |  |
 | **[MULLS: Versatile LiDAR SLAM via Multi-metric Linear Least Square](https://arxiv.org/pdf/2102.03771v3)** | 2021-04-28 | <details><summary>Codes...</summary><p>Codes: https://github.com/YuePanEdward/MULLS, Accepted by ICRA 2021</p></details> |
 | **[LVI-Q: Robust LiDAR-Visual-Inertial-Kinematic Odometry for Quadruped Robots Using Tightly-Coupled and Efficient Alternating Optimization](https://arxiv.org/pdf/2510.15220v1)** | 2025-10-20 | 8 Pages, 9 Figures |
@@ -315,8 +315,8 @@ labels: documentation
 | **[PlaneSLAM: Plane-based LiDAR SLAM for Motion Planning in Structured 3D Environments](https://arxiv.org/pdf/2209.08248v2)** | 2022-10-03 |  |
 | **[A Universal LiDAR SLAM Accelerator System on Low-cost FPGA](https://arxiv.org/pdf/2103.09523v2)** | 2022-01-03 |  |
 | **[Indoor simultaneous localization and mapping based on fringe projection profilometry](https://arxiv.org/pdf/2204.11020v1)** | 2023-02-15 |  |
-| **[Photometric LiDAR and RGB-D Bundle Adjustment](https://arxiv.org/pdf/2303.16878v1)** | 2023-03-30 | 11 pages, 9 figures |
 | **[PaGO-LOAM: Robust Ground-Optimized LiDAR Odometry](https://arxiv.org/pdf/2206.00266v1)** | 2022-06-02 | <details><summary>7 pag...</summary><p>7 pages, 5 figures, conference</p></details> |
+| **[Photometric LiDAR and RGB-D Bundle Adjustment](https://arxiv.org/pdf/2303.16878v1)** | 2023-03-30 | 11 pages, 9 figures |
 | **[BALM: Bundle Adjustment for Lidar Mapping](https://arxiv.org/pdf/2010.08215v2)** | 2021-01-14 | <details><summary>8 pag...</summary><p>8 pages, 9 figures, conference</p></details> |
 | **[Light-LOAM: A Lightweight LiDAR Odometry and Mapping based on Graph-Matching](https://arxiv.org/pdf/2310.04162v1)** | 2023-10-09 |  |
 | **[LMBAO: A Landmark Map for Bundle Adjustment Odometry in LiDAR SLAM](https://arxiv.org/pdf/2209.08810v1)** | 2022-09-20 | <details><summary>9 pag...</summary><p>9 pages, 3 tables, 6 figures</p></details> |
@@ -328,9 +328,9 @@ labels: documentation
 | **[A real-time global re-localization framework for 3D LiDAR SLAM](https://arxiv.org/pdf/2109.00200v1)** | 2021-09-02 | <details><summary>7 pag...</summary><p>7 pages, 8 figures, 5 tables</p></details> |
 | **[IMLS-SLAM: scan-to-model matching based on 3D data](https://arxiv.org/pdf/1802.08633v1)** | 2018-02-26 |  |
 | **[LiDAR Data Enrichment Using Deep Learning Based on High-Resolution Image: An Approach to Achieve High-Performance LiDAR SLAM Using Low-cost LiDAR](https://arxiv.org/pdf/2008.03694v1)** | 2020-08-11 |  |
-| **[A LiDAR-Inertial-Visual SLAM System with Loop Detection](https://arxiv.org/pdf/2301.05604v1)** | 2023-01-16 | <details><summary>2022 ...</summary><p>2022 12th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (IEEE Cyber Oral)</p></details> |
 | **[Greedy-Based Feature Selection for Efficient LiDAR SLAM](https://arxiv.org/pdf/2103.13090v1)** | 2021-03-25 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, accepted at 2021 International Conference on Robotics and Automation (ICRA 2021)</p></details> |
 | **[From Underground Mines to Offices: A Versatile and Robust Framework for Range-Inertial SLAM](https://arxiv.org/pdf/2407.14797v2)** | 2025-01-14 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 3 tables</p></details> |
+| **[A LiDAR-Inertial-Visual SLAM System with Loop Detection](https://arxiv.org/pdf/2301.05604v1)** | 2023-01-16 | <details><summary>2022 ...</summary><p>2022 12th International Conference on CYBER Technology in Automation, Control, and Intelligent Systems (IEEE Cyber Oral)</p></details> |
 | **[SKiD-SLAM: Robust, Lightweight, and Distributed Multi-Robot LiDAR SLAM in Resource-Constrained Field Environments](https://arxiv.org/pdf/2505.08230v3)** | 2025-07-31 | 8 pages, 10 figures |
 | **[Direct LiDAR-Inertial Odometry and Mapping: Perceptive and Connective SLAM](https://arxiv.org/pdf/2305.01843v1)** | 2023-05-04 |  |
 | **[Online Localisation and Colored Mesh Reconstruction Architecture for 3D Visual Feedback in Robotic Exploration Missions](https://arxiv.org/pdf/2207.10489v1)** | 2022-07-22 |  |
@@ -342,8 +342,8 @@ labels: documentation
 | **[Collaborative Radio SLAM for Multiple Robots based on WiFi Fingerprint Similarity](https://arxiv.org/pdf/2110.06541v2)** | 2021-10-22 | <details><summary>Accep...</summary><p>Accepted by 2021 IEEE International Conference on Robotics and Biomimetics, Sanya, China</p></details> |
 | **[Lidar Variability: A Novel Dataset and Comparative Study of Solid-State and Spinning Lidars](https://arxiv.org/pdf/2507.04321v1)** | 2025-07-08 |  |
 | **[LiV-GS: LiDAR-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments](https://arxiv.org/pdf/2411.12185v1)** | 2024-11-20 |  |
-| **[DSP-SLAM: Object Oriented SLAM with Deep Shape Priors](https://arxiv.org/pdf/2108.09481v2)** | 2021-10-25 | <details><summary>To be...</summary><p>To be published at 3DV 2021</p></details> |
 | **[NTU4DRadLM: 4D Radar-centric Multi-Modal Dataset for Localization and Mapping](https://arxiv.org/pdf/2309.00962v1)** | 2023-09-06 | <details><summary>2023 ...</summary><p>2023 IEEE International Intelligent Transportation Systems Conference (ITSC 2023)</p></details> |
+| **[DSP-SLAM: Object Oriented SLAM with Deep Shape Priors](https://arxiv.org/pdf/2108.09481v2)** | 2021-10-25 | <details><summary>To be...</summary><p>To be published at 3DV 2021</p></details> |
 | **[A Fast and Robust Place Recognition Approach for Stereo Visual Odometry Using LiDAR Descriptors](https://arxiv.org/pdf/1909.07267v4)** | 2020-07-28 | Accepted by IROS2020 |
 | **[CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation](https://arxiv.org/pdf/2409.19597v1)** | 2024-10-01 | 7 pages, 5 figures |
 | **[Real-time Multi-Adaptive-Resolution-Surfel 6D LiDAR Odometry using Continuous-time Trajectory Optimization](https://arxiv.org/pdf/2105.02010v2)** | 2021-09-30 | <details><summary>In Pr...</summary><p>In Proceedings of IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Prague, Czech Republic, September 2021</p></details> |
@@ -352,14 +352,14 @@ labels: documentation
 | **[GP-SLAM+: real-time 3D lidar SLAM based on improved regionalized Gaussian process map reconstruction](https://arxiv.org/pdf/2008.00644v1)** | 2023-03-10 | <details><summary>Accep...</summary><p>Accepted by IROS 2020</p></details> |
 | **[ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets](https://arxiv.org/pdf/2406.16713v4)** | 2024-11-15 | <details><summary>19 pa...</summary><p>19 pages, 27 figures. Submitted to IEEE Transactions on Robotics</p></details> |
 | **[Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps](https://arxiv.org/pdf/2501.07399v1)** | 2025-01-14 |  |
+| **[LiSTA: Geometric Object-Based Change Detection in Cluttered Environments](https://arxiv.org/pdf/2403.02175v2)** | 2024-03-06 | <details><summary>6+n p...</summary><p>6+n page limit for (accepted) ICRA 2024 submission</p></details> |
 | **[MD-SLAM: Multi-cue Direct SLAM](https://arxiv.org/pdf/2203.13237v1)** | 2022-03-25 | 8 pages, 7 figures |
 | **[Multi-Sensor Terrestrial SLAM for Real-Time, Large-Scale, and GNSS-Interrupted Forest Mapping](https://arxiv.org/pdf/2310.01064v1)** | 2023-10-03 |  |
-| **[LiSTA: Geometric Object-Based Change Detection in Cluttered Environments](https://arxiv.org/pdf/2403.02175v2)** | 2024-03-06 | <details><summary>6+n p...</summary><p>6+n page limit for (accepted) ICRA 2024 submission</p></details> |
 | **[Dynamic Object Aware LiDAR SLAM based on Automatic Generation of Training Data](https://arxiv.org/pdf/2104.03657v1)** | 2022-01-14 | <details><summary>6 pag...</summary><p>6 pages, 11 figures, Accepted to the 2021 IEEE International Conference on Robotics and Automation (ICRA 2021)</p></details> |
 | **[Gaussian-LIC: Real-Time Photo-Realistic SLAM with Gaussian Splatting and LiDAR-Inertial-Camera Fusion](https://arxiv.org/pdf/2404.06926v3)** | 2025-08-21 | ICRA 2025 |
 | **[Robust Photogeometric Localization over Time for Map-Centric Loop Closure](https://arxiv.org/pdf/1901.07660v2)** | 2019-01-31 | <details><summary>To Ap...</summary><p>To Appear in IEEE ROBOTICS AND AUTOMATION LETTERS, ACCEPTED JANUARY 2019</p></details> |
-| **[SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction](https://arxiv.org/pdf/2312.16800v1)** | 2023-12-29 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, submitted to IEEE RA-L</p></details> |
 | **[Transformation & Translation Occupancy Grid Mapping: 2-Dimensional Deep Learning Refined SLAM](https://arxiv.org/pdf/2504.19654v1)** | 2025-04-29 | <details><summary>12 pa...</summary><p>12 pages, preprint, submitted to Robotics And Autonomous Systems</p></details> |
+| **[SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction](https://arxiv.org/pdf/2312.16800v1)** | 2023-12-29 | <details><summary>7 pag...</summary><p>7 pages, 6 figures, submitted to IEEE RA-L</p></details> |
 | **[DL-SLOT: Dynamic Lidar SLAM and Object Tracking Based On Graph Optimization](https://arxiv.org/pdf/2202.11431v1)** | 2022-02-24 |  |
 | **[TwistSLAM++: Fusing multiple modalities for accurate dynamic semantic SLAM](https://arxiv.org/pdf/2209.07888v2)** | 2023-03-24 |  |
 | **[VIRAL SLAM: Tightly Coupled Camera-IMU-UWB-Lidar SLAM](https://arxiv.org/pdf/2105.03296v3)** | 2021-10-06 |  |
@@ -377,8 +377,8 @@ labels: documentation
 | **[Fast Direct Stereo Visual SLAM](https://arxiv.org/pdf/2112.01890v1)** | 2021-12-06 |  |
 | **[Toward Underground Localization: Lidar Inertial Odometry Enabled Aerial Robot Navigation](https://arxiv.org/pdf/1910.13085v1)** | 2019-10-30 | <details><summary>Accep...</summary><p>Accepted to IROS 2019 Workshop on Challenges in Vision-based Drones Navigation</p></details> |
 | **[Dynamic Recalibration in LiDAR SLAM: Integrating AI and Geometric Methods with Real-Time Feedback Using INAF Fusion](https://arxiv.org/pdf/2510.15803v1)** | 2025-10-20 | 9 pages, 9 figures |
-| **[Visual SLAMMOT Considering Multiple Motion Models](https://arxiv.org/pdf/2411.19134v2)** | 2025-08-15 |  |
 | **[Dynamic Initialization for LiDAR-inertial SLAM](https://arxiv.org/pdf/2504.01451v1)** | 2025-04-03 | <details><summary>Accep...</summary><p>Accepted by IEEE/ASME Transactions on Mechatronics</p></details> |
+| **[Visual SLAMMOT Considering Multiple Motion Models](https://arxiv.org/pdf/2411.19134v2)** | 2025-08-15 |  |
 | **[Evaluation and Deployment of LiDAR-based Place Recognition in Dense Forests](https://arxiv.org/pdf/2403.14326v2)** | 2024-09-02 |  |
 | **[Stereo 3D Gaussian Splatting SLAM for Outdoor Urban Scenes](https://arxiv.org/pdf/2507.23677v1)** | 2025-08-01 |  |
 | **[Automated Lane Change Behavior Prediction and Environmental Perception Based on SLAM Technology](https://arxiv.org/pdf/2404.04492v1)** | 2024-04-09 |  |
@@ -405,9 +405,9 @@ labels: documentation
 | **[Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework](https://arxiv.org/pdf/2507.08364v1)** | 2025-07-14 | <details><summary>This ...</summary><p>This paper has already been accepted to IROS2025. 8 pages</p></details> |
 | **[SubT-MRS Dataset: Pushing SLAM Towards All-weather Environments](https://arxiv.org/pdf/2307.07607v5)** | 2024-06-04 |  |
 | **[A1 SLAM: Quadruped SLAM using the A1's Onboard Sensors](https://arxiv.org/pdf/2211.14432v1)** | 2022-11-29 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 4 tables</p></details> |
+| **[SLAM in the Field: An Evaluation of Monocular Mapping and Localization on Challenging Dynamic Agricultural Environment](https://arxiv.org/pdf/2011.01122v2)** | 2020-11-09 | <details><summary>accep...</summary><p>accepted to WACV 2021, acknowledgment added</p></details> |
 | **[MSSP : A Versatile Multi-Scenario Adaptable Intelligent Robot Simulation Platform Based on LIDAR-Inertial Fusion](https://arxiv.org/pdf/2407.14102v1)** | 2024-07-22 |  |
 | **[ECMD: An Event-Centric Multisensory Driving Dataset for SLAM](https://arxiv.org/pdf/2311.02327v1)** | 2023-11-07 |  |
-| **[SLAM in the Field: An Evaluation of Monocular Mapping and Localization on Challenging Dynamic Agricultural Environment](https://arxiv.org/pdf/2011.01122v2)** | 2020-11-09 | <details><summary>accep...</summary><p>accepted to WACV 2021, acknowledgment added</p></details> |
 | **[AeroTraj: Trajectory Planning for Fast, and Accurate 3D Reconstruction Using a Drone-based LiDAR](https://arxiv.org/pdf/2104.08634v4)** | 2024-06-28 |  |
 | **[Improvements to Target-Based 3D LiDAR to Camera Calibration](https://arxiv.org/pdf/1910.03126v3)** | 2020-07-30 |  |
 | **[An FPGA Acceleration and Optimization Techniques for 2D LiDAR SLAM Algorithm](https://arxiv.org/pdf/2006.01050v2)** | 2023-05-31 |  |
