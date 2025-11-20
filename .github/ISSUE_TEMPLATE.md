@@ -1,5 +1,5 @@
 ---
-title: Latest 150 Papers - November 19, 2025
+title: Latest 150 Papers - November 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,10 +7,10 @@ labels: documentation
 ## Must: 3D Gaussian Splatting; Any: LOD, large-scale, on the fly, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SymGS : Leveraging Local Symmetries for 3D Gaussian Splatting Compression](https://arxiv.org/abs/2511.13264v2)** | 2025-11-19 | <details><summary>Proje...</summary><p>Project Page: https://symgs.github.io/</p></details> |
+| **[RoboTidy : A 3D Gaussian Splatting Household Tidying Benchmark for Embodied Navigation and Action](https://arxiv.org/abs/2511.14161v2)** | 2025-11-19 |  |
 | **[Dental3R: Geometry-Aware Pairing for Intraoral 3D Reconstruction from Sparse-View Photographs](https://arxiv.org/abs/2511.14315v1)** | 2025-11-18 |  |
-| **[RoboTidy : A 3D Gaussian Splatting Household Tidying Benchmark for Embodied Navigation and Action](https://arxiv.org/abs/2511.14161v1)** | 2025-11-18 |  |
 | **[ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS](https://arxiv.org/abs/2505.23734v4)** | 2025-11-17 | <details><summary>NeurI...</summary><p>NeurIPS 2025, Project Page: https://lhmd.top/zpressor, Code: https://github.com/ziplab/ZPressor</p></details> |
-| **[SymGS : Leveraging Local Symmetries for 3D Gaussian Splatting Compression](https://arxiv.org/abs/2511.13264v1)** | 2025-11-17 | <details><summary>Proje...</summary><p>Project Page: https://symgs.github.io/</p></details> |
 | **[GaussianFocus: Constrained Attention Focus for 3D Gaussian Splatting](https://arxiv.org/abs/2503.17798v2)** | 2025-11-16 |  |
 | **[Changes in Real Time: Online Scene Change Detection with Multi-View Fusion](https://arxiv.org/abs/2511.12370v1)** | 2025-11-15 |  |
 | **[Duplex-GS: Proxy-Guided Weighted Blending for Real-Time Order-Independent Gaussian Splatting](https://arxiv.org/abs/2508.03180v2)** | 2025-11-14 | submitted to TCSVT |
@@ -261,10 +261,12 @@ labels: documentation
 ## Must: slam, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning from Mistakes: Loss-Aware Memory Enhanced Continual Learning for LiDAR Place Recognition](https://arxiv.org/abs/2511.15597v1)** | 2025-11-19 | 8 pages, 4 figures |
 | **[GaRLILEO: Gravity-aligned Radar-Leg-Inertial Enhanced Odometry](https://arxiv.org/abs/2511.13216v1)** | 2025-11-17 |  |
 | **[Sequential Autonomous Exploration-Based Precise Mapping for Mobile Robots through Stepwise and Consistent Motions](https://arxiv.org/abs/2503.17005v2)** | 2025-11-17 | <details><summary>9 pag...</summary><p>9 pages, 10 figures. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Autonomous Underwater Cognitive System for Adaptive Navigation: A SLAM-Integrated Cognitive Architecture](https://arxiv.org/abs/2511.11845v1)** | 2025-11-14 | 6 pages, 2 figures |
 | **[4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching](https://arxiv.org/abs/2412.13639v4)** | 2025-11-12 | <details><summary>Our c...</summary><p>Our code and results can be publicly accessed at: https://github.com/robotics-upo/gaussian-rio-cpp</p></details> |
+| **[Real-time Point Cloud Data Transmission via L4S for 5G-Edge-Assisted Robotics](https://arxiv.org/abs/2511.15677v1)** | 2025-11-11 | IFAC Submission |
 | **[Tackling the Kidnapped Robot Problem via Sparse Feasible Hypothesis Sampling and Reliable Batched Multi-Stage Inference](https://arxiv.org/abs/2511.01219v2)** | 2025-11-11 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Semi-distributed Cross-modal Air-Ground Relative Localization](https://arxiv.org/abs/2511.06749v1)** | 2025-11-10 | <details><summary>7 pag...</summary><p>7 pages, 3 figures. Accepted by IROS 2025</p></details> |
 | **[Multi-modal Loop Closure Detection with Foundation Models in Severely Unstructured Environments](https://arxiv.org/abs/2511.05404v1)** | 2025-11-07 | <details><summary>Under...</summary><p>Under review for ICRA 2026</p></details> |
@@ -409,6 +411,4 @@ labels: documentation
 | **[FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry](https://arxiv.org/abs/2408.14035v2)** | 2024-08-28 | <details><summary>30 pa...</summary><p>30 pages, 31 figures, due to the limitation that 'The abstract field cannot exceed 1,920 characters', the abstract presented here is shorter than the one in the PDF file</p></details> |
 | **[RaNDT SLAM: Radar SLAM Based on Intensity-Augmented Normal Distributions Transform](https://arxiv.org/abs/2408.11576v1)** | 2024-08-21 | <details><summary>This ...</summary><p>This work was accepted by the IEEE/RSJ International Conference on Intelligent Robots and Systems, 2024</p></details> |
 | **[Quantitative 3D Map Accuracy Evaluation Hardware and Algorithm for LiDAR(-Inertial) SLAM](https://arxiv.org/abs/2408.09727v1)** | 2024-08-19 | <details><summary>ICCAS...</summary><p>ICCAS 2024 accepted, 5 pages, 6 figures, 2 Tables</p></details> |
-| **[GSLAMOT: A Tracklet and Query Graph-based Simultaneous Locating, Mapping, and Multiple Object Tracking System](https://arxiv.org/abs/2408.09191v1)** | 2024-08-17 | <details><summary>11 pa...</summary><p>11 pages, 9 figures, ACM MM 2024</p></details> |
-| **[Inverse k-visibility for RSSI-based Indoor Geometric Mapping](https://arxiv.org/abs/2408.07757v1)** | 2024-08-14 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE Sensors Journal for possible publication</p></details> |
 
