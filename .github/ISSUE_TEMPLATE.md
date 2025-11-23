@@ -1,5 +1,5 @@
 ---
-title: Latest 150 Papers - November 20, 2025
+title: Latest 150 Papers - November 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -261,6 +261,9 @@ labels: documentation
 ## Must: slam, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CRISTAL: Real-time Camera Registration in Static LiDAR Scans using Neural Rendering](https://arxiv.org/abs/2511.16349v1)** | 2025-11-20 |  |
+| **[Rad-GS: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments](https://arxiv.org/abs/2511.16091v1)** | 2025-11-20 |  |
+| **[Semantic Glitch: Agency and Artistry in an Autonomous Pixel Cloud](https://arxiv.org/abs/2511.16048v1)** | 2025-11-20 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Creative AI Track, The Thirty-Ninth Annual Conference on Neural Information Processing Systems</p></details> |
 | **[Learning from Mistakes: Loss-Aware Memory Enhanced Continual Learning for LiDAR Place Recognition](https://arxiv.org/abs/2511.15597v1)** | 2025-11-19 | 8 pages, 4 figures |
 | **[GaRLILEO: Gravity-aligned Radar-Leg-Inertial Enhanced Odometry](https://arxiv.org/abs/2511.13216v1)** | 2025-11-17 |  |
 | **[Sequential Autonomous Exploration-Based Precise Mapping for Mobile Robots through Stepwise and Consistent Motions](https://arxiv.org/abs/2503.17005v2)** | 2025-11-17 | <details><summary>9 pag...</summary><p>9 pages, 10 figures. This work has been submitted to the IEEE for possible publication</p></details> |
@@ -408,7 +411,4 @@ labels: documentation
 | **[Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios](https://arxiv.org/abs/2409.04961v2)** | 2024-09-10 | <details><summary>15 pa...</summary><p>15 pages, 9 figures, 6 tables. Submitted for IJRR dataset paper</p></details> |
 | **[Evaluation and Deployment of LiDAR-based Place Recognition in Dense Forests](https://arxiv.org/abs/2403.14326v2)** | 2024-08-30 |  |
 | **[BIM-SLAM: Integrating BIM Models in Multi-session SLAM for Lifelong Mapping using 3D LiDAR](https://arxiv.org/abs/2408.15870v1)** | 2024-08-28 | <details><summary>Confe...</summary><p>Conference paper in ISARC 2023</p></details> |
-| **[FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry](https://arxiv.org/abs/2408.14035v2)** | 2024-08-28 | <details><summary>30 pa...</summary><p>30 pages, 31 figures, due to the limitation that 'The abstract field cannot exceed 1,920 characters', the abstract presented here is shorter than the one in the PDF file</p></details> |
-| **[RaNDT SLAM: Radar SLAM Based on Intensity-Augmented Normal Distributions Transform](https://arxiv.org/abs/2408.11576v1)** | 2024-08-21 | <details><summary>This ...</summary><p>This work was accepted by the IEEE/RSJ International Conference on Intelligent Robots and Systems, 2024</p></details> |
-| **[Quantitative 3D Map Accuracy Evaluation Hardware and Algorithm for LiDAR(-Inertial) SLAM](https://arxiv.org/abs/2408.09727v1)** | 2024-08-19 | <details><summary>ICCAS...</summary><p>ICCAS 2024 accepted, 5 pages, 6 figures, 2 Tables</p></details> |
 
