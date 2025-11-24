@@ -1,5 +1,5 @@
 ---
-title: Latest 150 Papers - November 23, 2025
+title: Latest 150 Papers - November 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Must: 3D Gaussian Splatting; Any: LOD, large-scale, on the fly, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Wideband RF Radiance Field Modeling Using Frequency-embedded 3D Gaussian Splatting](https://arxiv.org/abs/2505.20714v2)** | 2025-11-21 |  |
+| **[PEGS: Physics-Event Enhanced Large Spatiotemporal Motion Reconstruction via 3D Gaussian Splatting](https://arxiv.org/abs/2511.17116v1)** | 2025-11-21 |  |
+| **[One Walk is All You Need: Data-Efficient 3D RF Scene Reconstruction with Human Movements](https://arxiv.org/abs/2511.16966v1)** | 2025-11-21 |  |
 | **[SymGS : Leveraging Local Symmetries for 3D Gaussian Splatting Compression](https://arxiv.org/abs/2511.13264v2)** | 2025-11-19 | <details><summary>Proje...</summary><p>Project Page: https://symgs.github.io/</p></details> |
 | **[RoboTidy : A 3D Gaussian Splatting Household Tidying Benchmark for Embodied Navigation and Action](https://arxiv.org/abs/2511.14161v2)** | 2025-11-19 |  |
 | **[Dental3R: Geometry-Aware Pairing for Intraoral 3D Reconstruction from Sparse-View Photographs](https://arxiv.org/abs/2511.14315v1)** | 2025-11-18 |  |
@@ -142,7 +145,6 @@ labels: documentation
 | **[RadarSplat: Radar Gaussian Splatting for High-Fidelity Data Synthesis and 3D Reconstruction of Autonomous Driving Scenes](https://arxiv.org/abs/2506.01379v1)** | 2025-06-02 |  |
 | **[Holistic Large-Scale Scene Reconstruction via Mixed Gaussian Splatting](https://arxiv.org/abs/2505.23280v1)** | 2025-05-29 |  |
 | **[Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting](https://arxiv.org/abs/2505.20729v1)** | 2025-05-27 |  |
-| **[Wideband RF Radiance Field Modeling Using Frequency-embedded 3D Gaussian Splatting](https://arxiv.org/abs/2505.20714v1)** | 2025-05-27 |  |
 | **[FHGS: Feature-Homogenized Gaussian Splatting](https://arxiv.org/abs/2505.19154v1)** | 2025-05-25 |  |
 | **[VPGS-SLAM: Voxel-based Progressive 3D Gaussian SLAM in Large-Scale Scenes](https://arxiv.org/abs/2505.18992v1)** | 2025-05-25 |  |
 | **[Pose Splatter: A 3D Gaussian Splatting Model for Quantifying Animal Pose and Appearance](https://arxiv.org/abs/2505.18342v1)** | 2025-05-23 | 19 pages, 13 figures |
@@ -155,8 +157,6 @@ labels: documentation
 | **[ExploreGS: a vision-based low overhead framework for 3D scene reconstruction](https://arxiv.org/abs/2505.10578v1)** | 2025-05-14 |  |
 | **[Virtualized 3D Gaussians: Flexible Cluster-based Level-of-Detail System for Real-Time Rendering of Composed Scenes](https://arxiv.org/abs/2505.06523v1)** | 2025-05-10 | <details><summary>proje...</summary><p>project page: https://xijie-yang.github.io/V3DG/</p></details> |
 | **[GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting](https://arxiv.org/abs/2504.20379v2)** | 2025-05-01 |  |
-| **[HI-SLAM2: Geometry-Aware Gaussian SLAM for Fast Monocular Scene Reconstruction](https://arxiv.org/abs/2411.17982v2)** | 2025-04-29 | Under review process |
-| **[CE-NPBG: Connectivity Enhanced Neural Point-Based Graphics for Novel View Synthesis in Autonomous Driving Scenes](https://arxiv.org/abs/2504.19557v1)** | 2025-04-28 | <details><summary>Accep...</summary><p>Accepted in 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</p></details> |
 
 ## Must: light curves; Any: inversion, reconstruction, deep learning
 | **Title** | **Date** | **Comment** |
