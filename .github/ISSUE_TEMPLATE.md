@@ -1,5 +1,5 @@
 ---
-title: Latest 150 Papers - November 25, 2025
+title: Latest 150 Papers - November 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Must: 3D Gaussian Splatting; Any: LOD, large-scale, on the fly, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FastGS: Training 3D Gaussian Splatting in 100 Seconds](https://arxiv.org/abs/2511.04283v2)** | 2025-11-25 | <details><summary>Proje...</summary><p>Project page: https://fastgs.github.io/</p></details> |
+| **[Material-informed Gaussian Splatting for 3D World Reconstruction in a Digital Twin](https://arxiv.org/abs/2511.20348v1)** | 2025-11-25 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Submitted to IEEE Intelligent Vehicles Symposium (IV) 2026 for possible publication</p></details> |
+| **[LiHi-GS: LiDAR-Supervised Gaussian Splatting for Highway Driving Scene Reconstruction](https://arxiv.org/abs/2412.15447v3)** | 2025-11-25 | RA-L 2025 |
+| **[GigaWorld-0: World Models as Data Engine to Empower Embodied AI](https://arxiv.org/abs/2511.19861v1)** | 2025-11-25 | <details><summary>Proje...</summary><p>Project Page: https://gigaworld0.github.io/</p></details> |
 | **[DensifyBeforehand: LiDAR-assisted Content-aware Densification for Efficient and Quality 3D Gaussian Splatting](https://arxiv.org/abs/2511.19294v1)** | 2025-11-24 |  |
 | **[IDSplat: Instance-Decomposed 3D Gaussian Splatting for Driving Scenes](https://arxiv.org/abs/2511.19235v1)** | 2025-11-24 |  |
 | **[NVGS: Neural Visibility for Occlusion Culling in 3D Gaussian Splatting](https://arxiv.org/abs/2511.19202v1)** | 2025-11-24 | 15 pages, 13 figures |
@@ -30,7 +34,6 @@ labels: documentation
 | **[ControlGS: Consistent Structural Compression Control for Deployment-Aware Gaussian Splatting](https://arxiv.org/abs/2505.10473v3)** | 2025-11-07 |  |
 | **[On Scaling Up 3D Gaussian Splatting Training](https://arxiv.org/abs/2406.18533v2)** | 2025-11-07 | <details><summary>ICLR ...</summary><p>ICLR 2025 Oral; Homepage: https://daohanlu.github.io/scaling-up-3dgs/</p></details> |
 | **[CLM: Removing the GPU Memory Barrier for 3D Gaussian Splatting](https://arxiv.org/abs/2511.04951v1)** | 2025-11-07 | <details><summary>Accep...</summary><p>Accepted to appear in the 2026 ACM International Conference on Architectural Support for Programming Languages and Operating Systems</p></details> |
-| **[FastGS: Training 3D Gaussian Splatting in 100 Seconds](https://arxiv.org/abs/2511.04283v1)** | 2025-11-06 | <details><summary>Proje...</summary><p>Project page: https://fastgs.github.io/</p></details> |
 | **[DentalSplat: Dental Occlusion Novel View Synthesis from Sparse Intra-Oral Photographs](https://arxiv.org/abs/2511.03099v1)** | 2025-11-05 |  |
 | **[WildfireX-SLAM: A Large-scale Low-altitude RGB-D Dataset for Wildfire SLAM and Beyond](https://arxiv.org/abs/2510.27133v1)** | 2025-10-31 | <details><summary>This ...</summary><p>This paper has been accepted by MMM 2026</p></details> |
 | **[AgriGS-SLAM: Orchard Mapping Across Seasons via Multi-View Gaussian Splatting SLAM](https://arxiv.org/abs/2510.26358v1)** | 2025-10-30 |  |
@@ -154,9 +157,6 @@ labels: documentation
 | **[VPGS-SLAM: Voxel-based Progressive 3D Gaussian SLAM in Large-Scale Scenes](https://arxiv.org/abs/2505.18992v1)** | 2025-05-25 |  |
 | **[Pose Splatter: A 3D Gaussian Splatting Model for Quantifying Animal Pose and Appearance](https://arxiv.org/abs/2505.18342v1)** | 2025-05-23 | 19 pages, 13 figures |
 | **[From Flight to Insight: Semantic 3D Reconstruction for Aerial Inspection via Gaussian Splatting and Language-Guided Segmentation](https://arxiv.org/abs/2505.17402v1)** | 2025-05-23 |  |
-| **[Render-FM: A Foundation Model for Real-time Photorealistic Volumetric Rendering](https://arxiv.org/abs/2505.17338v1)** | 2025-05-22 |  |
-| **[GS2E: Gaussian Splatting is an Effective Data Generator for Event Stream Generation](https://arxiv.org/abs/2505.15287v1)** | 2025-05-21 | <details><summary>21 pa...</summary><p>21 pages, 7 figures. More details at http://intothemild.github.io/GS2E.github.io</p></details> |
-| **[Recollection from Pensieve: Novel View Synthesis via Learning from Uncalibrated Videos](https://arxiv.org/abs/2505.13440v1)** | 2025-05-19 | 13 pages, 4 figures |
 
 ## Must: light curves; Any: inversion, reconstruction, deep learning
 | **Title** | **Date** | **Comment** |
