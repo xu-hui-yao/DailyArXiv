@@ -1,5 +1,5 @@
 ---
-title: Latest 150 Papers - December 03, 2025
+title: Latest 150 Papers - December 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Must: 3D Gaussian Splatting; Any: LOD, large-scale, on the fly, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SceneSplat++: A Large Dataset and Comprehensive Benchmark for Language Gaussian Splatting](https://arxiv.org/abs/2506.08710v2)** | 2025-12-03 | <details><summary>15 pa...</summary><p>15 pages, codes, data and benchmark are released</p></details> |
+| **[Flux4D: Flow-based Unsupervised 4D Reconstruction](https://arxiv.org/abs/2512.03210v1)** | 2025-12-02 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Project page: https://waabi.ai/flux4d/</p></details> |
 | **[Sketch-guided Cage-based 3D Gaussian Splatting Deformation](https://arxiv.org/abs/2411.12168v3)** | 2025-12-01 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, accepted at WACV 26, project page: https://tianhaoxie.github.io/project/gs_deform/</p></details> |
 | **[Feed-Forward 3D Gaussian Splatting Compression with Long-Context Modeling](https://arxiv.org/abs/2512.00877v1)** | 2025-11-30 |  |
 | **[GigaWorld-0: World Models as Data Engine to Empower Embodied AI](https://arxiv.org/abs/2511.19861v2)** | 2025-11-30 | <details><summary>Proje...</summary><p>Project Page: https://giga-world-0.github.io/</p></details> |
@@ -148,7 +150,6 @@ labels: documentation
 | **[TinySplat: Feedforward Approach for Generating Compact 3D Scene Representation](https://arxiv.org/abs/2506.09479v1)** | 2025-06-11 |  |
 | **[FLoD: Integrating Flexible Level of Detail into 3D Gaussian Splatting for Customizable Rendering](https://arxiv.org/abs/2408.12894v2)** | 2025-06-11 | <details><summary>Proje...</summary><p>Project page: https://3dgs-flod.github.io/flod/</p></details> |
 | **[GigaSLAM: Large-Scale Monocular SLAM with Hierarchical Gaussian Splats](https://arxiv.org/abs/2503.08071v2)** | 2025-06-10 |  |
-| **[SceneSplat++: A Large Dataset and Comprehensive Benchmark for Language Gaussian Splatting](https://arxiv.org/abs/2506.08710v1)** | 2025-06-10 | <details><summary>15 pa...</summary><p>15 pages, codes, data and benchmark will be released</p></details> |
 | **[TraGraph-GS: Trajectory Graph-based Gaussian Splatting for Arbitrary Large-Scale Scene Rendering](https://arxiv.org/abs/2506.08704v1)** | 2025-06-10 |  |
 | **[CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians](https://arxiv.org/abs/2505.21041v3)** | 2025-06-09 |  |
 | **[On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images](https://arxiv.org/abs/2506.05558v1)** | 2025-06-05 |  |
@@ -156,11 +157,11 @@ labels: documentation
 | **[Gen4D: Synthesizing Humans and Scenes in the Wild](https://arxiv.org/abs/2506.05397v1)** | 2025-06-03 | <details><summary>Proce...</summary><p>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops</p></details> |
 | **[SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining](https://arxiv.org/abs/2503.18052v2)** | 2025-06-03 | <details><summary>Our c...</summary><p>Our code, model, and dataset will be released at https://unique1i.github.io/SceneSplat_webpage/</p></details> |
 | **[VTGaussian-SLAM: RGBD SLAM for Large Scale Scenes with Splatting View-Tied 3D Gaussians](https://arxiv.org/abs/2506.02741v1)** | 2025-06-03 | ICML 2025 |
-| **[RadarSplat: Radar Gaussian Splatting for High-Fidelity Data Synthesis and 3D Reconstruction of Autonomous Driving Scenes](https://arxiv.org/abs/2506.01379v1)** | 2025-06-02 |  |
 
 ## Must: light curves; Any: inversion, reconstruction, deep learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ORACLE: A Real-Time, Hierarchical, Deep-Learning Photometric Classifier for the LSST](https://arxiv.org/abs/2501.01496v2)** | 2025-12-03 | <details><summary>30 pa...</summary><p>30 pages, 20 figures, 9 tables. Accepted to ApJ</p></details> |
 | **[Astromer 2](https://arxiv.org/abs/2502.02717v2)** | 2025-11-04 | 10 pages, 17 figures |
 | **[Small Dents, Big Impact: A Dataset and Deep Learning Approach for Vehicle Dent Detection](https://arxiv.org/abs/2508.15431v2)** | 2025-09-26 |  |
 | **[Beyond Spherical geometry: Unraveling complex features of objects orbiting around stars from its transit light curve using deep learning](https://arxiv.org/abs/2509.14875v1)** | 2025-09-18 | 16 pages, 17 figures |
@@ -178,7 +179,6 @@ labels: documentation
 | **[Deep Learning and LLM-based Methods Applied to Stellar Lightcurve Classification](https://arxiv.org/abs/2404.10757v2)** | 2025-02-24 | 35 pages, 20 figures |
 | **[Asteroid shape inversion with light curves using deep learning](https://arxiv.org/abs/2502.16455v1)** | 2025-02-23 |  |
 | **[Unified Few-shot Crack Segmentation and its Precise 3D Automatic Measurement in Concrete Structures](https://arxiv.org/abs/2501.09203v1)** | 2025-01-15 |  |
-| **[ORACLE: A Real-Time, Hierarchical, Deep-Learning Photometric Classifier for the LSST](https://arxiv.org/abs/2501.01496v1)** | 2025-01-02 | <details><summary>29 pa...</summary><p>29 pages, 19 figures, 9 tables. Submitted to ApJ</p></details> |
 | **[Machine learning-based classification for Single Photon Space Debris Light Curves](https://arxiv.org/abs/2411.18231v1)** | 2024-11-27 |  |
 | **[UbiHR: Resource-efficient Long-range Heart Rate Sensing on Ubiquitous Devices](https://arxiv.org/abs/2410.19279v1)** | 2024-10-25 |  |
 | **[Leveraging Deep Learning for Time Series Extrinsic Regression in predicting photometric metallicity of Fundamental-mode RR Lyrae Stars](https://arxiv.org/abs/2410.17906v1)** | 2024-10-23 | <details><summary>Senso...</summary><p>Sensors 2024, 24(16), 5203; (23 pages)</p></details> |
