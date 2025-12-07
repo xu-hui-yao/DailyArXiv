@@ -1,5 +1,5 @@
 ---
-title: Latest 150 Papers - December 04, 2025
+title: Latest 150 Papers - December 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -261,6 +261,7 @@ labels: documentation
 ## Must: slam, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TEMPO-VINE: A Multi-Temporal Sensor Fusion Dataset for Localization and Mapping in Vineyards](https://arxiv.org/abs/2512.04772v1)** | 2025-12-04 |  |
 | **[AgriLiRa4D: A Multi-Sensor UAV Dataset for Robust SLAM in Challenging Agricultural Fields](https://arxiv.org/abs/2512.01753v1)** | 2025-12-01 |  |
 | **[Integration of UWB Radar on Mobile Robots for Continuous Obstacle and Environment Mapping](https://arxiv.org/abs/2512.01018v1)** | 2025-11-30 | <details><summary>This ...</summary><p>This paper has been submitted to IEEE Access Journal and is currently undergoing review</p></details> |
 | **[A Minimal Subset Approach for Informed Keyframe Sampling in Large-Scale SLAM](https://arxiv.org/abs/2501.01791v3)** | 2025-11-29 | <details><summary>Pleas...</summary><p>Please cite the published version. 8 pages, 9 figures</p></details> |
@@ -410,5 +411,4 @@ labels: documentation
 | **[Robust Second-order LiDAR Bundle Adjustment Algorithm Using Mean Squared Group Metric](https://arxiv.org/abs/2409.01856v2)** | 2024-09-23 |  |
 | **[Range-SLAM: Ultra-Wideband-Based Smoke-Resistant Real-Time Localization and Mapping](https://arxiv.org/abs/2409.09763v1)** | 2024-09-15 |  |
 | **[Object Depth and Size Estimation using Stereo-vision and Integration with SLAM](https://arxiv.org/abs/2409.07623v1)** | 2024-09-11 | <details><summary>Accep...</summary><p>Accepted version of the published article in IEEE Sensors Letters</p></details> |
-| **[Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios](https://arxiv.org/abs/2409.04961v2)** | 2024-09-10 | <details><summary>15 pa...</summary><p>15 pages, 9 figures, 6 tables. Submitted for IJRR dataset paper</p></details> |
 
