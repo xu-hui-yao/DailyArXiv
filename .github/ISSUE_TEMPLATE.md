@@ -1,5 +1,5 @@
 ---
-title: Latest 150 Papers - December 07, 2025
+title: Latest 150 Papers - December 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,20 +7,19 @@ labels: documentation
 ## Must: 3D Gaussian Splatting; Any: LOD, large-scale, on the fly, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On-the-fly Large-scale 3D Reconstruction from Multi-Camera Rigs](https://arxiv.org/abs/2512.08498v1)** | 2025-12-09 |  |
+| **[MuSASplat: Efficient Sparse-View 3D Gaussian Splats via Lightweight Multi-Scale Adaptation](https://arxiv.org/abs/2512.07165v1)** | 2025-12-08 |  |
+| **[CrowdSplat: Exploring Gaussian Splatting For Crowd Rendering](https://arxiv.org/abs/2501.17792v3)** | 2025-12-06 | 4 pages, 4 figures |
+| **[FastGS: Training 3D Gaussian Splatting in 100 Seconds](https://arxiv.org/abs/2511.04283v3)** | 2025-12-06 | <details><summary>Proje...</summary><p>Project page: https://fastgs.github.io/</p></details> |
 | **[SceneSplat++: A Large Dataset and Comprehensive Benchmark for Language Gaussian Splatting](https://arxiv.org/abs/2506.08710v2)** | 2025-12-03 | <details><summary>15 pa...</summary><p>15 pages, codes, data and benchmark are released</p></details> |
 | **[Flux4D: Flow-based Unsupervised 4D Reconstruction](https://arxiv.org/abs/2512.03210v1)** | 2025-12-02 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Project page: https://waabi.ai/flux4d/</p></details> |
 | **[Sketch-guided Cage-based 3D Gaussian Splatting Deformation](https://arxiv.org/abs/2411.12168v3)** | 2025-12-01 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, accepted at WACV 26, project page: https://tianhaoxie.github.io/project/gs_deform/</p></details> |
 | **[Feed-Forward 3D Gaussian Splatting Compression with Long-Context Modeling](https://arxiv.org/abs/2512.00877v1)** | 2025-11-30 |  |
 | **[GigaWorld-0: World Models as Data Engine to Empower Embodied AI](https://arxiv.org/abs/2511.19861v2)** | 2025-11-30 | <details><summary>Proje...</summary><p>Project Page: https://giga-world-0.github.io/</p></details> |
-| **[DynamicTree: Interactive Real Tree Animation via Sparse Voxel Spectrum](https://arxiv.org/abs/2510.22213v2)** | 2025-11-30 | <details><summary>Proje...</summary><p>Project Page: https://dynamictree-dev.github.io/DynamicTree.github.io/</p></details> |
-| **[SplatSSC: Decoupled Depth-Guided Gaussian Splatting for Semantic Scene Completion](https://arxiv.org/abs/2508.02261v2)** | 2025-11-30 |  |
 | **[OccluGaussian: Occlusion-Aware Gaussian Splatting for Large Scene Reconstruction and Rendering](https://arxiv.org/abs/2503.16177v2)** | 2025-11-29 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025. Project website: https://occlugaussian.github.io</p></details> |
 | **[Material-informed Gaussian Splatting for 3D World Reconstruction in a Digital Twin](https://arxiv.org/abs/2511.20348v2)** | 2025-11-28 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Submitted to IEEE Intelligent Vehicles Symposium (IV) 2026 for possible publication. Revised version (v2) to correct author order</p></details> |
 | **[Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation](https://arxiv.org/abs/2503.09464v2)** | 2025-11-28 |  |
-| **[Splat-SAP: Feed-Forward Gaussian Splatting for Human-Centered Scene with Scale-Aware Point Map Reconstruction](https://arxiv.org/abs/2511.22704v1)** | 2025-11-27 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026. Project page: https://yaourtb.github.io/Splat-SAP</p></details> |
 | **[Unlocking Zero-shot Potential of Semi-dense Image Matching via Gaussian Splatting](https://arxiv.org/abs/2511.21265v1)** | 2025-11-26 |  |
-| **[FastGS: Training 3D Gaussian Splatting in 100 Seconds](https://arxiv.org/abs/2511.04283v2)** | 2025-11-25 | <details><summary>Proje...</summary><p>Project page: https://fastgs.github.io/</p></details> |
-| **[LiHi-GS: LiDAR-Supervised Gaussian Splatting for Highway Driving Scene Reconstruction](https://arxiv.org/abs/2412.15447v3)** | 2025-11-25 | RA-L 2025 |
 | **[DensifyBeforehand: LiDAR-assisted Content-aware Densification for Efficient and Quality 3D Gaussian Splatting](https://arxiv.org/abs/2511.19294v1)** | 2025-11-24 |  |
 | **[IDSplat: Instance-Decomposed 3D Gaussian Splatting for Driving Scenes](https://arxiv.org/abs/2511.19235v1)** | 2025-11-24 |  |
 | **[NVGS: Neural Visibility for Occlusion Culling in 3D Gaussian Splatting](https://arxiv.org/abs/2511.19202v1)** | 2025-11-24 | 15 pages, 13 figures |
@@ -50,18 +49,14 @@ labels: documentation
 | **[3D Dynamic Fluid Assets from Single-View Videos with Generative Gaussian Splatting](https://arxiv.org/abs/2503.00868v2)** | 2025-10-30 |  |
 | **[LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering](https://arxiv.org/abs/2505.23158v2)** | 2025-10-29 | <details><summary>NeurI...</summary><p>NeurIPS 2025; Web: https://lodge-gs.github.io/</p></details> |
 | **[NVSim: Novel View Synthesis Simulator for Large Scale Indoor Navigation](https://arxiv.org/abs/2510.24335v1)** | 2025-10-28 | 9 pages, 10 figures |
-| **[Capture, Canonicalize, Splat: Zero-Shot 3D Gaussian Avatars from Unstructured Phone Images](https://arxiv.org/abs/2510.14081v3)** | 2025-10-27 | <details><summary>This ...</summary><p>This work received the Best Paper Honorable Mention at the AMFG Workshop, ICCV 2025</p></details> |
 | **[Gen-LangSplat: Generalized Language Gaussian Splatting with Pre-Trained Feature Compression](https://arxiv.org/abs/2510.22930v1)** | 2025-10-27 |  |
 | **[Gesplat: Robust Pose-Free 3D Reconstruction via Geometry-Guided Gaussian Splatting](https://arxiv.org/abs/2510.10097v2)** | 2025-10-27 |  |
 | **[LVD-GS: Gaussian Splatting SLAM for Dynamic Scenes via Hierarchical Explicit-Implicit Representation Collaboration Rendering](https://arxiv.org/abs/2510.22669v1)** | 2025-10-26 |  |
 | **[Discretized Gaussian Representation for Tomographic Reconstruction](https://arxiv.org/abs/2411.04844v4)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
 | **[Re-Activating Frozen Primitives for 3D Gaussian Splatting](https://arxiv.org/abs/2510.19653v1)** | 2025-10-21 |  |
-| **[OpenInsGaussian: Open-vocabulary Instance Gaussian Segmentation with Context-aware Cross-view Fusion](https://arxiv.org/abs/2510.18253v1)** | 2025-10-21 |  |
 | **[GaussGym: An open-source real-to-sim framework for learning locomotion from pixels](https://arxiv.org/abs/2510.15352v1)** | 2025-10-17 |  |
 | **[SaLon3R: Structure-aware Long-term Generalizable 3D Reconstruction from Unposed Images](https://arxiv.org/abs/2510.15072v1)** | 2025-10-16 |  |
 | **[Leveraging 2D Priors and SDF Guidance for Dynamic Urban Scene Rendering](https://arxiv.org/abs/2510.13381v1)** | 2025-10-15 | <details><summary>Accep...</summary><p>Accepted at ICCV-2025, project page: https://dynamic-ugsdf.github.io/</p></details> |
-| **[LiDAR-GS:Real-time LiDAR Re-Simulation using Gaussian Splatting](https://arxiv.org/abs/2410.05111v3)** | 2025-10-13 |  |
-| **[CULTURE3D: A Large-Scale and Diverse Dataset of Cultural Landmarks and Terrains for Gaussian-Based Scene Rendering](https://arxiv.org/abs/2501.06927v4)** | 2025-10-12 |  |
 | **[CLoD-GS: Continuous Level-of-Detail via 3D Gaussian Splatting](https://arxiv.org/abs/2510.09997v1)** | 2025-10-11 |  |
 | **[PrismGS: Physically-Grounded Anti-Aliasing for High-Fidelity Large-Scale 3D Gaussian Splatting](https://arxiv.org/abs/2510.07830v1)** | 2025-10-09 |  |
 | **[ArchitectHead: Continuous Level of Detail Control for 3D Gaussian Head Avatars](https://arxiv.org/abs/2510.05488v1)** | 2025-10-07 |  |
@@ -75,7 +70,6 @@ labels: documentation
 | **[EmbodiedSplat: Personalized Real-to-Sim-to-Real Navigation with Gaussian Splats from a Mobile Device](https://arxiv.org/abs/2509.17430v2)** | 2025-09-23 | <details><summary>16 pa...</summary><p>16 pages, 18 figures, paper accepted at ICCV, 2025</p></details> |
 | **[FGGS-LiDAR: Ultra-Fast, GPU-Accelerated Simulation from General 3DGS Models to LiDAR](https://arxiv.org/abs/2509.17390v1)** | 2025-09-22 |  |
 | **[DriveSplat: Decoupled Driving Scene Reconstruction with Geometry-enhanced Partitioned Neural Gaussians](https://arxiv.org/abs/2508.15376v3)** | 2025-09-21 |  |
-| **[ST-GS: Vision-Based 3D Semantic Occupancy Prediction with Spatial-Temporal Gaussian Splatting](https://arxiv.org/abs/2509.16552v1)** | 2025-09-20 |  |
 | **[GS-Scale: Unlocking Large-Scale 3D Gaussian Splatting Training via Host Offloading](https://arxiv.org/abs/2509.15645v1)** | 2025-09-19 |  |
 | **[FMGS-Avatar: Mesh-Guided 2D Gaussian Splatting with Foundation Model Priors for 3D Monocular Avatar Reconstruction](https://arxiv.org/abs/2509.14739v1)** | 2025-09-18 |  |
 | **[Causal Reasoning Elicits Controllable 3D Scene Generation](https://arxiv.org/abs/2509.15249v1)** | 2025-09-18 |  |
@@ -84,31 +78,21 @@ labels: documentation
 | **[The Oxford Spires Dataset: Benchmarking Large-Scale LiDAR-Visual Localisation, Reconstruction and Radiance Field Methods](https://arxiv.org/abs/2411.10546v2)** | 2025-09-10 | <details><summary>Accep...</summary><p>Accepted by IJRR. Website: https://dynamic.robots.ox.ac.uk/datasets/oxford-spires/</p></details> |
 | **[ShapeSplat: A Large-scale Dataset of Gaussian Splats and Their Self-Supervised Pretraining](https://arxiv.org/abs/2408.10906v2)** | 2025-09-06 | <details><summary>Accep...</summary><p>Accepted as 3DV'25 Oral, project page: https://unique1i.github.io/ShapeSplat_webpage/</p></details> |
 | **[LOD-GS: Level-of-Detail-Sensitive 3D Gaussian Splatting for Detail Conserved Anti-Aliasing](https://arxiv.org/abs/2507.00554v3)** | 2025-08-30 |  |
-| **[GaussianFlowOcc: Sparse and Weakly Supervised Occupancy Estimation using Gaussian Splatting and Temporal Flow](https://arxiv.org/abs/2502.17288v4)** | 2025-08-25 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025</p></details> |
 | **[Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Rendering](https://arxiv.org/abs/2311.18561v3)** | 2025-08-23 | <details><summary>Proje...</summary><p>Project page: https://fudan-zvg.github.io/PVG/</p></details> |
 | **[Zero-shot Volumetric CT Super-Resolution using 3D Gaussian Splatting with Upsampled 2D X-ray Projection Priors](https://arxiv.org/abs/2508.15151v1)** | 2025-08-21 |  |
-| **[Gaussian-LIC: Real-Time Photo-Realistic SLAM with Gaussian Splatting and LiDAR-Inertial-Camera Fusion](https://arxiv.org/abs/2404.06926v3)** | 2025-08-20 | ICRA 2025 |
 | **[Reconstruction Using the Invisible: Intuition from NIR and Metadata for Enhanced 3D Gaussian Splatting](https://arxiv.org/abs/2508.14443v1)** | 2025-08-20 |  |
-| **[SLAG: Scalable Language-Augmented Gaussian Splatting](https://arxiv.org/abs/2505.08124v2)** | 2025-08-17 |  |
-| **[GBR: Generative Bundle Refinement for High-fidelity Gaussian Splatting with Enhanced Mesh Reconstruction](https://arxiv.org/abs/2412.05908v2)** | 2025-08-15 |  |
 | **[NeuralGS: Bridging Neural Fields and 3D Gaussian Splatting for Compact 3D Representations](https://arxiv.org/abs/2503.23162v2)** | 2025-08-13 | <details><summary>Proje...</summary><p>Project page: https://pku-yuangroup.github.io/NeuralGS/</p></details> |
-| **[CharacterShot: Controllable and Consistent 4D Character Animation](https://arxiv.org/abs/2508.07409v1)** | 2025-08-10 | <details><summary>13 pa...</summary><p>13 pages, 10 figures. Code at https://github.com/Jeoyal/CharacterShot</p></details> |
-| **[GS4Buildings: Prior-Guided Gaussian Splatting for 3D Building Reconstruction](https://arxiv.org/abs/2508.07355v1)** | 2025-08-10 | <details><summary>Accep...</summary><p>Accepted for presentation at ISPRS 3D GeoInfo & Smart Data, Smart Cities 2025, Kashiwa, Japan. To appear in the ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences</p></details> |
-| **[QuickSplat: Fast 3D Surface Reconstruction via Learned Gaussian Initialization](https://arxiv.org/abs/2505.05591v2)** | 2025-08-10 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://liu115.github.io/quicksplat, Video: https://youtu.be/2IA_gnFvFG8</p></details> |
 | **[Fading the Digital Ink: A Universal Black-Box Attack Framework for 3DGS Watermarking Systems](https://arxiv.org/abs/2508.07263v1)** | 2025-08-10 |  |
 | **[3DGS-VBench: A Comprehensive Video Quality Evaluation Benchmark for 3DGS Compression](https://arxiv.org/abs/2508.07038v1)** | 2025-08-09 |  |
 | **[3DGS-IEval-15K: A Large-scale Image Quality Evaluation Database for 3D Gaussian-Splatting](https://arxiv.org/abs/2506.14642v2)** | 2025-08-09 |  |
 | **[GAP: Gaussianize Any Point Clouds with Text Guidance](https://arxiv.org/abs/2508.05631v1)** | 2025-08-07 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://weiqi-zhang.github.io/GAP</p></details> |
 | **[Perceive-Sample-Compress: Towards Real-Time 3D Gaussian Splatting](https://arxiv.org/abs/2508.04965v1)** | 2025-08-07 |  |
-| **[Neural Gaussian Radio Fields for Channel Estimation](https://arxiv.org/abs/2508.11668v1)** | 2025-08-06 | <details><summary>This ...</summary><p>This paper has been submitted to NeurIPS 2025</p></details> |
 | **[Taking Language Embedded 3D Gaussian Splatting into the Wild](https://arxiv.org/abs/2507.19830v2)** | 2025-08-05 | <details><summary>Visit...</summary><p>Visit our project page at https://yuzewang1998.github.io/takinglangsplatw/</p></details> |
 | **[LT-Gaussian: Long-Term Map Update Using 3D Gaussian Splatting for Autonomous Driving](https://arxiv.org/abs/2508.01704v1)** | 2025-08-03 | Accepted by IV 2025 |
 | **[RoboGSim: A Real2Sim2Real Robotic Gaussian Splatting Simulator](https://arxiv.org/abs/2411.11839v2)** | 2025-08-03 |  |
-| **[Efficient4D: Fast Dynamic 3D Object Generation from a Single-view Video](https://arxiv.org/abs/2401.08742v4)** | 2025-08-03 | Technical report |
 | **[GSCache: Real-Time Radiance Caching for Volume Path Tracing using 3D Gaussian Splatting](https://arxiv.org/abs/2507.19718v2)** | 2025-08-02 |  |
 | **[Can3Tok: Canonical 3D Tokenization and Latent Modeling of Scene-Level 3D Gaussians](https://arxiv.org/abs/2508.01464v1)** | 2025-08-02 |  |
 | **[Momentum-GS: Momentum Gaussian Self-Distillation for High-Quality Large Scene Reconstruction](https://arxiv.org/abs/2412.04887v2)** | 2025-08-02 |  |
-| **[PointGauss: Point Cloud-Guided Multi-Object Segmentation for Gaussian Splatting](https://arxiv.org/abs/2508.00259v1)** | 2025-08-01 | 22 pages, 9 figures |
 | **[SeqAffordSplat: Scene-level Sequential Affordance Reasoning on 3D Gaussian Splatting](https://arxiv.org/abs/2507.23772v1)** | 2025-07-31 |  |
 | **[Stereo 3D Gaussian Splatting SLAM for Outdoor Urban Scenes](https://arxiv.org/abs/2507.23677v1)** | 2025-07-31 |  |
 | **[MultiEditor: Controllable Multimodal Object Editing for Driving Scenarios Using 3D Gaussian Splatting Priors](https://arxiv.org/abs/2507.21872v3)** | 2025-07-31 |  |
@@ -117,21 +101,15 @@ labels: documentation
 | **[GSFusion:Globally Optimized LiDAR-Inertial-Visual Mapping for Gaussian Splatting](https://arxiv.org/abs/2507.23273v1)** | 2025-07-31 |  |
 | **[Gaussian On-the-Fly Splatting: A Progressive Framework for Robust Near Real-Time 3DGS Optimization](https://arxiv.org/abs/2503.13086v2)** | 2025-07-30 |  |
 | **[GRaD-Nav: Efficiently Learning Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics](https://arxiv.org/abs/2503.03984v3)** | 2025-07-30 |  |
-| **[DISCOVERSE: Efficient Robot Simulation in Complex High-Fidelity Environments](https://arxiv.org/abs/2507.21981v1)** | 2025-07-29 | <details><summary>8page...</summary><p>8pages, IROS2025 (Camera Ready)</p></details> |
 | **[LM-Gaussian: Boost Sparse-view 3D Gaussian Splatting with Large Model Priors](https://arxiv.org/abs/2409.03456v3)** | 2025-07-28 | <details><summary>Proje...</summary><p>Project page: https://hanyangyu1021.github.io/lm-gaussian.github.io/</p></details> |
 | **[A Lesson in Splats: Teacher-Guided Diffusion for 3D Gaussian Splats Generation with 2D Supervision](https://arxiv.org/abs/2412.00623v3)** | 2025-07-26 | ICCV 2025 |
 | **[3DGauCIM: Accelerating Static/Dynamic 3D Gaussian Splatting via Digital CIM for High Frame Rate Real-Time Edge Rendering](https://arxiv.org/abs/2507.19133v1)** | 2025-07-25 |  |
 | **[SaLF: Sparse Local Fields for Multi-Sensor Rendering in Real-Time](https://arxiv.org/abs/2507.18713v1)** | 2025-07-24 |  |
 | **[EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis](https://arxiv.org/abs/2410.01804v6)** | 2025-07-24 | <details><summary>Proje...</summary><p>Project page: https://half-potato.gitlab.io/posts/ever</p></details> |
-| **[CRUISE: Cooperative Reconstruction and Editing in V2X Scenarios using Gaussian Splatting](https://arxiv.org/abs/2507.18473v1)** | 2025-07-24 | <details><summary>IROS ...</summary><p>IROS 2025, Code: https://github.com/SainingZhang/CRUISE</p></details> |
-| **[EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion](https://arxiv.org/abs/2507.16535v2)** | 2025-07-23 | <details><summary>Model...</summary><p>Models and codes will be released at this https URL: https://github.com/whiteinblue/EarthCrafter</p></details> |
 | **[StreamME: Simplify 3D Gaussian Avatar within Live Stream](https://arxiv.org/abs/2507.17029v1)** | 2025-07-22 | 12 pages, 15 Figures |
 | **[Hi^2-GSLoc: Dual-Hierarchical Gaussian-Specific Visual Relocalization for Remote Sensing](https://arxiv.org/abs/2507.15683v1)** | 2025-07-21 | 17 pages, 11 figures |
-| **[DCHM: Depth-Consistent Human Modeling for Multiview Detection](https://arxiv.org/abs/2507.14505v1)** | 2025-07-19 | <details><summary>multi...</summary><p>multi-view detection, sparse-view reconstruction</p></details> |
-| **[VolSegGS: Segmentation and Tracking in Dynamic Volumetric Scenes via Deformable 3D Gaussians](https://arxiv.org/abs/2507.12667v1)** | 2025-07-16 |  |
 | **[ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions](https://arxiv.org/abs/2507.10542v1)** | 2025-07-14 | <details><summary>(SIGG...</summary><p>(SIGGRAPH 2025) Paper Video: https://youtu.be/VyWkgsGdbkk Project Page: https://shivangi-aneja.github.io/projects/scaffoldavatar/</p></details> |
 | **[Enhancing non-Rigid 3D Model Deformations Using Mesh-based Gaussian Splatting](https://arxiv.org/abs/2507.07000v1)** | 2025-07-09 |  |
-| **[Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM](https://arxiv.org/abs/2507.04004v2)** | 2025-07-09 |  |
 | **[FlexGaussian: Flexible and Cost-Effective Training-Free Compression for 3D Gaussian Splatting](https://arxiv.org/abs/2507.06671v1)** | 2025-07-09 | <details><summary>To ap...</summary><p>To appear at ACM MM 2025</p></details> |
 | **[3DGS_LSR:Large_Scale Relocation for Autonomous Driving Based on 3D Gaussian Splatting](https://arxiv.org/abs/2507.05661v1)** | 2025-07-08 | <details><summary>13 pa...</summary><p>13 pages,7 figures,4 tables</p></details> |
 | **[LocalDyGS: Multi-view Global Dynamic Scene Modeling via Adaptive Local Implicit Feature Decoupling](https://arxiv.org/abs/2507.02363v1)** | 2025-07-03 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
@@ -141,126 +119,98 @@ labels: documentation
 | **[ICP-3DGS: SfM-free 3D Gaussian Splatting for Large-scale Unbounded Scenes](https://arxiv.org/abs/2506.21629v1)** | 2025-06-24 | <details><summary>6 pag...</summary><p>6 pages, Source code is available at https://github.com/Chenhao-Z/ICP-3DGS. To appear at ICIP 2025</p></details> |
 | **[Virtual Memory for 3D Gaussian Splatting](https://arxiv.org/abs/2506.19415v1)** | 2025-06-24 | <details><summary>Based...</summary><p>Based on the Master Thesis from Jonathan Haberl from 2024, Submitted to TVCG in Feb. 2025;</p></details> |
 | **[GRAND-SLAM: Local Optimization for Globally Consistent Large-Scale Multi-Agent Gaussian SLAM](https://arxiv.org/abs/2506.18885v1)** | 2025-06-23 |  |
-| **[3D Arena: An Open Platform for Generative 3D Evaluation](https://arxiv.org/abs/2506.18787v1)** | 2025-06-23 | 9 pages, 2 figures |
 | **[3D Gaussian Splatting for Fine-Detailed Surface Reconstruction in Large-Scale Scene](https://arxiv.org/abs/2506.17636v1)** | 2025-06-21 | IROS 2025 |
 | **[Perceptual-GS: Scene-adaptive Perceptual Densification for Gaussian Splatting](https://arxiv.org/abs/2506.12400v2)** | 2025-06-20 | <details><summary>Accep...</summary><p>Accepted to International Conference on Machine Learning (ICML) 2025</p></details> |
-| **[Micro-macro Gaussian Splatting with Enhanced Scalability for Unconstrained Scene Reconstruction](https://arxiv.org/abs/2506.13516v1)** | 2025-06-16 |  |
 | **[DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos](https://arxiv.org/abs/2506.09997v1)** | 2025-06-11 | <details><summary>Proje...</summary><p>Project page: https://hubert0527.github.io/dgslrm/</p></details> |
 | **[Gaussian2Scene: 3D Scene Representation Learning via Self-supervised Learning with 3D Gaussian Splatting](https://arxiv.org/abs/2506.08777v2)** | 2025-06-11 |  |
 | **[TinySplat: Feedforward Approach for Generating Compact 3D Scene Representation](https://arxiv.org/abs/2506.09479v1)** | 2025-06-11 |  |
 | **[FLoD: Integrating Flexible Level of Detail into 3D Gaussian Splatting for Customizable Rendering](https://arxiv.org/abs/2408.12894v2)** | 2025-06-11 | <details><summary>Proje...</summary><p>Project page: https://3dgs-flod.github.io/flod/</p></details> |
 | **[GigaSLAM: Large-Scale Monocular SLAM with Hierarchical Gaussian Splats](https://arxiv.org/abs/2503.08071v2)** | 2025-06-10 |  |
-| **[TraGraph-GS: Trajectory Graph-based Gaussian Splatting for Arbitrary Large-Scale Scene Rendering](https://arxiv.org/abs/2506.08704v1)** | 2025-06-10 |  |
 | **[CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians](https://arxiv.org/abs/2505.21041v3)** | 2025-06-09 |  |
 | **[On-the-fly Reconstruction for Large-Scale Novel View Synthesis from Unposed Images](https://arxiv.org/abs/2506.05558v1)** | 2025-06-05 |  |
 | **[Point Cloud Segmentation of Agricultural Vehicles using 3D Gaussian Splatting](https://arxiv.org/abs/2506.05009v1)** | 2025-06-05 |  |
-| **[Gen4D: Synthesizing Humans and Scenes in the Wild](https://arxiv.org/abs/2506.05397v1)** | 2025-06-03 | <details><summary>Proce...</summary><p>Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops</p></details> |
 | **[SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining](https://arxiv.org/abs/2503.18052v2)** | 2025-06-03 | <details><summary>Our c...</summary><p>Our code, model, and dataset will be released at https://unique1i.github.io/SceneSplat_webpage/</p></details> |
-| **[VTGaussian-SLAM: RGBD SLAM for Large Scale Scenes with Splatting View-Tied 3D Gaussians](https://arxiv.org/abs/2506.02741v1)** | 2025-06-03 | ICML 2025 |
+| **[Holistic Large-Scale Scene Reconstruction via Mixed Gaussian Splatting](https://arxiv.org/abs/2505.23280v1)** | 2025-05-29 |  |
+| **[Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting](https://arxiv.org/abs/2505.20729v1)** | 2025-05-27 |  |
+| **[FHGS: Feature-Homogenized Gaussian Splatting](https://arxiv.org/abs/2505.19154v1)** | 2025-05-25 |  |
+| **[VPGS-SLAM: Voxel-based Progressive 3D Gaussian SLAM in Large-Scale Scenes](https://arxiv.org/abs/2505.18992v1)** | 2025-05-25 |  |
+| **[Pose Splatter: A 3D Gaussian Splatting Model for Quantifying Animal Pose and Appearance](https://arxiv.org/abs/2505.18342v1)** | 2025-05-23 | 19 pages, 13 figures |
+| **[From Flight to Insight: Semantic 3D Reconstruction for Aerial Inspection via Gaussian Splatting and Language-Guided Segmentation](https://arxiv.org/abs/2505.17402v1)** | 2025-05-23 |  |
+| **[GS2E: Gaussian Splatting is an Effective Data Generator for Event Stream Generation](https://arxiv.org/abs/2505.15287v1)** | 2025-05-21 | <details><summary>21 pa...</summary><p>21 pages, 7 figures. More details at http://intothemild.github.io/GS2E.github.io</p></details> |
+| **[TACOcc:Target-Adaptive Cross-Modal Fusion with Volume Rendering for 3D Semantic Occupancy](https://arxiv.org/abs/2505.12693v1)** | 2025-05-19 |  |
+| **[Large-Scale Gaussian Splatting SLAM](https://arxiv.org/abs/2505.09915v1)** | 2025-05-15 |  |
+| **[ExploreGS: a vision-based low overhead framework for 3D scene reconstruction](https://arxiv.org/abs/2505.10578v1)** | 2025-05-14 |  |
+| **[Virtualized 3D Gaussians: Flexible Cluster-based Level-of-Detail System for Real-Time Rendering of Composed Scenes](https://arxiv.org/abs/2505.06523v1)** | 2025-05-10 | <details><summary>proje...</summary><p>project page: https://xijie-yang.github.io/V3DG/</p></details> |
+| **[GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting](https://arxiv.org/abs/2504.20379v2)** | 2025-05-01 |  |
+| **[HI-SLAM2: Geometry-Aware Gaussian SLAM for Fast Monocular Scene Reconstruction](https://arxiv.org/abs/2411.17982v2)** | 2025-04-29 | Under review process |
+| **[CE-NPBG: Connectivity Enhanced Neural Point-Based Graphics for Novel View Synthesis in Autonomous Driving Scenes](https://arxiv.org/abs/2504.19557v1)** | 2025-04-28 | <details><summary>Accep...</summary><p>Accepted in 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</p></details> |
+| **[CrossView-GS: Cross-view Gaussian Splatting For Large-scale Scene Reconstruction](https://arxiv.org/abs/2501.01695v2)** | 2025-04-28 |  |
+| **[Wonderland: Navigating 3D Scenes from a Single Image](https://arxiv.org/abs/2412.12091v2)** | 2025-04-26 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/wonderland/</p></details> |
+| **[NGM-SLAM: Gaussian Splatting SLAM with Radiance Field Submap](https://arxiv.org/abs/2405.05702v8)** | 2025-04-24 | 9pages, 4 figures |
+| **[SEGA: Drivable 3D Gaussian Head Avatar from a Single Image](https://arxiv.org/abs/2504.14373v2)** | 2025-04-23 |  |
+| **[Volume Encoding Gaussians: Transfer Function-Agnostic 3D Gaussians for Volume Rendering](https://arxiv.org/abs/2504.13339v1)** | 2025-04-17 |  |
+| **[CAGS: Open-Vocabulary 3D Scene Understanding with Context-Aware Gaussian Splatting](https://arxiv.org/abs/2504.11893v1)** | 2025-04-16 |  |
+| **[3DAffordSplat: Efficient Affordance Reasoning with 3D Gaussians](https://arxiv.org/abs/2504.11218v2)** | 2025-04-16 | <details><summary>The f...</summary><p>The first large-scale 3D Gaussians Affordance Reasoning Benchmark</p></details> |
+| **[BlockGaussian: Efficient Large-Scale Scene Novel View Synthesis via Adaptive Block-Based Gaussian Splatting](https://arxiv.org/abs/2504.09048v2)** | 2025-04-15 | <details><summary>https...</summary><p>https://github.com/SunshineWYC/BlockGaussian</p></details> |
+| **[A Constrained Optimization Approach for Gaussian Splatting from Coarsely-posed Images and Noisy Lidar Point Clouds](https://arxiv.org/abs/2504.09129v1)** | 2025-04-12 |  |
+| **[SelfSplat: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting](https://arxiv.org/abs/2411.17190v5)** | 2025-04-06 | <details><summary>Proje...</summary><p>Project page: https://gynjn.github.io/selfsplat/</p></details> |
+| **[Diffusion-Guided Gaussian Splatting for Large-Scale Unconstrained 3D Reconstruction and Novel View Synthesis](https://arxiv.org/abs/2504.01960v1)** | 2025-04-02 | <details><summary>WACV ...</summary><p>WACV ULTRRA Workshop 2025</p></details> |
+| **[GaussianRoom: Improving 3D Gaussian Splatting with SDF Guidance and Monocular Cues for Indoor Scene Reconstruction](https://arxiv.org/abs/2405.19671v2)** | 2025-04-01 |  |
+| **[ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding and Reasoning](https://arxiv.org/abs/2503.23297v1)** | 2025-03-30 |  |
 
 ## Must: light curves; Any: inversion, reconstruction, deep learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[ORACLE: A Real-Time, Hierarchical, Deep-Learning Photometric Classifier for the LSST](https://arxiv.org/abs/2501.01496v2)** | 2025-12-03 | <details><summary>30 pa...</summary><p>30 pages, 20 figures, 9 tables. Accepted to ApJ</p></details> |
 | **[Astromer 2](https://arxiv.org/abs/2502.02717v2)** | 2025-11-04 | 10 pages, 17 figures |
-| **[Small Dents, Big Impact: A Dataset and Deep Learning Approach for Vehicle Dent Detection](https://arxiv.org/abs/2508.15431v2)** | 2025-09-26 |  |
 | **[Beyond Spherical geometry: Unraveling complex features of objects orbiting around stars from its transit light curve using deep learning](https://arxiv.org/abs/2509.14875v1)** | 2025-09-18 | 16 pages, 17 figures |
-| **[ECG Latent Feature Extraction with Autoencoders for Downstream Prediction Tasks](https://arxiv.org/abs/2508.00131v1)** | 2025-07-31 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2410.02937</p></details> |
-| **[Learning collision risk proactively from naturalistic driving data at scale](https://arxiv.org/abs/2505.13556v3)** | 2025-07-06 | 18 pages, 8 figures |
-| **[A Multi-Scale Spatial Attention-Based Zero-Shot Learning Framework for Low-Light Image Enhancement](https://arxiv.org/abs/2506.18323v1)** | 2025-06-23 |  |
-| **[3D Vision-tactile Reconstruction from Infrared and Visible Images for Robotic Fine-grained Tactile Perception](https://arxiv.org/abs/2506.15087v1)** | 2025-06-18 |  |
 | **[DART-Vetter: A Deep LeARning Tool for automatic triage of exoplanet candidates](https://arxiv.org/abs/2506.05556v1)** | 2025-06-05 | <details><summary>Numbe...</summary><p>Number of pages: 24, Number of figures: 8, Article accepted for publication in The Astronomical Journal on 2025-05-30</p></details> |
-| **[MV-CoLight: Efficient Object Compositing with Consistent Lighting and Shadow Generation](https://arxiv.org/abs/2505.21483v1)** | 2025-05-27 |  |
 | **[Unified Deep Learning Approach for Estimating the Metallicities of RR Lyrae Stars Using light curves from Gaia Data Release 3](https://arxiv.org/abs/2505.20947v1)** | 2025-05-27 |  |
 | **[A self-regulated convolutional neural network for classifying variable stars](https://arxiv.org/abs/2505.14877v1)** | 2025-05-20 |  |
 | **[Variational diffusion transformers for conditional sampling of supernovae spectra](https://arxiv.org/abs/2505.03063v1)** | 2025-05-05 |  |
-| **[Luminance-GS: Adapting 3D Gaussian Splatting to Challenging Lighting Conditions with View-Adaptive Curve Adjustment](https://arxiv.org/abs/2504.01503v2)** | 2025-04-23 | <details><summary>CVPR ...</summary><p>CVPR 2025, project page: https://cuiziteng.github.io/Luminance_GS_web/</p></details> |
 | **[A Self-Supervised Framework for Space Object Behaviour Characterisation](https://arxiv.org/abs/2504.06176v2)** | 2025-04-11 | 15 pages, 10 figures |
 | **[Deep Learning and LLM-based Methods Applied to Stellar Lightcurve Classification](https://arxiv.org/abs/2404.10757v2)** | 2025-02-24 | 35 pages, 20 figures |
 | **[Asteroid shape inversion with light curves using deep learning](https://arxiv.org/abs/2502.16455v1)** | 2025-02-23 |  |
-| **[Unified Few-shot Crack Segmentation and its Precise 3D Automatic Measurement in Concrete Structures](https://arxiv.org/abs/2501.09203v1)** | 2025-01-15 |  |
-| **[Machine learning-based classification for Single Photon Space Debris Light Curves](https://arxiv.org/abs/2411.18231v1)** | 2024-11-27 |  |
-| **[UbiHR: Resource-efficient Long-range Heart Rate Sensing on Ubiquitous Devices](https://arxiv.org/abs/2410.19279v1)** | 2024-10-25 |  |
 | **[Leveraging Deep Learning for Time Series Extrinsic Regression in predicting photometric metallicity of Fundamental-mode RR Lyrae Stars](https://arxiv.org/abs/2410.17906v1)** | 2024-10-23 | <details><summary>Senso...</summary><p>Sensors 2024, 24(16), 5203; (23 pages)</p></details> |
-| **[Iterative regularization in classification via hinge loss diagonal descent](https://arxiv.org/abs/2212.12675v2)** | 2024-10-09 |  |
-| **[RainbowSight: A Family of Generalizable, Curved, Camera-Based Tactile Sensors For Shape Reconstruction](https://arxiv.org/abs/2409.13649v1)** | 2024-09-20 | ICRA 2024 |
 | **[Identifying Light-curve Signals with a Deep Learning Based Object Detection Algorithm. II. A General Light Curve Classification Framework](https://arxiv.org/abs/2311.08080v2)** | 2024-09-19 | <details><summary>26 pa...</summary><p>26 pages, 19 figures, 6 tables. Published on ApJS. Code is available on https://github.com/ckm3/Deep-LC</p></details> |
 | **[Panopticon: a novel deep learning model to detect single transit events with no prior data filtering in PLATO light curves](https://arxiv.org/abs/2409.03466v1)** | 2024-09-05 | Submitted to A&A |
 | **[Light Curve Classification with DistClassiPy: a new distance-based classifier](https://arxiv.org/abs/2403.12120v2)** | 2024-07-25 | <details><summary>Accep...</summary><p>Accepted for publication in Astronomy and Computing (2024). 24 pages, 19 figures</p></details> |
-| **[On the Impact of Sample Size in Reconstructing Noisy Graph Signals: A Theoretical Characterisation](https://arxiv.org/abs/2406.16816v2)** | 2024-07-11 | <details><summary>The p...</summary><p>The paper arXiv:2307.00336v1 is the earlier, shorter conference version of this paper</p></details> |
 | **[The Scaling Law in Stellar Light Curves](https://arxiv.org/abs/2405.17156v2)** | 2024-06-17 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, ICML 2024 AI4Science workshop</p></details> |
-| **[Triage of 3D pathology data via 2.5D multiple-instance learning to guide pathologist assessments](https://arxiv.org/abs/2406.07061v1)** | 2024-06-11 | CVPR CVMI 2024 |
-| **[Text in the Dark: Extremely Low-Light Text Image Enhancement](https://arxiv.org/abs/2404.14135v1)** | 2024-04-22 | <details><summary>The f...</summary><p>The first two authors contributed equally to this work</p></details> |
 | **[Quantum Convolutional Neural Networks for the detection of Gamma-Ray Bursts in the AGILE space mission data](https://arxiv.org/abs/2404.14133v1)** | 2024-04-22 | <details><summary>4 pag...</summary><p>4 pages, 2 figures, proceedings of the ADASS XXXIII (2023) conference, to appear in ASP Conference Serie</p></details> |
 | **[Orbital Polarimetric Tomography of a Flare Near the Sagittarius A* Supermassive Black Hole](https://arxiv.org/abs/2310.07687v2)** | 2024-04-16 |  |
 | **[Astroconformer: The Prospects of Analyzing Stellar Light Curves with Transformer-Based Deep Learning Models](https://arxiv.org/abs/2309.16316v2)** | 2024-01-18 | <details><summary>15 pa...</summary><p>15 pages, 10 figures, Accepted by MNRAS</p></details> |
-| **[Single View Refractive Index Tomography with Neural Fields](https://arxiv.org/abs/2309.04437v2)** | 2023-12-01 |  |
-| **[K-Lane: Lidar Lane Dataset and Benchmark for Urban Roads and Highways](https://arxiv.org/abs/2110.11048v3)** | 2023-11-07 | <details><summary>20 pa...</summary><p>20 pages, 20 figures, 11 tables</p></details> |
-| **[Problem-Dependent Power of Quantum Neural Networks on Multi-Class Classification](https://arxiv.org/abs/2301.01597v3)** | 2023-10-30 | <details><summary>Updat...</summary><p>Updated version. Published on PRL</p></details> |
-| **[Learning curves for deep structured Gaussian feature models](https://arxiv.org/abs/2303.00564v3)** | 2023-10-23 | <details><summary>14+18...</summary><p>14+18 pages, 2+1 figures. NeurIPS 2023 Camera Ready</p></details> |
-| **[Deep learning-based Crop Row Detection for Infield Navigation of Agri-Robots](https://arxiv.org/abs/2209.04278v2)** | 2023-08-10 | <details><summary>Publi...</summary><p>Published in Journal of Field Robotics: https://onlinelibrary.wiley.com/doi/epdf/10.1002/rob.22238</p></details> |
-| **[Multi-Class Deep SVDD: Anomaly Detection Approach in Astronomy with Distinct Inlier Categories](https://arxiv.org/abs/2308.05011v2)** | 2023-08-10 | <details><summary>Accep...</summary><p>Accepted to ICML 2023 Workshop on Machine Learning for Astrophysics</p></details> |
-| **[Weakly Supervised AI for Efficient Analysis of 3D Pathology Samples](https://arxiv.org/abs/2307.14907v1)** | 2023-07-27 |  |
-| **[LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion](https://arxiv.org/abs/2307.02452v2)** | 2023-07-22 | <details><summary>To ap...</summary><p>To appear in MICCAI 2023. Code availability: https://github.com/longbai1006/LLCaps</p></details> |
-| **[NeRF synthesis with shading guidance](https://arxiv.org/abs/2306.11556v1)** | 2023-06-20 | <details><summary>16 pa...</summary><p>16 pages, 16 figures, accepted by CAD/Graphics 2023(poster)</p></details> |
-| **[Humans as Light Bulbs: 3D Human Reconstruction from Thermal Reflection](https://arxiv.org/abs/2305.01652v1)** | 2023-05-02 | <details><summary>Websi...</summary><p>Website: https://thermal.cs.columbia.edu/</p></details> |
 | **[Distinguishing a planetary transit from false positives: a Transformer-based classification for planetary transit signals](https://arxiv.org/abs/2304.14283v1)** | 2023-04-27 |  |
-| **[GelSight360: An Omnidirectional Camera-Based Tactile Sensor for Dexterous Robotic Manipulation](https://arxiv.org/abs/2304.04268v1)** | 2023-04-09 |  |
 | **[Astronomical image time series classification using CONVolutional attENTION (ConvEntion)](https://arxiv.org/abs/2304.01236v1)** | 2023-04-03 |  |
 | **[Self-Supervised Learning for Modeling Gamma-ray Variability in Blazars](https://arxiv.org/abs/2302.07700v1)** | 2023-02-15 | <details><summary>2nd A...</summary><p>2nd Annual AAAI Workshop on AI to Accelerate Science and Engineering (AI2ASE), https://ai-2-ase.github.io/. Updated reference and typo correction in this version (H=32, not 64)</p></details> |
 | **[Identifying Exoplanets with Deep Learning. V. Improved Light Curve Classification for TESS Full Frame Image Observations](https://arxiv.org/abs/2301.01371v1)** | 2023-01-03 | <details><summary>accep...</summary><p>accepted for publication in AJ. code can be found at: https://github.com/mdanatg/Astronet-Triage and data can be found at: https://zenodo.org/record/7411579</p></details> |
-| **[A Multiple-View Geometric Model for Specularity Prediction on General Curved Surfaces](https://arxiv.org/abs/2108.09378v2)** | 2022-12-21 |  |
 | **[Exoplanet Detection by Machine Learning with Data Augmentation](https://arxiv.org/abs/2211.15577v1)** | 2022-11-28 |  |
 | **[Deep Attention-Based Supernovae Classification of Multi-Band Light-Curves](https://arxiv.org/abs/2201.08482v3)** | 2022-11-25 | <details><summary>Submi...</summary><p>Submitted to AJ on 14-Jan-2022</p></details> |
-| **[Deep Learning for Rapid Landslide Detection using Synthetic Aperture Radar (SAR) Datacubes](https://arxiv.org/abs/2211.02869v1)** | 2022-11-05 | <details><summary>Accep...</summary><p>Accepted in the NeurIPS 2022 workshop on Tackling Climate Change with Machine Learning. Authors Vanessa Boehm, Wei Ji Leong, Ragini Bal Mahesh, Ioannis Prapas contributed equally as researchers for the Frontier Development Lab (FDL) 2022</p></details> |
-| **[Light curve completion and forecasting using fast and scalable Gaussian processes (MuyGPs)](https://arxiv.org/abs/2208.14592v1)** | 2022-08-31 | <details><summary>14 pa...</summary><p>14 pages, 7 figures, accepted to AMOS 2022 conference</p></details> |
 | **[ExoSGAN and ExoACGAN: Exoplanet Detection using Adversarial Training Algorithms](https://arxiv.org/abs/2207.09665v1)** | 2022-07-20 | 26 pages total |
 | **[Astroconformer: Inferring Surface Gravity of Stars from Stellar Light Curves with Transformer](https://arxiv.org/abs/2207.02787v1)** | 2022-07-06 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, accepted to the ICML 2022 Machine Learning for Astrophysics workshop</p></details> |
-| **[Gravitationally Lensed Black Hole Emission Tomography](https://arxiv.org/abs/2204.03715v1)** | 2022-04-07 | <details><summary>To ap...</summary><p>To appear in the IEEE Proceedings of the Conference on Computer Vision and Pattern Recognition (CVPR), 2022. Supplemental material including accompanying pdf, code, and video highlight can be found in the project page: http://imaging.cms.caltech.edu/bhnerf/</p></details> |
-| **[Audio-Based Deep Learning Frameworks for Detecting COVID-19](https://arxiv.org/abs/2202.05626v2)** | 2022-03-02 |  |
-| **[Realistic galaxy image simulation via score-based generative models](https://arxiv.org/abs/2111.01713v2)** | 2022-01-31 | <details><summary>11 pa...</summary><p>11 pages, 8 figures. Code: https://github.com/smith42/astroddpm . Follow the Twitter bot @ThisIsNotAnApod for DDPM-generated APODs</p></details> |
 | **[Identify Light-Curve Signals with Deep Learning Based Object Detection Algorithm. I. Transit Detection](https://arxiv.org/abs/2108.00670v2)** | 2021-11-24 | <details><summary>22 pa...</summary><p>22 pages, 14 figures, 1 table, matches the version to be published in AJ</p></details> |
 | **[Photometric Search for Exomoons by using Convolutional Neural Networks](https://arxiv.org/abs/2111.02293v1)** | 2021-11-03 | 11 pages, 4 figures |
-| **[SwiftLane: Towards Fast and Efficient Lane Detection](https://arxiv.org/abs/2110.11779v1)** | 2021-10-22 | <details><summary>Accep...</summary><p>Accepted to 20th IEEE International Conference on Machine Learning and Applications (ICMLA) 2021</p></details> |
-| **[Overhead-MNIST: Machine Learning Baselines for Image Classification](https://arxiv.org/abs/2107.00436v2)** | 2021-10-19 | <details><summary>6 pag...</summary><p>6 pages; 8 figures, 2 tables</p></details> |
 | **[Automatic classification of eclipsing binary stars using deep learning methods](https://arxiv.org/abs/2108.01640v1)** | 2021-08-03 |  |
-| **[On the Role of Optimization in Double Descent: A Least Squares Study](https://arxiv.org/abs/2107.12685v1)** | 2021-07-27 |  |
-| **[ReLLIE: Deep Reinforcement Learning for Customized Low-Light Image Enhancement](https://arxiv.org/abs/2107.05830v1)** | 2021-07-13 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2021</p></details> |
 | **[Automatic Catalog of RRLyrae from $\sim$ 14 million VVV Light Curves: How far can we go with traditional machine-learning?](https://arxiv.org/abs/2005.00220v2)** | 2021-05-04 |  |
-| **[Refractive Light-Field Features for Curved Transparent Objects in Structure from Motion](https://arxiv.org/abs/2103.15349v2)** | 2021-04-17 | <details><summary>submi...</summary><p>submitted to IROS-RAL 2021. 8 pages, 9 figures, 2 tables</p></details> |
-| **[DefakeHop: A Light-Weight High-Performance Deepfake Detector](https://arxiv.org/abs/2103.06929v1)** | 2021-03-11 | <details><summary>Accep...</summary><p>Accepted at ICME 2021</p></details> |
 | **[Exoplanet Detection using Machine Learning](https://arxiv.org/abs/2011.14135v2)** | 2021-03-05 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, 4 tables, submitted to MNRAS</p></details> |
-| **[Learning to Enhance Low-Light Image via Zero-Reference Deep Curve Estimation](https://arxiv.org/abs/2103.00860v1)** | 2021-03-01 | <details><summary>This ...</summary><p>This work is an extension of our earlier conference version arXiv:2001.06826 (Zero-DCE) that has appeared in CVRP2020. This paper was accepted by TPAMI</p></details> |
-| **[Interpretative Computer-aided Lung Cancer Diagnosis: from Radiology Analysis to Malignancy Evaluation](https://arxiv.org/abs/2102.10919v1)** | 2021-02-22 | 11 pages, 8 figures |
-| **[Unsupervised heart abnormality detection based on phonocardiogram analysis with Beta Variational Auto-Encoders](https://arxiv.org/abs/2101.05443v1)** | 2021-01-14 |  |
 | **[PyLightcurve-torch: a transit modelling package for deep learning applications in PyTorch](https://arxiv.org/abs/2011.02030v2)** | 2020-12-28 | <details><summary>7 pag...</summary><p>7 pages, 3 figures; submission status updated, fig 2 caption added</p></details> |
 | **[RotNet: Fast and Scalable Estimation of Stellar Rotation Periods Using Convolutional Neural Networks](https://arxiv.org/abs/2012.01985v2)** | 2020-12-04 | <details><summary>Accep...</summary><p>Accepted for the Machine Learning and the Physical Sciences Workshop, NeurIPS 2020</p></details> |
-| **[A Reusable Framework Based on Reinforcement Learning to Design Antennas for Curved Surfaces](https://arxiv.org/abs/2011.12131v1)** | 2020-11-24 |  |
-| **[Lessons Learned from the 1st ARIEL Machine Learning Challenge: Correcting Transiting Exoplanet Light Curves for Stellar Spots](https://arxiv.org/abs/2010.15996v1)** | 2020-10-29 | <details><summary>20 pa...</summary><p>20 pages, 7 figures, 2 tables, Submitted to The Astrophysics Journal (ApJ)</p></details> |
 | **[Classifying Image Sequences of Astronomical Transients with Deep Neural Networks](https://arxiv.org/abs/2004.13877v2)** | 2020-10-02 | <details><summary>11 pa...</summary><p>11 pages, 7 figures. MNRAS accepted</p></details> |
 | **[Bayesian Dynamic Mapping of an Exo-Earth from Photometric Variability](https://arxiv.org/abs/2007.13096v1)** | 2020-07-26 | <details><summary>23 pa...</summary><p>23 pages, 13 figures, accepted for publication in ApJ. The code is available online at https://github.com/HajimeKawahara/sot . The retrieved dynamic map of a real light curve of the Earth (movie) can be viewed at https://www.youtube.com/watch?v=rGMWbAUAv4Y</p></details> |
-| **[Using Error Decay Prediction to Overcome Practical Issues of Deep Active Learning for Named Entity Recognition](https://arxiv.org/abs/1911.07335v2)** | 2020-07-21 | <details><summary>This ...</summary><p>This is a pre-print of an article published in Springer Machine Learning journal. The final authenticated version is available online at: https://doi.org/10.1007/s10994-020-05897-1</p></details> |
 | **[Development of a High Fidelity Simulator for Generalised Photometric Based Space Object Classification using Machine Learning](https://arxiv.org/abs/2004.12270v1)** | 2020-04-26 | <details><summary>This ...</summary><p>This paper is a pre-print that appeared in Proceedings of 70th International Astronautical Congress (IAC), 2019</p></details> |
-| **[A CNN Framenwork Based on Line Annotations for Detecting Nematodes in Microscopic Images](https://arxiv.org/abs/2004.09795v1)** | 2020-04-21 | ISBI 2020 |
-| **[Curved Buildings Reconstruction from Airborne LiDAR Data by Matching and Deforming Geometric Primitives](https://arxiv.org/abs/2003.09934v1)** | 2020-03-22 | 12 pages. 14 figures |
-| **[Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement](https://arxiv.org/abs/2001.06826v2)** | 2020-03-22 | 10 pages |
 | **[Scalable End-to-end Recurrent Neural Network for Variable star classification](https://arxiv.org/abs/2002.00994v1)** | 2020-02-03 | <details><summary>15 pa...</summary><p>15 pages, 17 figures. To be published in MNRAS</p></details> |
-| **[RAPID: Early Classification of Explosive Transients using Deep Learning](https://arxiv.org/abs/1904.00014v2)** | 2019-10-07 | <details><summary>Accep...</summary><p>Accepted version. 28 pages, 16 figures, 2 tables, PASP Special Issue on Methods for Time-Domain Astrophysics. Submitted: 13 December 2018, Accepted: 26 March 2019</p></details> |
 | **[An Algorithm for the Visualization of Relevant Patterns in Astronomical Light Curves](https://arxiv.org/abs/1903.03254v1)** | 2019-03-08 | <details><summary>Accep...</summary><p>Accepted 2019 January 8. Received 2019 January 8; in original form 2018 January 29. 7 pages, 6 figures</p></details> |
-| **[Learning to Steer by Mimicking Features from Heterogeneous Auxiliary Networks](https://arxiv.org/abs/1811.02759v1)** | 2018-11-07 | <details><summary>8 pag...</summary><p>8 pages, 6 figures; Accepted by AAAI 2019; Our project page is available at https://cardwing.github.io/projects/FM-Net</p></details> |
 | **[Deep multi-survey classification of variable stars](https://arxiv.org/abs/1810.09440v1)** | 2018-10-21 | <details><summary>Accep...</summary><p>Accepted for publication in Monthly Notices of the Royal Astronomical Society</p></details> |
-| **[Separating Reflection and Transmission Images in the Wild](https://arxiv.org/abs/1712.02099v2)** | 2018-08-16 | <details><summary>accep...</summary><p>accepted at ECCV 2018</p></details> |
-| **[3D Face Reconstruction from Light Field Images: A Model-free Approach](https://arxiv.org/abs/1711.05953v4)** | 2018-07-05 |  |
 | **[Deep-Learnt Classification of Light Curves](https://arxiv.org/abs/1709.06257v1)** | 2017-09-19 | <details><summary>8 pag...</summary><p>8 pages, 9 figures, 6 tables, 2 listings. Accepted to 2017 IEEE Symposium Series on Computational Intelligence (SSCI)</p></details> |
-| **[Deep Recurrent Neural Networks for Supernovae Classification](https://arxiv.org/abs/1606.07442v2)** | 2017-05-05 | 9 pages, 4 figures |
-| **[Identifying the Absorption Bump with Deep Learning](https://arxiv.org/abs/1511.05607v2)** | 2015-11-20 |  |
-| **[A Robust Lane Detection and Departure Warning System](https://arxiv.org/abs/1504.07590v1)** | 2015-04-28 | <details><summary>The I...</summary><p>The Intelligent Vehicles Symposium (IV2015). arXiv admin note: text overlap with arXiv:1503.06648</p></details> |
-| **[Structure Preserving Large Imagery Reconstruction](https://arxiv.org/abs/1409.3906v1)** | 2014-09-13 |  |
-| **[Principal Manifolds and Nonlinear Dimension Reduction via Local Tangent Space Alignment](https://arxiv.org/abs/cs/0212008v1)** | 2002-12-07 |  |
 
 ## Must: slam, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PUL-SLAM: Path-Uncertainty Co-Optimization with Lightweight Stagnation Detection for Efficient Robotic Exploration](https://arxiv.org/abs/2511.04180v2)** | 2025-12-10 |  |
+| **[Super4DR: 4D Radar-centric Self-supervised Odometry and Gaussian-based Map Optimization](https://arxiv.org/abs/2512.09608v1)** | 2025-12-10 | 17 pages, 20 figures |
+| **[A Sensor-Aware Phenomenological Framework for Lidar Degradation Simulation and SLAM Robustness Evaluation](https://arxiv.org/abs/2512.08653v1)** | 2025-12-09 |  |
+| **[Omni-LIVO: Robust RGB-Colored Multi-Camera Visual-Inertial-LiDAR Odometry via Photometric Migration and ESIKF Fusion](https://arxiv.org/abs/2509.15673v2)** | 2025-12-09 |  |
+| **[OptMap: Geometric Map Distillation via Submodular Maximization](https://arxiv.org/abs/2512.07775v1)** | 2025-12-08 |  |
+| **[ARCAS: An Augmented Reality Collision Avoidance System with SLAM-Based Tracking for Enhancing VRU Safety](https://arxiv.org/abs/2512.05299v1)** | 2025-12-04 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 1 table</p></details> |
 | **[TEMPO-VINE: A Multi-Temporal Sensor Fusion Dataset for Localization and Mapping in Vineyards](https://arxiv.org/abs/2512.04772v1)** | 2025-12-04 |  |
 | **[AgriLiRa4D: A Multi-Sensor UAV Dataset for Robust SLAM in Challenging Agricultural Fields](https://arxiv.org/abs/2512.01753v1)** | 2025-12-01 |  |
 | **[Integration of UWB Radar on Mobile Robots for Continuous Obstacle and Environment Mapping](https://arxiv.org/abs/2512.01018v1)** | 2025-11-30 | <details><summary>This ...</summary><p>This paper has been submitted to IEEE Access Journal and is currently undergoing review</p></details> |
@@ -277,7 +227,6 @@ labels: documentation
 | **[Tackling the Kidnapped Robot Problem via Sparse Feasible Hypothesis Sampling and Reliable Batched Multi-Stage Inference](https://arxiv.org/abs/2511.01219v2)** | 2025-11-11 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Semi-distributed Cross-modal Air-Ground Relative Localization](https://arxiv.org/abs/2511.06749v1)** | 2025-11-10 | <details><summary>7 pag...</summary><p>7 pages, 3 figures. Accepted by IROS 2025</p></details> |
 | **[Multi-modal Loop Closure Detection with Foundation Models in Severely Unstructured Environments](https://arxiv.org/abs/2511.05404v1)** | 2025-11-07 | <details><summary>Under...</summary><p>Under review for ICRA 2026</p></details> |
-| **[PUL-SLAM: Path-Uncertainty Co-Optimization with Lightweight Stagnation Detection for Efficient Robotic Exploration](https://arxiv.org/abs/2511.04180v1)** | 2025-11-06 |  |
 | **[Self-Supervised Moving Object Segmentation of Sparse and Noisy Radar Point Clouds](https://arxiv.org/abs/2511.02395v1)** | 2025-11-04 | <details><summary>Accep...</summary><p>Accepted for publication at IEEE International Conference on Intelligent Transportation Systems (ITSC 2025), 8 pages, 3 figures</p></details> |
 | **[CM-LIUW-Odometry: Robust and High-Precision LiDAR-Inertial-UWB-Wheel Odometry for Extreme Degradation Coal Mine Tunnels](https://arxiv.org/abs/2511.01379v1)** | 2025-11-03 | <details><summary>Accep...</summary><p>Accepted by IROS 2025</p></details> |
 | **[AgriGS-SLAM: Orchard Mapping Across Seasons via Multi-View Gaussian Splatting SLAM](https://arxiv.org/abs/2510.26358v1)** | 2025-10-30 |  |
@@ -406,9 +355,4 @@ labels: documentation
 | **[LiDAR Inertial Odometry And Mapping Using Learned Registration-Relevant Features](https://arxiv.org/abs/2410.02961v1)** | 2024-10-03 | 8 pages, 6 figures |
 | **[Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition](https://arxiv.org/abs/2408.07330v3)** | 2024-10-02 | <details><summary>Accep...</summary><p>Accepted in IEEE Robotics and Automation Letters (2024)</p></details> |
 | **[CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation](https://arxiv.org/abs/2409.19597v1)** | 2024-09-29 | 7 pages, 5 figures |
-| **[Royal Reveals: LiDAR Mapping of Kronborg Castle, Echoes of Hamlet's Halls](https://arxiv.org/abs/2409.18752v1)** | 2024-09-27 | <details><summary>4 pag...</summary><p>4 pages, 4 figures, 3 tables</p></details> |
-| **[Neural Implicit Representation for Highly Dynamic LiDAR Mapping and Odometry](https://arxiv.org/abs/2409.17729v1)** | 2024-09-26 |  |
-| **[Robust Second-order LiDAR Bundle Adjustment Algorithm Using Mean Squared Group Metric](https://arxiv.org/abs/2409.01856v2)** | 2024-09-23 |  |
-| **[Range-SLAM: Ultra-Wideband-Based Smoke-Resistant Real-Time Localization and Mapping](https://arxiv.org/abs/2409.09763v1)** | 2024-09-15 |  |
-| **[Object Depth and Size Estimation using Stereo-vision and Integration with SLAM](https://arxiv.org/abs/2409.07623v1)** | 2024-09-11 | <details><summary>Accep...</summary><p>Accepted version of the published article in IEEE Sensors Letters</p></details> |
 
