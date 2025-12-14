@@ -1,5 +1,5 @@
 ---
-title: Latest 150 Papers - December 11, 2025
+title: Latest 150 Papers - December 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Must: 3D Gaussian Splatting; Any: LOD, large-scale, on the fly, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Changes in Real Time: Online Scene Change Detection with Multi-View Fusion](https://arxiv.org/abs/2511.12370v2)** | 2025-12-11 |  |
 | **[On-the-fly Large-scale 3D Reconstruction from Multi-Camera Rigs](https://arxiv.org/abs/2512.08498v1)** | 2025-12-09 |  |
 | **[MuSASplat: Efficient Sparse-View 3D Gaussian Splats via Lightweight Multi-Scale Adaptation](https://arxiv.org/abs/2512.07165v1)** | 2025-12-08 |  |
 | **[CrowdSplat: Exploring Gaussian Splatting For Crowd Rendering](https://arxiv.org/abs/2501.17792v3)** | 2025-12-06 | 4 pages, 4 figures |
@@ -33,7 +34,6 @@ labels: documentation
 | **[Dental3R: Geometry-Aware Pairing for Intraoral 3D Reconstruction from Sparse-View Photographs](https://arxiv.org/abs/2511.14315v1)** | 2025-11-18 |  |
 | **[ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS](https://arxiv.org/abs/2505.23734v4)** | 2025-11-17 | <details><summary>NeurI...</summary><p>NeurIPS 2025, Project Page: https://lhmd.top/zpressor, Code: https://github.com/ziplab/ZPressor</p></details> |
 | **[GaussianFocus: Constrained Attention Focus for 3D Gaussian Splatting](https://arxiv.org/abs/2503.17798v2)** | 2025-11-16 |  |
-| **[Changes in Real Time: Online Scene Change Detection with Multi-View Fusion](https://arxiv.org/abs/2511.12370v1)** | 2025-11-15 |  |
 | **[Duplex-GS: Proxy-Guided Weighted Blending for Real-Time Order-Independent Gaussian Splatting](https://arxiv.org/abs/2508.03180v2)** | 2025-11-14 | submitted to TCSVT |
 | **[4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching](https://arxiv.org/abs/2412.13639v4)** | 2025-11-12 | <details><summary>Our c...</summary><p>Our code and results can be publicly accessed at: https://github.com/robotics-upo/gaussian-rio-cpp</p></details> |
 | **[PMGS: Reconstruction of Projectile Motion Across Large Spatiotemporal Spans via 3D Gaussian Splatting](https://arxiv.org/abs/2508.02660v2)** | 2025-11-11 |  |
@@ -205,6 +205,7 @@ labels: documentation
 ## Must: slam, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CLASH: Collaborative Large-Small Hierarchical Framework for Continuous Vision-and-Language Navigation](https://arxiv.org/abs/2512.10360v1)** | 2025-12-11 |  |
 | **[PUL-SLAM: Path-Uncertainty Co-Optimization with Lightweight Stagnation Detection for Efficient Robotic Exploration](https://arxiv.org/abs/2511.04180v2)** | 2025-12-10 |  |
 | **[Super4DR: 4D Radar-centric Self-supervised Odometry and Gaussian-based Map Optimization](https://arxiv.org/abs/2512.09608v1)** | 2025-12-10 | 17 pages, 20 figures |
 | **[A Sensor-Aware Phenomenological Framework for Lidar Degradation Simulation and SLAM Robustness Evaluation](https://arxiv.org/abs/2512.08653v1)** | 2025-12-09 |  |
@@ -354,5 +355,4 @@ labels: documentation
 | **[Monocular Visual Place Recognition in LiDAR Maps via Cross-Modal State Space Model and Multi-View Matching](https://arxiv.org/abs/2410.06285v1)** | 2024-10-08 |  |
 | **[LiDAR Inertial Odometry And Mapping Using Learned Registration-Relevant Features](https://arxiv.org/abs/2410.02961v1)** | 2024-10-03 | 8 pages, 6 figures |
 | **[Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition](https://arxiv.org/abs/2408.07330v3)** | 2024-10-02 | <details><summary>Accep...</summary><p>Accepted in IEEE Robotics and Automation Letters (2024)</p></details> |
-| **[CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation](https://arxiv.org/abs/2409.19597v1)** | 2024-09-29 | 7 pages, 5 figures |
 
