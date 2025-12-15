@@ -1,5 +1,5 @@
 ---
-title: Latest 150 Papers - December 14, 2025
+title: Latest 150 Papers - December 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,12 +7,13 @@ labels: documentation
 ## Must: 3D Gaussian Splatting; Any: LOD, large-scale, on the fly, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SceneSplat++: A Large Dataset and Comprehensive Benchmark for Language Gaussian Splatting](https://arxiv.org/abs/2506.08710v3)** | 2025-12-12 | <details><summary>15 pa...</summary><p>15 pages, codes, data and benchmark are released</p></details> |
+| **[MADrive: Memory-Augmented Driving Scene Modeling](https://arxiv.org/abs/2506.21520v2)** | 2025-12-11 |  |
 | **[Changes in Real Time: Online Scene Change Detection with Multi-View Fusion](https://arxiv.org/abs/2511.12370v2)** | 2025-12-11 |  |
 | **[On-the-fly Large-scale 3D Reconstruction from Multi-Camera Rigs](https://arxiv.org/abs/2512.08498v1)** | 2025-12-09 |  |
 | **[MuSASplat: Efficient Sparse-View 3D Gaussian Splats via Lightweight Multi-Scale Adaptation](https://arxiv.org/abs/2512.07165v1)** | 2025-12-08 |  |
 | **[CrowdSplat: Exploring Gaussian Splatting For Crowd Rendering](https://arxiv.org/abs/2501.17792v3)** | 2025-12-06 | 4 pages, 4 figures |
 | **[FastGS: Training 3D Gaussian Splatting in 100 Seconds](https://arxiv.org/abs/2511.04283v3)** | 2025-12-06 | <details><summary>Proje...</summary><p>Project page: https://fastgs.github.io/</p></details> |
-| **[SceneSplat++: A Large Dataset and Comprehensive Benchmark for Language Gaussian Splatting](https://arxiv.org/abs/2506.08710v2)** | 2025-12-03 | <details><summary>15 pa...</summary><p>15 pages, codes, data and benchmark are released</p></details> |
 | **[Flux4D: Flow-based Unsupervised 4D Reconstruction](https://arxiv.org/abs/2512.03210v1)** | 2025-12-02 | <details><summary>NeurI...</summary><p>NeurIPS 2025. Project page: https://waabi.ai/flux4d/</p></details> |
 | **[Sketch-guided Cage-based 3D Gaussian Splatting Deformation](https://arxiv.org/abs/2411.12168v3)** | 2025-12-01 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, accepted at WACV 26, project page: https://tianhaoxie.github.io/project/gs_deform/</p></details> |
 | **[Feed-Forward 3D Gaussian Splatting Compression with Long-Context Modeling](https://arxiv.org/abs/2512.00877v1)** | 2025-11-30 |  |
@@ -115,7 +116,6 @@ labels: documentation
 | **[LocalDyGS: Multi-view Global Dynamic Scene Modeling via Adaptive Local Implicit Feature Decoupling](https://arxiv.org/abs/2507.02363v1)** | 2025-07-03 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 | **[GraphGSOcc: Semantic-Geometric Graph Transformer with Dynamic-Static Decoupling for 3D Gaussian Splatting-based Occupancy Prediction](https://arxiv.org/abs/2506.14825v2)** | 2025-07-02 |  |
 | **[RoboPearls: Editable Video Simulation for Robot Manipulation](https://arxiv.org/abs/2506.22756v1)** | 2025-06-28 | ICCV 2025 |
-| **[MADrive: Memory-Augmented Driving Scene Modeling](https://arxiv.org/abs/2506.21520v1)** | 2025-06-26 |  |
 | **[ICP-3DGS: SfM-free 3D Gaussian Splatting for Large-scale Unbounded Scenes](https://arxiv.org/abs/2506.21629v1)** | 2025-06-24 | <details><summary>6 pag...</summary><p>6 pages, Source code is available at https://github.com/Chenhao-Z/ICP-3DGS. To appear at ICIP 2025</p></details> |
 | **[Virtual Memory for 3D Gaussian Splatting](https://arxiv.org/abs/2506.19415v1)** | 2025-06-24 | <details><summary>Based...</summary><p>Based on the Master Thesis from Jonathan Haberl from 2024, Submitted to TVCG in Feb. 2025;</p></details> |
 | **[GRAND-SLAM: Local Optimization for Globally Consistent Large-Scale Multi-Agent Gaussian SLAM](https://arxiv.org/abs/2506.18885v1)** | 2025-06-23 |  |
