@@ -7,7 +7,7 @@ Only the most recent articles for each keyword are retained, up to a maximum of 
 
 You can click the 'Watch' button to receive daily email notifications.
 
-Last update: 2025-12-29
+Last update: 2025-12-30
 
 ## Must: 3D Gaussian Splatting; Any: LOD, large-scale, on the fly, lidar
 | **Title** | **Date** | **Abstract** | **Comment** |
