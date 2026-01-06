@@ -1,5 +1,5 @@
 ---
-title: Latest 150 Papers - January 05, 2026
+title: Latest 150 Papers - January 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Must: 3D Gaussian Splatting; Any: LOD, large-scale, on the fly, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PMGS: Reconstruction of Projectile Motion Across Large Spatiotemporal Spans via 3D Gaussian Splatting](https://arxiv.org/abs/2508.02660v3)** | 2026-01-05 |  |
 | **[A-TDOM: Active TDOM via On-the-Fly 3DGS](https://arxiv.org/abs/2509.12759v3)** | 2025-12-26 |  |
 | **[Nebula: Enable City-Scale 3D Gaussian Splatting in Virtual Reality via Collaborative Rendering and Accelerated Stereo Rasterization](https://arxiv.org/abs/2512.20495v1)** | 2025-12-23 |  |
 | **[Pointmap-Conditioned Diffusion for Consistent Novel View Synthesis](https://arxiv.org/abs/2501.02913v2)** | 2025-12-23 | <details><summary>WACV ...</summary><p>WACV 2026. Project page: https://ntaquan0125.github.io/pointmap-conditioned-diffusion</p></details> |
@@ -44,7 +45,6 @@ labels: documentation
 | **[GaussianFocus: Constrained Attention Focus for 3D Gaussian Splatting](https://arxiv.org/abs/2503.17798v2)** | 2025-11-16 |  |
 | **[Duplex-GS: Proxy-Guided Weighted Blending for Real-Time Order-Independent Gaussian Splatting](https://arxiv.org/abs/2508.03180v2)** | 2025-11-14 | submitted to TCSVT |
 | **[4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching](https://arxiv.org/abs/2412.13639v4)** | 2025-11-12 | <details><summary>Our c...</summary><p>Our code and results can be publicly accessed at: https://github.com/robotics-upo/gaussian-rio-cpp</p></details> |
-| **[PMGS: Reconstruction of Projectile Motion Across Large Spatiotemporal Spans via 3D Gaussian Splatting](https://arxiv.org/abs/2508.02660v2)** | 2025-11-11 |  |
 | **[GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Geometric Filtering](https://arxiv.org/abs/2510.14270v3)** | 2025-11-10 |  |
 | **[Robust and High-Fidelity 3D Gaussian Splatting: Fusing Pose Priors and Geometry Constraints for Texture-Deficient Outdoor Scenes](https://arxiv.org/abs/2511.06765v1)** | 2025-11-10 | <details><summary>7 pag...</summary><p>7 pages, 3 figures. Accepted by IROS 2025</p></details> |
 | **[Efficient representation of 3D spatial data for defense-related applications](https://arxiv.org/abs/2511.05109v1)** | 2025-11-07 |  |
@@ -205,6 +205,7 @@ labels: documentation
 ## Must: slam, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Differential Barometric Altimetry for Submeter Vertical Localization and Floor Recognition Indoors](https://arxiv.org/abs/2601.02184v1)** | 2026-01-05 |  |
 | **[Tackling the Kidnapped Robot Problem via Sparse Feasible Hypothesis Sampling and Reliable Batched Multi-Stage Inference](https://arxiv.org/abs/2511.01219v3)** | 2026-01-02 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Integration of UWB Radar on Mobile Robots for Continuous Obstacle and Environment Mapping](https://arxiv.org/abs/2512.01018v2)** | 2025-12-17 | <details><summary>This ...</summary><p>This paper has been submitted to IEEE Access Journal and is currently undergoing review</p></details> |
 | **[Registering the 4D Millimeter Wave Radar Point Clouds Via Generalized Method of Moments](https://arxiv.org/abs/2508.02187v2)** | 2025-12-17 |  |
@@ -354,5 +355,4 @@ labels: documentation
 | **[Development of a Service Robot for Hospital Environments in Rehabilitation Medicine with LiDAR Based Simultaneous Localization and Mapping](https://arxiv.org/abs/2411.04797v1)** | 2024-11-07 |  |
 | **[S3E: A Multi-Robot Multimodal Dataset for Collaborative SLAM](https://arxiv.org/abs/2210.13723v8)** | 2024-10-27 | <details><summary>Accep...</summary><p>Accepted by IEEE Robotics and Automation Letters (RA-L)</p></details> |
 | **[Non-Interrupting Rail Track Geometry Measurement System Using UAV and LiDAR](https://arxiv.org/abs/2410.10832v2)** | 2024-10-26 |  |
-| **[Impact of 3D LiDAR Resolution in Graph-based SLAM Approaches: A Comparative Study](https://arxiv.org/abs/2410.17171v1)** | 2024-10-22 | <details><summary>This ...</summary><p>This work has been accepted for publication in ROBOT24</p></details> |
 
