@@ -1,5 +1,5 @@
 ---
-title: Latest 150 Papers - January 12, 2026
+title: Latest 150 Papers - January 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Must: 3D Gaussian Splatting; Any: LOD, large-scale, on the fly, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VPGS-SLAM: Voxel-based Progressive 3D Gaussian SLAM in Large-Scale Scenes](https://arxiv.org/abs/2505.18992v2)** | 2026-01-10 |  |
+| **[Frequency-Aware Gaussian Splatting Decomposition](https://arxiv.org/abs/2503.21226v2)** | 2026-01-09 | <details><summary>Accep...</summary><p>Accepted to the International Conference on 3D Vision (3DV) 2026</p></details> |
 | **[PMGS: Reconstruction of Projectile Motion Across Large Spatiotemporal Spans via 3D Gaussian Splatting](https://arxiv.org/abs/2508.02660v3)** | 2026-01-05 |  |
 | **[A-TDOM: Active TDOM via On-the-Fly 3DGS](https://arxiv.org/abs/2509.12759v3)** | 2025-12-26 |  |
 | **[Nebula: Enable City-Scale 3D Gaussian Splatting in Virtual Reality via Collaborative Rendering and Accelerated Stereo Rasterization](https://arxiv.org/abs/2512.20495v1)** | 2025-12-23 |  |
@@ -140,7 +142,6 @@ labels: documentation
 | **[Holistic Large-Scale Scene Reconstruction via Mixed Gaussian Splatting](https://arxiv.org/abs/2505.23280v1)** | 2025-05-29 |  |
 | **[Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting](https://arxiv.org/abs/2505.20729v1)** | 2025-05-27 |  |
 | **[FHGS: Feature-Homogenized Gaussian Splatting](https://arxiv.org/abs/2505.19154v1)** | 2025-05-25 |  |
-| **[VPGS-SLAM: Voxel-based Progressive 3D Gaussian SLAM in Large-Scale Scenes](https://arxiv.org/abs/2505.18992v1)** | 2025-05-25 |  |
 | **[Pose Splatter: A 3D Gaussian Splatting Model for Quantifying Animal Pose and Appearance](https://arxiv.org/abs/2505.18342v1)** | 2025-05-23 | 19 pages, 13 figures |
 | **[From Flight to Insight: Semantic 3D Reconstruction for Aerial Inspection via Gaussian Splatting and Language-Guided Segmentation](https://arxiv.org/abs/2505.17402v1)** | 2025-05-23 |  |
 | **[GS2E: Gaussian Splatting is an Effective Data Generator for Event Stream Generation](https://arxiv.org/abs/2505.15287v1)** | 2025-05-21 | <details><summary>21 pa...</summary><p>21 pages, 7 figures. More details at http://intothemild.github.io/GS2E.github.io</p></details> |
@@ -156,7 +157,6 @@ labels: documentation
 | **[NGM-SLAM: Gaussian Splatting SLAM with Radiance Field Submap](https://arxiv.org/abs/2405.05702v8)** | 2025-04-24 | 9pages, 4 figures |
 | **[SEGA: Drivable 3D Gaussian Head Avatar from a Single Image](https://arxiv.org/abs/2504.14373v2)** | 2025-04-23 |  |
 | **[Volume Encoding Gaussians: Transfer Function-Agnostic 3D Gaussians for Volume Rendering](https://arxiv.org/abs/2504.13339v1)** | 2025-04-17 |  |
-| **[CAGS: Open-Vocabulary 3D Scene Understanding with Context-Aware Gaussian Splatting](https://arxiv.org/abs/2504.11893v1)** | 2025-04-16 |  |
 
 ## Must: light curves; Any: inversion, reconstruction, deep learning
 | **Title** | **Date** | **Comment** |
@@ -205,6 +205,8 @@ labels: documentation
 ## Must: slam, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AgriLiRa4D: A Multi-Sensor UAV Dataset for Robust SLAM in Challenging Agricultural Fields](https://arxiv.org/abs/2512.01753v2)** | 2026-01-12 |  |
+| **[Navigation Around Unknown Space Objects Using Visible-Thermal Image Fusion](https://arxiv.org/abs/2512.12203v2)** | 2026-01-12 | <details><summary>18 pa...</summary><p>18 pages, 11 figures. To be published in proceedings of AIAA SCITECH 2026 Forum</p></details> |
 | **[Tackling the Kidnapped Robot Problem via Sparse Feasible Hypothesis Sampling and Reliable Batched Multi-Stage Inference](https://arxiv.org/abs/2511.01219v4)** | 2026-01-07 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Differential Barometric Altimetry for Submeter Vertical Localization and Floor Recognition Indoors](https://arxiv.org/abs/2601.02184v1)** | 2026-01-05 |  |
 | **[Integration of UWB Radar on Mobile Robots for Continuous Obstacle and Environment Mapping](https://arxiv.org/abs/2512.01018v2)** | 2025-12-17 | <details><summary>This ...</summary><p>This paper has been submitted to IEEE Access Journal and is currently undergoing review</p></details> |
@@ -212,7 +214,6 @@ labels: documentation
 | **[Odyssey: An Automotive Lidar-Inertial Odometry Dataset for GNSS-denied situations](https://arxiv.org/abs/2512.14428v1)** | 2025-12-16 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, submitted to International Journal of Robotics Research (IJRR)</p></details> |
 | **[Field evaluation and optimization of a lightweight lidar-based UAV navigation system for dense boreal forest environments](https://arxiv.org/abs/2512.14340v1)** | 2025-12-16 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[INDOOR-LiDAR: Bridging Simulation and Reality for Robot-Centric 360 degree Indoor LiDAR Perception -- A Robot-Centric Hybrid Dataset](https://arxiv.org/abs/2512.12377v1)** | 2025-12-13 |  |
-| **[Navigation Around Unknown Space Objects Using Visible-Thermal Image Fusion](https://arxiv.org/abs/2512.12203v1)** | 2025-12-13 | <details><summary>18 pa...</summary><p>18 pages, 11 figures. To be published in proceedings of AIAA SCITECH 2026 Forum</p></details> |
 | **[CLASH: Collaborative Large-Small Hierarchical Framework for Continuous Vision-and-Language Navigation](https://arxiv.org/abs/2512.10360v1)** | 2025-12-11 |  |
 | **[PUL-SLAM: Path-Uncertainty Co-Optimization with Lightweight Stagnation Detection for Efficient Robotic Exploration](https://arxiv.org/abs/2511.04180v2)** | 2025-12-10 |  |
 | **[Super4DR: 4D Radar-centric Self-supervised Odometry and Gaussian-based Map Optimization](https://arxiv.org/abs/2512.09608v1)** | 2025-12-10 | 17 pages, 20 figures |
@@ -222,7 +223,6 @@ labels: documentation
 | **[Traversability Aware Autonomous Navigation for Multi-Modal Mobility Morphobot (M4)](https://arxiv.org/abs/2512.11876v1)** | 2025-12-07 | Master's thesis |
 | **[ARCAS: An Augmented Reality Collision Avoidance System with SLAM-Based Tracking for Enhancing VRU Safety](https://arxiv.org/abs/2512.05299v1)** | 2025-12-04 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 1 table</p></details> |
 | **[TEMPO-VINE: A Multi-Temporal Sensor Fusion Dataset for Localization and Mapping in Vineyards](https://arxiv.org/abs/2512.04772v1)** | 2025-12-04 |  |
-| **[AgriLiRa4D: A Multi-Sensor UAV Dataset for Robust SLAM in Challenging Agricultural Fields](https://arxiv.org/abs/2512.01753v1)** | 2025-12-01 |  |
 | **[A Minimal Subset Approach for Informed Keyframe Sampling in Large-Scale SLAM](https://arxiv.org/abs/2501.01791v3)** | 2025-11-29 | <details><summary>Pleas...</summary><p>Please cite the published version. 8 pages, 9 figures</p></details> |
 | **[CRISTAL: Real-time Camera Registration in Static LiDAR Scans using Neural Rendering](https://arxiv.org/abs/2511.16349v1)** | 2025-11-20 |  |
 | **[Rad-GS: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments](https://arxiv.org/abs/2511.16091v1)** | 2025-11-20 |  |
