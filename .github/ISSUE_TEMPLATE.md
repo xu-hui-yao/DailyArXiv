@@ -1,5 +1,5 @@
 ---
-title: Latest 150 Papers - January 13, 2026
+title: Latest 150 Papers - January 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Must: 3D Gaussian Splatting; Any: LOD, large-scale, on the fly, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Volume Encoding Gaussians: Transfer Function-Agnostic 3D Gaussians for Volume Rendering](https://arxiv.org/abs/2504.13339v2)** | 2026-01-12 |  |
 | **[VPGS-SLAM: Voxel-based Progressive 3D Gaussian SLAM in Large-Scale Scenes](https://arxiv.org/abs/2505.18992v2)** | 2026-01-10 |  |
 | **[Frequency-Aware Gaussian Splatting Decomposition](https://arxiv.org/abs/2503.21226v2)** | 2026-01-09 | <details><summary>Accep...</summary><p>Accepted to the International Conference on 3D Vision (3DV) 2026</p></details> |
 | **[PMGS: Reconstruction of Projectile Motion Across Large Spatiotemporal Spans via 3D Gaussian Splatting](https://arxiv.org/abs/2508.02660v3)** | 2026-01-05 |  |
@@ -156,7 +157,6 @@ labels: documentation
 | **[Wonderland: Navigating 3D Scenes from a Single Image](https://arxiv.org/abs/2412.12091v2)** | 2025-04-26 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/wonderland/</p></details> |
 | **[NGM-SLAM: Gaussian Splatting SLAM with Radiance Field Submap](https://arxiv.org/abs/2405.05702v8)** | 2025-04-24 | 9pages, 4 figures |
 | **[SEGA: Drivable 3D Gaussian Head Avatar from a Single Image](https://arxiv.org/abs/2504.14373v2)** | 2025-04-23 |  |
-| **[Volume Encoding Gaussians: Transfer Function-Agnostic 3D Gaussians for Volume Rendering](https://arxiv.org/abs/2504.13339v1)** | 2025-04-17 |  |
 
 ## Must: light curves; Any: inversion, reconstruction, deep learning
 | **Title** | **Date** | **Comment** |
