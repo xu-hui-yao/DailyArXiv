@@ -1,5 +1,5 @@
 ---
-title: Latest 150 Papers - January 14, 2026
+title: Latest 150 Papers - January 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Must: 3D Gaussian Splatting; Any: LOD, large-scale, on the fly, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Variable Basis Mapping for Real-Time Volumetric Visualization](https://arxiv.org/abs/2601.09417v1)** | 2026-01-14 | <details><summary>11 pa...</summary><p>11 pages. Under review</p></details> |
 | **[Volume Encoding Gaussians: Transfer Function-Agnostic 3D Gaussians for Volume Rendering](https://arxiv.org/abs/2504.13339v2)** | 2026-01-12 |  |
 | **[VPGS-SLAM: Voxel-based Progressive 3D Gaussian SLAM in Large-Scale Scenes](https://arxiv.org/abs/2505.18992v2)** | 2026-01-10 |  |
 | **[Frequency-Aware Gaussian Splatting Decomposition](https://arxiv.org/abs/2503.21226v2)** | 2026-01-09 | <details><summary>Accep...</summary><p>Accepted to the International Conference on 3D Vision (3DV) 2026</p></details> |
@@ -156,7 +157,6 @@ labels: documentation
 | **[CrossView-GS: Cross-view Gaussian Splatting For Large-scale Scene Reconstruction](https://arxiv.org/abs/2501.01695v2)** | 2025-04-28 |  |
 | **[Wonderland: Navigating 3D Scenes from a Single Image](https://arxiv.org/abs/2412.12091v2)** | 2025-04-26 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/wonderland/</p></details> |
 | **[NGM-SLAM: Gaussian Splatting SLAM with Radiance Field Submap](https://arxiv.org/abs/2405.05702v8)** | 2025-04-24 | 9pages, 4 figures |
-| **[SEGA: Drivable 3D Gaussian Head Avatar from a Single Image](https://arxiv.org/abs/2504.14373v2)** | 2025-04-23 |  |
 
 ## Must: light curves; Any: inversion, reconstruction, deep learning
 | **Title** | **Date** | **Comment** |
@@ -205,9 +205,10 @@ labels: documentation
 ## Must: slam, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multimodal Signal Processing For Thermo-Visible-Lidar Fusion In Real-time 3D Semantic Mapping](https://arxiv.org/abs/2601.09578v1)** | 2026-01-14 | <details><summary>5 pag...</summary><p>5 pages,7 figures. Under review</p></details> |
+| **[Tackling the Kidnapped Robot Problem via Sparse Feasible Hypothesis Sampling and Reliable Batched Multi-Stage Inference](https://arxiv.org/abs/2511.01219v5)** | 2026-01-14 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[AgriLiRa4D: A Multi-Sensor UAV Dataset for Robust SLAM in Challenging Agricultural Fields](https://arxiv.org/abs/2512.01753v2)** | 2026-01-12 |  |
 | **[Navigation Around Unknown Space Objects Using Visible-Thermal Image Fusion](https://arxiv.org/abs/2512.12203v2)** | 2026-01-12 | <details><summary>18 pa...</summary><p>18 pages, 11 figures. To be published in proceedings of AIAA SCITECH 2026 Forum</p></details> |
-| **[Tackling the Kidnapped Robot Problem via Sparse Feasible Hypothesis Sampling and Reliable Batched Multi-Stage Inference](https://arxiv.org/abs/2511.01219v4)** | 2026-01-07 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Differential Barometric Altimetry for Submeter Vertical Localization and Floor Recognition Indoors](https://arxiv.org/abs/2601.02184v1)** | 2026-01-05 |  |
 | **[Integration of UWB Radar on Mobile Robots for Continuous Obstacle and Environment Mapping](https://arxiv.org/abs/2512.01018v2)** | 2025-12-17 | <details><summary>This ...</summary><p>This paper has been submitted to IEEE Access Journal and is currently undergoing review</p></details> |
 | **[Registering the 4D Millimeter Wave Radar Point Clouds Via Generalized Method of Moments](https://arxiv.org/abs/2508.02187v2)** | 2025-12-17 |  |
@@ -354,5 +355,4 @@ labels: documentation
 | **[Development of an indoor localization and navigation system based on monocular SLAM for mobile robots](https://arxiv.org/abs/2411.05337v1)** | 2024-11-08 | <details><summary>In Th...</summary><p>In The 25th National Conference on Electronics, Communications and Information Technology (REV-ECIT 2022), Hanoi, Vietnam. in Vietnamese language</p></details> |
 | **[Development of a Service Robot for Hospital Environments in Rehabilitation Medicine with LiDAR Based Simultaneous Localization and Mapping](https://arxiv.org/abs/2411.04797v1)** | 2024-11-07 |  |
 | **[S3E: A Multi-Robot Multimodal Dataset for Collaborative SLAM](https://arxiv.org/abs/2210.13723v8)** | 2024-10-27 | <details><summary>Accep...</summary><p>Accepted by IEEE Robotics and Automation Letters (RA-L)</p></details> |
-| **[Non-Interrupting Rail Track Geometry Measurement System Using UAV and LiDAR](https://arxiv.org/abs/2410.10832v2)** | 2024-10-26 |  |
 
