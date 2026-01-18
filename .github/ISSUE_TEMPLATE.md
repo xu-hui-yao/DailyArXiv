@@ -1,5 +1,5 @@
 ---
-title: Latest 150 Papers - January 15, 2026
+title: Latest 150 Papers - January 18, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
