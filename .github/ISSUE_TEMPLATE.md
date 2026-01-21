@@ -1,5 +1,5 @@
 ---
-title: Latest 150 Papers - January 20, 2026
+title: Latest 150 Papers - January 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Must: 3D Gaussian Splatting; Any: LOD, large-scale, on the fly, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TreeDGS: Aerial Gaussian Splatting for Distant DBH Measurement](https://arxiv.org/abs/2601.12823v1)** | 2026-01-19 |  |
 | **[Variable Basis Mapping for Real-Time Volumetric Visualization](https://arxiv.org/abs/2601.09417v1)** | 2026-01-14 | <details><summary>11 pa...</summary><p>11 pages. Under review</p></details> |
 | **[Volume Encoding Gaussians: Transfer Function-Agnostic 3D Gaussians for Volume Rendering](https://arxiv.org/abs/2504.13339v2)** | 2026-01-12 |  |
 | **[VPGS-SLAM: Voxel-based Progressive 3D Gaussian SLAM in Large-Scale Scenes](https://arxiv.org/abs/2505.18992v2)** | 2026-01-10 |  |
@@ -156,7 +157,6 @@ labels: documentation
 | **[CE-NPBG: Connectivity Enhanced Neural Point-Based Graphics for Novel View Synthesis in Autonomous Driving Scenes](https://arxiv.org/abs/2504.19557v1)** | 2025-04-28 | <details><summary>Accep...</summary><p>Accepted in 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</p></details> |
 | **[CrossView-GS: Cross-view Gaussian Splatting For Large-scale Scene Reconstruction](https://arxiv.org/abs/2501.01695v2)** | 2025-04-28 |  |
 | **[Wonderland: Navigating 3D Scenes from a Single Image](https://arxiv.org/abs/2412.12091v2)** | 2025-04-26 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/wonderland/</p></details> |
-| **[NGM-SLAM: Gaussian Splatting SLAM with Radiance Field Submap](https://arxiv.org/abs/2405.05702v8)** | 2025-04-24 | 9pages, 4 figures |
 
 ## Must: light curves; Any: inversion, reconstruction, deep learning
 | **Title** | **Date** | **Comment** |
@@ -205,6 +205,8 @@ labels: documentation
 ## Must: slam, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Omni-LIVO: Robust RGB-Colored Multi-Camera Visual-Inertial-LiDAR Odometry via Photometric Migration and ESIKF Fusion](https://arxiv.org/abs/2509.15673v3)** | 2026-01-20 |  |
+| **[R-VoxelMap: Accurate Voxel Mapping with Recursive Plane Fitting for Online LiDAR Odometry](https://arxiv.org/abs/2601.12377v1)** | 2026-01-18 |  |
 | **[Multimodal Signal Processing For Thermo-Visible-Lidar Fusion In Real-time 3D Semantic Mapping](https://arxiv.org/abs/2601.09578v1)** | 2026-01-14 | <details><summary>5 pag...</summary><p>5 pages,7 figures. Under review</p></details> |
 | **[Tackling the Kidnapped Robot Problem via Sparse Feasible Hypothesis Sampling and Reliable Batched Multi-Stage Inference](https://arxiv.org/abs/2511.01219v5)** | 2026-01-14 | <details><summary>10 pa...</summary><p>10 pages, 8 figures. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[AgriLiRa4D: A Multi-Sensor UAV Dataset for Robust SLAM in Challenging Agricultural Fields](https://arxiv.org/abs/2512.01753v2)** | 2026-01-12 |  |
@@ -219,7 +221,6 @@ labels: documentation
 | **[PUL-SLAM: Path-Uncertainty Co-Optimization with Lightweight Stagnation Detection for Efficient Robotic Exploration](https://arxiv.org/abs/2511.04180v2)** | 2025-12-10 |  |
 | **[Super4DR: 4D Radar-centric Self-supervised Odometry and Gaussian-based Map Optimization](https://arxiv.org/abs/2512.09608v1)** | 2025-12-10 | 17 pages, 20 figures |
 | **[A Sensor-Aware Phenomenological Framework for Lidar Degradation Simulation and SLAM Robustness Evaluation](https://arxiv.org/abs/2512.08653v1)** | 2025-12-09 |  |
-| **[Omni-LIVO: Robust RGB-Colored Multi-Camera Visual-Inertial-LiDAR Odometry via Photometric Migration and ESIKF Fusion](https://arxiv.org/abs/2509.15673v2)** | 2025-12-09 |  |
 | **[OptMap: Geometric Map Distillation via Submodular Maximization](https://arxiv.org/abs/2512.07775v1)** | 2025-12-08 |  |
 | **[Traversability Aware Autonomous Navigation for Multi-Modal Mobility Morphobot (M4)](https://arxiv.org/abs/2512.11876v1)** | 2025-12-07 | Master's thesis |
 | **[ARCAS: An Augmented Reality Collision Avoidance System with SLAM-Based Tracking for Enhancing VRU Safety](https://arxiv.org/abs/2512.05299v1)** | 2025-12-04 | <details><summary>8 pag...</summary><p>8 pages, 3 figures, 1 table</p></details> |
@@ -354,5 +355,4 @@ labels: documentation
 | **[Benchmarking SLAM Algorithms in the Cloud: The SLAM Hive Benchmarking Suite](https://arxiv.org/abs/2406.17586v2)** | 2024-11-14 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2303.11854</p></details> |
 | **[Development of an indoor localization and navigation system based on monocular SLAM for mobile robots](https://arxiv.org/abs/2411.05337v1)** | 2024-11-08 | <details><summary>In Th...</summary><p>In The 25th National Conference on Electronics, Communications and Information Technology (REV-ECIT 2022), Hanoi, Vietnam. in Vietnamese language</p></details> |
 | **[Development of a Service Robot for Hospital Environments in Rehabilitation Medicine with LiDAR Based Simultaneous Localization and Mapping](https://arxiv.org/abs/2411.04797v1)** | 2024-11-07 |  |
-| **[S3E: A Multi-Robot Multimodal Dataset for Collaborative SLAM](https://arxiv.org/abs/2210.13723v8)** | 2024-10-27 | <details><summary>Accep...</summary><p>Accepted by IEEE Robotics and Automation Letters (RA-L)</p></details> |
 
