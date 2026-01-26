@@ -1,5 +1,5 @@
 ---
-title: Latest 150 Papers - January 25, 2026
+title: Latest 150 Papers - January 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Must: 3D Gaussian Splatting; Any: LOD, large-scale, on the fly, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ReWeaver: Towards Simulation-Ready and Topology-Accurate Garment Reconstruction](https://arxiv.org/abs/2601.16672v1)** | 2026-01-23 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, Submitted to CVPR 2026</p></details> |
 | **[TreeDGS: Aerial Gaussian Splatting for Distant DBH Measurement](https://arxiv.org/abs/2601.12823v1)** | 2026-01-19 |  |
 | **[Variable Basis Mapping for Real-Time Volumetric Visualization](https://arxiv.org/abs/2601.09417v1)** | 2026-01-14 | <details><summary>11 pa...</summary><p>11 pages. Under review</p></details> |
 | **[Volume Encoding Gaussians: Transfer Function-Agnostic 3D Gaussians for Volume Rendering](https://arxiv.org/abs/2504.13339v2)** | 2026-01-12 |  |
@@ -156,7 +157,6 @@ labels: documentation
 | **[HI-SLAM2: Geometry-Aware Gaussian SLAM for Fast Monocular Scene Reconstruction](https://arxiv.org/abs/2411.17982v2)** | 2025-04-29 | Under review process |
 | **[CE-NPBG: Connectivity Enhanced Neural Point-Based Graphics for Novel View Synthesis in Autonomous Driving Scenes](https://arxiv.org/abs/2504.19557v1)** | 2025-04-28 | <details><summary>Accep...</summary><p>Accepted in 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)</p></details> |
 | **[CrossView-GS: Cross-view Gaussian Splatting For Large-scale Scene Reconstruction](https://arxiv.org/abs/2501.01695v2)** | 2025-04-28 |  |
-| **[Wonderland: Navigating 3D Scenes from a Single Image](https://arxiv.org/abs/2412.12091v2)** | 2025-04-26 | <details><summary>Proje...</summary><p>Project page: https://snap-research.github.io/wonderland/</p></details> |
 
 ## Must: light curves; Any: inversion, reconstruction, deep learning
 | **Title** | **Date** | **Comment** |
@@ -205,6 +205,7 @@ labels: documentation
 ## Must: slam, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CLASH: Collaborative Large-Small Hierarchical Framework for Continuous Vision-and-Language Navigation](https://arxiv.org/abs/2512.10360v2)** | 2026-01-23 |  |
 | **[Omni-LIVO: Robust RGB-Colored Multi-Camera Visual-Inertial-LiDAR Odometry via Photometric Migration and ESIKF Fusion](https://arxiv.org/abs/2509.15673v3)** | 2026-01-20 |  |
 | **[R-VoxelMap: Accurate Voxel Mapping with Recursive Plane Fitting for Online LiDAR Odometry](https://arxiv.org/abs/2601.12377v1)** | 2026-01-18 |  |
 | **[Multimodal Signal Processing For Thermo-Visible-Lidar Fusion In Real-time 3D Semantic Mapping](https://arxiv.org/abs/2601.09578v1)** | 2026-01-14 | <details><summary>5 pag...</summary><p>5 pages,7 figures. Under review</p></details> |
@@ -217,7 +218,6 @@ labels: documentation
 | **[Odyssey: An Automotive Lidar-Inertial Odometry Dataset for GNSS-denied situations](https://arxiv.org/abs/2512.14428v1)** | 2025-12-16 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, submitted to International Journal of Robotics Research (IJRR)</p></details> |
 | **[Field evaluation and optimization of a lightweight lidar-based UAV navigation system for dense boreal forest environments](https://arxiv.org/abs/2512.14340v1)** | 2025-12-16 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[INDOOR-LiDAR: Bridging Simulation and Reality for Robot-Centric 360 degree Indoor LiDAR Perception -- A Robot-Centric Hybrid Dataset](https://arxiv.org/abs/2512.12377v1)** | 2025-12-13 |  |
-| **[CLASH: Collaborative Large-Small Hierarchical Framework for Continuous Vision-and-Language Navigation](https://arxiv.org/abs/2512.10360v1)** | 2025-12-11 |  |
 | **[PUL-SLAM: Path-Uncertainty Co-Optimization with Lightweight Stagnation Detection for Efficient Robotic Exploration](https://arxiv.org/abs/2511.04180v2)** | 2025-12-10 |  |
 | **[Super4DR: 4D Radar-centric Self-supervised Odometry and Gaussian-based Map Optimization](https://arxiv.org/abs/2512.09608v1)** | 2025-12-10 | 17 pages, 20 figures |
 | **[A Sensor-Aware Phenomenological Framework for Lidar Degradation Simulation and SLAM Robustness Evaluation](https://arxiv.org/abs/2512.08653v1)** | 2025-12-09 |  |
