@@ -1,5 +1,5 @@
 ---
-title: Latest 150 Papers - January 27, 2026
+title: Latest 150 Papers - January 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -205,6 +205,7 @@ labels: documentation
 ## Must: slam, lidar
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The S3LI Vulcano Dataset: A Dataset for Multi-Modal SLAM in Unstructured Planetary Environments](https://arxiv.org/abs/2601.19557v1)** | 2026-01-27 | <details><summary>Accep...</summary><p>Accepted submission to the 2026 IEEE Aerospace Conference</p></details> |
 | **[CLASH: Collaborative Large-Small Hierarchical Framework for Continuous Vision-and-Language Navigation](https://arxiv.org/abs/2512.10360v2)** | 2026-01-23 |  |
 | **[Omni-LIVO: Robust RGB-Colored Multi-Camera Visual-Inertial-LiDAR Odometry via Photometric Migration and ESIKF Fusion](https://arxiv.org/abs/2509.15673v3)** | 2026-01-20 |  |
 | **[R-VoxelMap: Accurate Voxel Mapping with Recursive Plane Fitting for Online LiDAR Odometry](https://arxiv.org/abs/2601.12377v1)** | 2026-01-18 |  |
@@ -354,5 +355,4 @@ labels: documentation
 | **[ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets](https://arxiv.org/abs/2406.16713v4)** | 2024-11-14 | <details><summary>19 pa...</summary><p>19 pages, 27 figures. Submitted to IEEE Transactions on Robotics</p></details> |
 | **[Benchmarking SLAM Algorithms in the Cloud: The SLAM Hive Benchmarking Suite](https://arxiv.org/abs/2406.17586v2)** | 2024-11-14 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2303.11854</p></details> |
 | **[Development of an indoor localization and navigation system based on monocular SLAM for mobile robots](https://arxiv.org/abs/2411.05337v1)** | 2024-11-08 | <details><summary>In Th...</summary><p>In The 25th National Conference on Electronics, Communications and Information Technology (REV-ECIT 2022), Hanoi, Vietnam. in Vietnamese language</p></details> |
-| **[Development of a Service Robot for Hospital Environments in Rehabilitation Medicine with LiDAR Based Simultaneous Localization and Mapping](https://arxiv.org/abs/2411.04797v1)** | 2024-11-07 |  |
 
